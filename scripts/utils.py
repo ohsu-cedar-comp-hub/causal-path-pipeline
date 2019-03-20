@@ -6,8 +6,7 @@ def generate_proteomics_data(sub_data, relnm):
     """ Write out phospho-proteomices datafile to designated output directory
 
     Args:
-        sub_data (:obj: `pandas DataFrame`) : pandas DataFrame containing processed phospho data with conserved
-            phosphosites from mouse to human
+        sub_data (:obj: `pandas DataFrame`) : pandas DataFrame containing processed phospho data
         relnm (str): out path for analysis files
 
     """
@@ -17,18 +16,21 @@ def generate_proteomics_data(sub_data, relnm):
 
 
 def generate_data_files(phospho_prot, merged_meta, condition, **kwargs):
-    """
+    """ Subset and index phosphoproteomic data to generate a comparison using two factor levels in the condition
+         column of the meta data file
 
     Args:
-        phospho_prot:
-        merged_meta:
-        **kwargs:
-
+        phospho_prot (:obj: `pandas DataFrame`) : pandas DataFrame containing processed phospho data
+        merged_meta (:obj: `pandas DataFrame`) : pandas DataFrame containing experiment specific meta data of
+            shape [n_samples, ]
     Returns:
+        sub_data (:obj: `pandas DataFrame`) : pandas DataFrame containing subset of processed phosphoproteomic data
+        pre_rx (:obj: `list`): list of boolean values to index control/baseline samples
+        post_rx (:obj: `list`): list of boolean values to index treatment/contrast samples
 
     """
     print(kwargs)
-    print('Generating Time dependent ratio contrast')
+    print('Generating contrast based analysis files')
     subset_meta = merged_meta[merged_meta[condition].isin(kwargs[condition])]
     samps_idx = ['ID','Symbols','Sites','Effect'] + subset_meta.index.tolist()
     pre_rx = subset_meta[(subset_meta[condition] == kwargs[condition][0])].index
@@ -41,17 +43,18 @@ def generate_data_files(phospho_prot, merged_meta, condition, **kwargs):
 
 def generate_data_files_causal(phospho_prot, merged_meta, condition, **kwargs):
     """
-
     Args:
-        phospho_prot:
-        merged_meta:
-        **kwargs:
-
+        phospho_prot (:obj: `pandas DataFrame`) : pandas DataFrame containing processed phospho data
+        merged_meta (:obj: `pandas DataFrame`) : pandas DataFrame containing experiment specific meta data of
+            shape [n_samples, ]
     Returns:
-
-    """
+        sub_data (:obj: `pandas DataFrame`) : pandas DataFrame containing subset of processed phosphoproteomic data
+        pre_rx (:obj: `list`): list of boolean values to index control/baseline samples
+        post_rx (:obj: `list`): list of boolean values to index treatment/contrast samples
+ 
+   """
     print(kwargs)
-    print('Generating Time dependent correlation')
+    print('Generating correlation based analysis files')
     subset_meta = merged_meta[merged_meta[condition].isin(kwargs[condition])]
     samps_idx = ['ID','Symbols','Sites','Effect'] + subset_meta.index.tolist()
     pre_rx = subset_meta[(subset_meta[condition] == kwargs[condition][0])].index
@@ -80,7 +83,7 @@ def ensure_dir(relnm):
 
 
 def generate_parameter_file(relnm, test_samps, control_samps, value_transformation = 'significant-change-of-mean',
-                            fdr_threshold = '0.1', site_match = '5', site_effect = '5', permutations=1000):
+                            fdr_threshold = '0.1', ds_thresh='1.0', site_match = '5', site_effect = '5', permutations=1000):
     """ Generate the required CausalPath input parameters file that associates the ProteomicsData file with the
         parameters for the analysis
 
@@ -90,6 +93,7 @@ def generate_parameter_file(relnm, test_samps, control_samps, value_transformati
         control_samps (list): list of samples to be used as the control group or baseline in the analysis
         value_transformation (str): means of detecting changes between the test and control group
         fdr_threshold (str): False discovery rate threshold
+        ds_thresh (str): Threshold for data significance
         site_match (str): Associate sites with known site if site falls within n=site_match of known site
         site_effect (str): Associate sites with known activity of site if site falls within n=site_match of known site
 
@@ -105,10 +109,10 @@ def generate_parameter_file(relnm, test_samps, control_samps, value_transformati
         sig_dif_mean_params(out_f, test_samps, control_samps, panda_out, value_transformation, fdr_threshold = fdr_threshold, site_match = site_match, site_effect = site_effect, permutations = permutations)
 
     if value_transformation == 'difference-of-means':
-        dif_mean_params(out_f, test_samps, control_samps, panda_out, value_transformation, fdr_threshold = fdr_threshold, site_match = site_match, site_effect = site_effect, permutations = permutations)        
+        dif_mean_params(out_f, test_samps, control_samps, panda_out, value_transformation, fdr_threshold = fdr_threshold, ds_thresh = ds_thresh, site_match = site_match, site_effect = site_effect, permutations = permutations)        
     
     if value_transformation == 'fold-change-of-mean':
-        fc_mean_params(out_f, test_samps, control_samps, panda_out, value_transformation, fdr_threshold = fdr_threshold, site_match = site_match, site_effect = site_effect, permutations = permutations)        
+        fc_mean_params(out_f, test_samps, control_samps, panda_out, value_transformation, fdr_threshold = fdr_threshold, ds_thresh = ds_thresh, site_match = site_match, site_effect = site_effect, permutations = permutations)        
 
     if value_transformation == 'correlation':
         correlation_params(out_f, control_samps, panda_out, value_transformation, fdr_threshold = fdr_threshold, site_match = site_match, site_effect = site_effect, permutations = permutations)
@@ -167,6 +171,7 @@ def dif_mean_params(out_f, test_samps, control_samps, panda_out, value_transform
         panda_out (str): path to causalpath stored resources
         value_transformation (str): means of detecting changes between the test and control group
         fdr_threshold (str): False discovery rate threshold
+        ds_thresh (str): Threshold for data significance
         site_match (str): Associate sites with known site if site falls within n=site_match of known site
         site_effect (str): Associate sites with known activity of site if site falls within n=site_match of known site
                 permutations (int): number of random data permutations to see if the result network is large, or any protein's
@@ -207,6 +212,7 @@ def fc_mean_params(out_f, test_samps, control_samps, panda_out, value_transforma
         panda_out (str): path to causalpath stored resources
         value_transformation (str): means of detecting changes between the test and control group
         fdr_threshold (str): False discovery rate threshold
+        ds_thresh (str): Threshold for data significance
         site_match (str): Associate sites with known site if site falls within n=site_match of known site
         site_effect (str): Associate sites with known activity of site if site falls within n=site_match of known site
                 permutations (int): number of random data permutations to see if the result network is large, or any protein's

@@ -1,0 +1,3252 @@
+OFFICIAL_GENE_NAME	OFFICIAL_TF_CODING_GENE_NAME	REGULATION	REF	SPECIES	REF ACCESSION #
+1110021J02RIK	RBPJ	UP	Pubmed	mus musculus;	;15979417
+1700080O16RIK	GLI1	UP	Pubmed	mus musculus;	;19095649
+2210411K11RIK	RBPJ	DOWN	Pubmed	mus musculus;	;15979417
+4930523C07RIK	GLI1	DOWN	Pubmed	mus musculus;	;19095649
+A2M	STAT3	UP	Pubmed	human, Homo sapiens;	;11466367
+AANAT	CREB1	UP	trrd;	rat, Rattus norvegicus	S7777;
+AATF	CTNNB1	DOWN	Pubmed	human, Homo sapiens;	;16959035
+ABCA1	GLI2	DOWN	Pubmed	human, Homo sapiens	;14691458
+ABCA1	NR1H2	UP	Pubmed	human, Homo sapiens	;19258656
+ABCA1	NR1H3	UP	Pubmed	human, Homo sapiens	;19258656
+ABCA1	SP3	DOWN	trrd	human, Homo sapiens;	S7279;
+ABCA1	SREBF2	DOWN	Pubmed	;homo sapiens	;15358760
+ABCA3	CEBPA	UP	Pubmed	;homo sapiens; mus musculus	17890326;
+ABCA3	FOXA2	UP	Pubmed	;homo sapiens; mus musculus	;17890326
+ABCA3	GATA6	UP	Pubmed	human, Homo sapiens	;17890326
+ABCA3	NFATC3	UP	Pubmed	;homo sapiens; mus musculus	;17890326
+ABCA3	NKX2-1	UP	Pubmed	;homo sapiens; mus musculus	;17890326
+ABCA3	SREBF1	UP	Pubmed	hUman, Homo sapiens;	;17890326
+ABCB1	CEBPB	UP	Pubmed	;homo sapiens	9040943;
+ABCB1	CTNNB1	UP	Pubmed	mouse, Mus musculus; homo sapiens	;12154096;10987283;15592430
+ABCB1	EGR1	UP	Pubmed	human, Homo sapiens;	;7565762
+ABCB1	FOXO1	UP	Pubmed	human, Homo sapiens	;18301748
+ABCB1	HIF1A	UP	Pubmed	human, Homo sapiens	;17452336;
+ABCB1	NFKB1	UP	Pubmed	human, Homo sapiens	;12527911;
+ABCB1	RELA	UP	Pubmed	human, Homo sapiens	;12527911;
+ABCB1	RELB	UP	Pubmed	human, Homo sapiens	;12527911;
+ABCB1	SP1	UP	Pubmed	human, Homo sapiens;	;17363581;
+ABCB1	TCF7L2	UP	Pubmed	mouse, Mus musculus; homo sapiens	;12154096;10987283;15592430
+ABCB1	TP53	UP	pazar	human, Homo sapiens;	pazar_ABS;
+ABCC1	TP53	UP	pazar	hUman, Homo sapiens;	pazar_ABS;
+ABCC2	TP53	UP	pazar	hUman, Homo sapiens;	pazar_ABS;
+ABCC3	TP53	UP	pazar	hUman, Homo sapiens;	pazar_ABS;
+ABCC4	TP53	UP	pazar	hUman, Homo sapiens;	pazar_ABS;
+ABCC8	SP1	UP	trrd;	mouse, Mus musculus;	S7431;
+ABCD2	PPARA	UP	Pubmed	;mus musculus	;14654352
+ABCG1	NR1H2	UP	Pubmed	human, Homo sapiens	;19258656
+ABCG1	NR1H3	UP	Pubmed	human, Homo sapiens	;19258656
+ABCG5	NR1H2	UP	Pubmed	human, Homo sapiens	;19258656
+ABCG5	NR1H3	UP	Pubmed	human, Homo sapiens	;19258656
+ABCG8	NR1H2	UP	Pubmed	human, Homo sapiens	;19258656
+ABCG8	NR1H3	UP	Pubmed	human, Homo sapiens	;19258656
+ABI2	MYC	DOWN	Pubmed	rat, Rattus norvegicus	;11085504
+ACACA	SP1	UP	pazar	rat, Rattus norvegicus	;
+ACACA	SREBF1	UP	Pubmed	hUman, Homo sapiens;	;12871210
+ACADM	NR2F1	DOWN	trrd	hUman, Homo sapiens;	S2311;
+ACADSB	FOXO1	UP	Pubmed	human, Homo sapiens	;12351634;
+ACAT2	FOXO1	DOWN	Pubmed	mouse, Mus musculus;	;16492665;
+ACAT2	HNF1A	UP	Pubmed	mouse, Mus musculus;	;15961790
+ACAT2	SREBF1	UP	Pubmed	hUman, Homo sapiens;	;12145168
+ACE	EGR1	UP	Pubmed	human, Homo sapiens	;14679188;
+ACHE	EGR1	DOWN	pazar	human, Homo sapiens;	pazar_ABS;
+ACHE	GABPA	UP	trrd	rat, Rattus norvegicus	S7390;
+ACHE	SP1	UP	pazar; trrd	mouse, Mus musculus;	pazar_ABS; S1729; 
+ACLY	SP1	DOWN	trrd;	rat, Rattus norvegicus;	S7490;
+ACLY	SREBF1	UP	Pubmed	;homo sapiens	;10777536
+ACLY	SREBF2	UP	Pubmed	;homo sapiens	;10777536
+ACR	SREBF2	UP	Pubmed	;rattus norvegicus	;15572673
+ACSL1	SREBF1	UP	Pubmed	;mus musculus	;11739104
+ACSL1	SREBF2	UP	Pubmed	;mus musculus	;11739104
+ACSL4	MYC	DOWN	Pubmed	rat, Rattus norvegicus	;11085504
+ACSL5	FOXO1	DOWN	Pubmed	mouse, Mus musculus;	;16492665;
+ACSS2	SP1	UP	Pubmed	;mus musculus	;11435428
+ACSS2	SP3	UP	Pubmed	;mus musculus	;11435428
+ACSS2	SREBF1	UP	Pubmed	;mus musculus	;11435428
+ACSS2	SREBF2	UP	Pubmed	;mus musculus	;11435428
+ACTA2	RBPJ	DOWN	Pubmed	human, Homo sapiens; mus musculus	;15987768;16741155;15634680
+ACTA2	SMAD3	UP	Pubmed	;rattus norvegicus	;12702545
+ADA	GATA4	UP	NfiRegulomeDB	human, Homo sapiens	;
+ADA	PDX1	UP	NfiRegulomeDB	human, Homo sapiens	;
+ADA	SP1	UP	trrd;	human, Homo sapiens;	S4052;
+ADAM12	GLI1	DOWN	Pubmed	mus musculus;	;19095649
+ADAM19	NOTCH1	UP	Pubmed	mouse, Mus musculus;	;10933396
+ADAM19	RBPJ	UP	Pubmed	mouse, Mus musculus;	;10933396
+ADAM2	CTNNB1	DOWN	Pubmed	hUman, Homo sapiens;	;15979100
+ADAM2	LEF1	DOWN	Pubmed	hUman, Homo sapiens;	;15979100
+ADD3	GLI2	UP	Pubmed	human, Homo sapiens	;14691458
+ADH1A	CEBPB	UP	Pubmed	;Homo sapiens	1620113;
+ADH1A	DBP	UP	Pubmed	;Homo sapiens	;1620113
+ADH1A	HNF1A	UP	Pubmed	;Homo sapiens	;1620113
+ADH1B	CEBPA	UP	Pubmed	;Homo sapiens	1620113;
+ADH1B	CEBPB	UP	Pubmed	;Homo sapiens	1620113;
+ADH1B	DBP	UP	Pubmed	;Homo sapiens	;1620113
+ADH1C	CEBPB	UP	Pubmed	;Homo sapiens	1620113;
+ADH1C	DBP	UP	Pubmed	;Homo sapiens	;1620113
+ADIPOQ	FOXO1	UP	Pubmed	mouse, Mus musculus;	;17090532;
+ADM	CREB1	UP	Pubmed	mouse, Mus musculus;	;14973073
+ADM	FOXO1	UP	Pubmed	mouse, Mus musculus;	;17254969
+ADM	HIF1A	UP	Pubmed	human, Homo sapiens	;10847587;
+ADORA2A	RELA	DOWN	pazar	human, Homo sapiens	0
+ADRB1	EGR1	DOWN	trrd;	rat, Rattus norvegicus	S9259;
+ADRB1	SP1	UP	trrd;	rat, Rattus norvegicus	S9258;
+AFP	CEBPA	UP	NFIRegulomeDB;	rat, Rattus norvegicus	;
+AFP	HNF1A	UP	NfiRegulomeDB	rat, Rattus norvegicus	;
+AFP	NR3C1	DOWN	NfiRegulomeDB	rat, Rattus norvegicus	;
+AFP	TP53	DOWN	pazar	hUman, Homo sapiens;	pazar_ABS;
+AGR2	SOX2	UP	Pubmed	;mus musculus	;20011520
+AGRP	FOXO1	UP	Pubmed	human, Homo sapiens; mus musculus	;16783365;
+AGT	NR2F1	DOWN	trrd	hUman, Homo sapiens;	S6269;
+AHR	SMAD2	UP	Pubmed	human, Homo sapiens;	;11259615;
+AHR	SMAD3	UP	Pubmed	human, Homo sapiens;	;11259615;
+AHR	SMAD4	UP	Pubmed	human, Homo sapiens;	;11259615;
+AHR	STAT3	UP	Pubmed	mouse, Mus musculus;	;16293640
+AHSP	RBPJ	UP	Pubmed	mus musculus;	;15979417
+AIFM2	TP53	UP	Pubmed	human, Homo sapiens;	;12135761
+AIM1	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;12782598
+AIM1	MYC	UP	Pubmed	rat, Rattus norvegicus	;11085504
+AIMP2	MYC	UP	Pubmed	human, Homo sapiens;	;11085504
+AKAP13	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;12782598
+AKAP4	GLI2	DOWN	Pubmed	human, Homo sapiens	;14691458
+AKAP8L	CREB1	UP	Pubmed	mouse, Mus musculus;	;14973073
+AKP3	CREB1	UP	trrd;	rat, Rattus norvegicus	S9605;
+AKR1B1	NFKB1	UP	Pubmed	rat, Rattus norvegicus	;14576180;
+AKR1B1	NFKB2	UP	Pubmed	rat, Rattus norvegicus	;14576180;
+AKR1B1	RELA	UP	Pubmed	rat, Rattus norvegicus	;14576180;
+AKR1B7	NR5A1	UP	NfiRegulomeDB	mouse, Mus musculus;	;
+AKR1C4	HNF1A	UP	Pubmed	;homo sapiens	;11284743; 12220531
+AKR1C4	HNF4A	UP	Pubmed	;homo sapiens	;11284743; 12220531
+AKR1C4	HNF4G	UP	Pubmed	;homo sapiens	;11284743; 12220531
+AKT1	CTNNB1	UP	Pubmed	human, Homo sapiens;	;15888491
+AKT1	TCF7L2	UP	Pubmed	human, Homo sapiens;	;15888491
+ALAS2	GATA1	UP	trrd	human, Homo sapiens; mus musculus	S3086; 5343
+ALB	CEBPA	UP	Pubmed	human, Homo sapiens;homo sapiens	8288579;
+ALB	EP300	UP	Pubmed	;homo sapiens	;15598887
+ALB	HNF1A	UP	Pubmed	;homo sapiens	;8288579
+ALB	PAG1	UP	Pubmed	;homo sapiens	;15598887
+ALCAM	GLI1	DOWN	Pubmed	human, Homo sapiens; rattus norvegicus	;18924150
+ALDH1A1	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;12782598
+ALDH3A1	SP1	UP	Pubmed	mouse, Mus musculus;	;10591537
+ALDH3A2	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;12782598
+ALDH9A1	MYC	DOWN	Pubmed	human, Homo sapiens;	;12747840;
+ALDOA	HIF1A	UP	Pubmed	human, Homo sapiens	;8089148;
+ALDOA	JUN	UP	trrd;	rat, Rattus norvegicus	S4522;
+ALDOA	SP1	UP	trrd;	human, Homo sapiens;	S5269;
+ALDOC	SP1	UP	trrd;	rat, Rattus norvegicus;	S8172;
+ALOX12	NFKB1	DOWN	pazar	human, Homo sapiens	;
+ALOX12	REL	DOWN	pazar	human, Homo sapiens	;
+ALOX12	SP1	UP	trrd;	hUman, Homo sapiens;	S6230;
+ALPI	GATA4	UP	Pubmed	human, Homo sapiens	;17290010
+ALPI	SMAD2	UP	Pubmed	;homo sapiens	;17290010
+ALPI	SMAD3	UP	Pubmed	;homo sapiens	;17290010
+ALPI	SMAD4	UP	Pubmed	;homo sapiens	;17290010
+ALPP	FOXO1	UP	Pubmed	human, Homo sapiens; mus musculus	;11786925;
+AMELX	CEBPA	UP	Pubmed	mouse, Mus musculus;mus musculus	10766866; 16595692; 16674681; 10859305;
+AMELX	MSX2	DOWN	Pubmed	;mus musculus	;10859305
+AMELX	NFYA	UP	Pubmed	;mus musculus	;16595692
+AMELX	YY1	DOWN	Pubmed	;mus musculus	;16674681
+AMH	GATA4	UP	pazar	human, Homo sapiens	pazar_pleiades_20100814;
+AMH	GLI1	DOWN	Pubmed	mouse, Mus musculus;	;12444557
+AMH	NR5A1	UP	Pubmed	human, Homo sapiens; mus musculus; rattus norvegicus	S7501; S3702; 10677509
+AMHR2	CTNNB1	UP	Pubmed	mouse, Mus musculus; Homo sapiens	;12724325
+AMHR2	NR5A1	UP	Pubmed	human, Homo sapiens; mus musculus	;12724325
+AMHR2	TCF7L2	UP	Pubmed	mouse, Mus musculus; Homo sapiens	;12724325
+ANGPT2	E2F1	UP	Pubmed	;homo sapiens	;20516113
+ANGPT2	FOXO1	UP	Pubmed	mouse, Mus musculus;	;16100571;
+ANGPT2	FOXO3	UP	Pubmed	mouse, Mus musculus;	;16100571;
+ANGPT4	GLI1	UP	Pubmed	mus musculus;	;19095649
+ANGPTL2	CREB1	DOWN	Pubmed	mouse, Mus musculus;	;14973073
+ANKRD1	SMAD2	UP	Pubmed	human, Homo sapiens;	;11139470;
+ANKRD1	SMAD3	UP	Pubmed	human, Homo sapiens;	;11139470;
+ANKRD1	SMAD4	UP	Pubmed	human, Homo sapiens;	;11139470;
+ANKRD1	SMAD6	DOWN	Pubmed	hUman, Homo sapiens;	;11139470;
+ANP32A	STAT5A	UP	Pubmed	mouse, Mus musculus;	;16293640
+ANP32A	STAT5B	UP	Pubmed	mouse, Mus musculus;	;16293640
+ANPEP	ETS1	UP	trrd;	human, Homo sapiens	S3249;
+ANPEP	ETS2	UP	trrd;	human, Homo sapiens	S3249;
+ANXA8	FOXO4	UP	Pubmed	human, Homo sapiens; mus musculus	;19376120
+AP2	JUN	UP	trrd;	mouse, Mus musculus;	S195;
+APAF1	E2F1	UP	Pubmed	human, Homo sapiens;homo sapiens; mus musculus	;12149244; 18951482
+APAF1	E2F6	DOWN	Pubmed	;homo sapiens	;17600109
+APAF1	TP53	UP	Pubmed	human, Homo sapiens;? ; mus musculus	;11389439; 18951482
+APCDD1	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;12384519
+APCDD1	TCF7L2	UP	Pubmed	hUman, Homo sapiens;	;12384519
+APCS	TP53	UP	Pubmed	human, Homo sapiens;	;15378026
+APEX1	MITF	UP	Pubmed	human, Homo sapiens	;1999537;
+APEX1	MYC	UP	Pubmed	human, Homo sapiens; rattus norvegicus	;14519204;11085504;11983916;14519204;11085504
+APH1A	HIF1A	UP	Pubmed	human, Homo sapiens	;16645044
+APH1A	YY1	UP	Pubmed	;homo sapiens	;21443683
+APOA1	EGR1	UP	Pubmed	human, Homo sapiens;	;7896852
+APOA1	NR2F6	DOWN	trrd	hUman, Homo sapiens;	S5742;
+APOA2	NR2F1	DOWN	trrd	human, Homo sapiens;	S2774;
+APOA4	NR2F1	DOWN	trrd	human, Homo sapiens;	S5954;
+APOB	CEBPA	UP	Pubmed	human, Homo sapiens;homo sapiens	9921275; 8344962;
+APOB	HNF4A	UP	Pubmed	;homo sapiens	;9921275; 8344962
+APOC2	NR2F6	DOWN	trrd	hUman, Homo sapiens;	S7078;
+APOC3	NFKB1	UP	pazar	human, Homo sapiens	;
+APOC3	NR2F1	DOWN	trrd	human, Homo sapiens;	S1303;
+APOC3	SMAD3	UP	Pubmed	human, Homo sapiens;	;10995777;
+APOC3	SMAD4	UP	Pubmed	human, Homo sapiens;	;10995777;
+APOD	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;12782598
+APOE	NR1H2	UP	Pubmed	human, Homo sapiens	;19258656
+APOE	NR1H3	UP	Pubmed	human, Homo sapiens	;19258656
+APOE	SP1	UP	trrd;	hUman, Homo sapiens;	S1174;
+APOH	HNF1A	UP	Pubmed	;homo sapiens	;14984368
+APP	CTNNB1	DOWN	Pubmed	hUman, Homo sapiens;	;15979100
+APP	LEF1	DOWN	Pubmed	hUman, Homo sapiens;	;15979100
+AR	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;16474850
+AR	E2F1	DOWN	Pubmed	;homo sapiens	;17178887
+AR	LEF1	UP	Pubmed	hUman, Homo sapiens;	;16474850
+ARHGAP26	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;15592430
+ARL4A	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;12782598
+ARPC3	CREB1	DOWN	Pubmed	mouse, Mus musculus;	;14973073
+ARTN	GLI1	UP	Pubmed	mus musculus;	;19095649
+ASCL1	NOTCH1	DOWN	Pubmed	mouse, Mus musculus; homo sapiens	;9102301;9133387;11306509
+ASCL1	NOTCH2	DOWN	Pubmed	mouse, Mus musculus; homo sapiens	;9102301;9133387;11306509
+ASCL1	RBPJ	DOWN	Pubmed	mouse, Mus musculus; homo sapiens	;9102301;9133387;11306509
+ASF1B	E2F1	UP	Pubmed	;homo sapiens	;17328667
+ASF1B	E2F2	UP	Pubmed	;homo sapiens	;17328667
+ASF1B	E2F3	UP	Pubmed	;homo sapiens	;17328667
+ASF1B	E2F4	UP	Pubmed	;homo sapiens	;17328667
+ASF1B	E2F5	UP	Pubmed	;homo sapiens	;17328667
+ASNS	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;16132617
+ASPM	FOXO1	DOWN	Pubmed	mouse, Mus musculus;	;19896444;
+ASPM	FOXO3	DOWN	Pubmed	mouse, Mus musculus;	;19896444;
+ATF5	CREB1	UP	Pubmed	mouse, Mus musculus;	;14973073
+ATG10	E2F1	UP	Pubmed	;homo sapiens	;19657746
+ATG12	E2F1	UP	Pubmed	;homo sapiens	;19657746
+ATG12	GLI1	DOWN	Pubmed	mus musculus;	;19095649
+ATG4A	E2F1	UP	Pubmed	;homo sapiens	;19657746
+ATG4B	E2F1	UP	Pubmed	;homo sapiens	;19657746
+ATG4D	E2F1	UP	Pubmed	;homo sapiens	;19657746
+ATG7	E2F1	UP	Pubmed	;homo sapiens	;19657746
+ATG9A	E2F1	UP	Pubmed	;homo sapiens	;19657746
+ATM	E2F1	UP	Pubmed	;homo sapiens	;12527885
+ATM	RBPJ	UP	Pubmed	mus musculus;	;15979417
+ATP10B	GLI2	DOWN	Pubmed	human, Homo sapiens	;14691458
+ATP1A1	SP1	UP	trrd;	rAt, Rattus norvegicus	S46;
+ATP1A3	SP1	UP	trrd;	hUman, Homo sapiens; Rr	S2651;
+ATP1A3	SP3	UP	trrd	rAt, Rattus norvegicus	S2651;
+ATP5B	GABPA	UP	pazar;	human, Homo sapiens	;
+ATP5H	RBPJ	DOWN	Pubmed	mus musculus;	;15979417
+ATP6V0B	CREB1	UP	Pubmed	mouse, Mus musculus;	;14973073
+ATP6V1C1	CREB1	UP	Pubmed	mouse, Mus musculus;	;14973073
+ATP8A1	FOXO1	UP	Pubmed	human, Homo sapiens	;12351634;
+ATP8A1	FOXO3	UP	Pubmed	human, Homo sapiens	;12351634;
+ATP9A	GLI2	DOWN	Pubmed	human, Homo sapiens	;14691458
+AURKA	E2F3	UP	Pubmed	;homo sapiens	;18776222
+AURKA	GABPA	UP	pazar;	human, Homo sapiens	;
+AXIN2	CTNNB1	UP	Pubmed	human, Homo sapiens; mus musculus	;11809809;11940574; 11809808;  12711682; 15473860
+AXIN2	E2F1	UP	Pubmed	;homo sapiens	;15766563
+AXIN2	TCF7L2	UP	Pubmed	human, Homo sapiens; mus musculus	;11809809;11940574; 11809808;  12711682; 15473860
+B2M	NFKB1	UP	Pubmed	human, Homo sapiens	;12480693;
+B2M	RELA	UP	Pubmed	human, Homo sapiens	;12480693;
+B4GALT1	E2F1	UP	Pubmed	human, Homo sapiens	;20538716
+B4GALT3	FOXO1	DOWN	Pubmed	human, Homo sapiens	;18301748
+BACE1	GATA1	UP	Pubmed	rat, Rattus norvegicus	;12815710
+BACH1	SP1	UP	:Pazar;TRRD;	mouse, Mus musculus;	S9832; pazar_ABS;;
+BAG2	CTNNB1	DOWN	Pubmed	human, Homo sapiens;	;16959035
+BAG3	CTNNB1	DOWN	Pubmed	human, Homo sapiens;	;16959035
+BAK1	TP53	UP	Pubmed	human, Homo sapiens;	;10741712
+BAMBI	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	";14660579;12782598
+"
+BAMBI	SMAD3	UP	Pubmed	human, Homo sapiens;	;15240101;
+BAMBI	SMAD4	UP	Pubmed	human, Homo sapiens;	;15240101;
+BAMBI	TCF7L2	UP	Pubmed	hUman, Homo sapiens;	";14660579;12782598
+"
+BARD1	BRCA1	DOWN	Pubmed	;homo sapiens	20068145;
+BAX	FOXO1	UP	Pubmed	mouse, Mus musculus; rattus norvegicus	;15632117;15817464;
+BAX	TP53	UP	pazar	mouse, Mus musculus;	pazar_ABS; pazar_peiades;
+BBC3	E2F1	UP	Pubmed	;homo sapiens	;17263886
+BBC3	FOXO3	UP	Pubmed	mouse, Mus musculus;	;16801400;
+BBC3	TP53	UP	Pubmed	human, Homo sapiens;homo sapiens; mus musculus	;11463391
+BCL2	CEBPA	UP	Pubmed	human, Homo sapiens;mus musculus	18987666;
+BCL2	CTNNB1	UP	Pubmed	human, Homo sapiens; rattus norvegicus	;17404573;12782598;16288908
+BCL2	E2F1	UP	Pubmed	;rattus norvegicus	;17404573
+BCL2	FOXO1	DOWN	Pubmed	mouse, Mus musculus;	;15632117;
+BCL2	GLI1	UP	Pubmed	mouse, Mus musculus; homo sapiens	;14555646
+BCL2	LEF1	UP	Pubmed	human, Homo sapiens; rattus norvegicus	;17404573;12782598;16288908
+BCL2	MITF	UP	Pubmed	human, Homo sapiens	;1999537;19067971
+BCL2	MYC	UP	Pubmed	human, Homo sapiens;rattus norvegicus	;17404573
+BCL2	NFKB1	UP	Pubmed	human, Homo sapiens	;12835724
+BCL2	NOTCH1	UP	Pubmed	mouse, Mus musculus;	;9881968
+BCL2	RBPJ	UP	Pubmed	mouse, Mus musculus;	;9881968
+BCL2	RELA	UP	Pubmed	human, Homo sapiens	;12835724
+BCL2	SP1	UP	trrd;	human, Homo sapiens;	S9952;
+BCL2	STAT3	UP	Pubmed	hUman, Homo sapiens;	;16048438;
+BCL2	TCF7	UP	Pubmed	human, Homo sapiens; rattus norvegicus	;17404573;12782598;16288908
+BCL2	TCF7L2	UP	Pubmed	;rattus norvegicus	;17404573
+BCL2	TP53	DOWN	pazar	human, Homo sapiens;	pazar_ABS;pazar_pleiades;
+BCL2A1	FOXO1	UP	Pubmed	mouse, Mus musculus;	;15632117;
+BCL2A1	JUN	UP	trrd;	human, Homo sapiens;	S10635;
+BCL2A1	NFKB1	UP	pazar	human, Homo sapiens	;
+BCL2L1	BCL6	DOWN	Pubmed	mouse, Mus musculus;	11777915;
+BCL2L1	CTNNB1	UP	Pubmed	mouse, Mus musculus;	;16339534
+BCL2L1	NFKB2	UP	pazar	mouse, Mus musculus;	pazar_ABS;
+BCL2L1	RELA	UP	pazar	mouse, Mus musculus;	pazar_ABS;
+BCL2L1	STAT3	UP	Pubmed	hUman, Homo sapiens;	;15469392
+BCL2L1	STAT5A	UP	Pubmed	;mus musculus; homo sapiens	;11756417
+BCL2L1	STAT5B	UP	Pubmed	;mus musculus; homo sapiens	;11756417
+BCL2L1	TCF7	UP	Pubmed	mouse, Mus musculus;	;16339534
+BCL2L11	FOXO1	UP	Pubmed	mouse, Mus musculus;	;16006742;17702754;
+BCL2L11	FOXO3	UP	Pubmed	human, Homo sapiens	;15674333
+BCL2L13	FOXO1	UP	Pubmed	mouse, Mus musculus;	;15632117;
+BCL2L2	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;19124064
+BCL2L2	FOXO1	DOWN	Pubmed	mouse, Mus musculus;	;15632117;
+BCL2L2	TCF7L2	UP	Pubmed	hUman, Homo sapiens;	;19124064
+BCL3	STAT3	UP	Pubmed	mouse, Mus musculus;	;16293640
+BCL3	TP53	DOWN	Pubmed	human, Homo sapiens;	;12808109
+BCL6	FOXO4	UP	Pubmed	mouse, Mus musculus;	;11777915
+BCL6	GLI2	DOWN	Pubmed	human, Homo sapiens	;14691458
+BCL6	STAT1	UP	Pubmed	mouse, Mus musculus; Homo sapiens	;15596057
+BCL6	STAT5A	UP	Pubmed	hUman, Homo sapiens;	;15711548;
+BCL6	STAT5B	UP	Pubmed	hUman, Homo sapiens;	;15711548;
+BDKRB1	JUN	UP	trrd;	human, Homo sapiens;	S7847;
+BDKRB1	NFKB1	UP	pazar	human, Homo sapiens	;
+BEST1	MITF	UP	Pubmed	human, Homo sapiens	;1999537;19067971
+BGLAP	RUNX2	UP	Pubmed	;homo sapiens	;17707335
+BGLAP	SMAD3	UP	Pubmed	;homo sapiens	;11278818
+BGLAP	SMAD4	UP	Pubmed	;homo sapiens	;11278818
+BGLAP	VDR	UP	Pubmed	;homo sapiens	;11278818
+BGLAP2	RUNX2	UP	Pubmed	;mus musculus	;20578243
+BGLAP2	TRPS1	DOWN	Pubmed	;mus musculus; homo sapiens	;19759027
+BHLHE40	NR1H2	UP	Pubmed	human, Homo sapiens; mus musculus	;19032342
+BHLHE40	NR1H3	UP	Pubmed	human, Homo sapiens; mus musculus	;19032342
+BID	FOXO1	UP	Pubmed	mouse, Mus musculus;	;15632117;
+BIK	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;15592430
+BIN1	E2F1	UP	Pubmed	;homo sapiens	;19629135
+BIRC3	FOXO1	DOWN	Pubmed	mouse, Mus musculus;	;15632117;
+BIRC3	STAT3	UP	Pubmed	hUman, Homo sapiens;	;16048438;
+BIRC5	CTNNB1	UP	Pubmed	mouse, Mus musculus; rattus norvegicus; human	;11517919;16288908;17005722; 11517919
+BIRC5	E2F1	UP	Pubmed	;mus musculus	;15271987
+BIRC5	E2F2	UP	Pubmed	;mus musculus	;15271987
+BIRC5	E2F3	UP	Pubmed	;mus musculus	;15271987
+BIRC5	FOXO1	DOWN	Pubmed	mouse, Mus musculus;	;15632117;
+BIRC5	LEF1	UP	Pubmed	mouse, Mus musculus; rattus norvegicus; human	;11517919;16288908;17005722; 11517919
+BIRC5	STAT3	UP	Pubmed	;homo sapiens	;17533050;17533050
+BIRC5	TCF7	UP	Pubmed	mouse, Mus musculus; rattus norvegicus; human	;11517919;16288908;17005722; 11517919
+BIRC5	TP53	DOWN	pazar	human, Homo sapiens;	pazar_ABS;pazar_pleiades;
+BIRC7	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;17660948
+BIRC7	MITF	UP	Pubmed	human, Homo sapiens	;1999537;19067971
+BIRC7	TCF7L2	UP	Pubmed	hUman, Homo sapiens;	;17660948
+BLK	NFKB1	UP	pazar	mouse, Mus musculus;	pazar_ABS;
+BLVRA	GLI2	DOWN	Pubmed	human, Homo sapiens	;14691458
+BMI1	E2F1	UP	Pubmed	;homo sapiens	;16582100
+BMP1	GLI2	DOWN	Pubmed	human, Homo sapiens	;14691458
+BMP2	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;15579438
+BMP2	SP1	UP	pazar; trrd	mouse, Mus musculus;	Pazar_ares; S10035; 
+BMP4	CTNNB1	DOWN	Pubmed	hUman, Homo sapiens; mus musculus	;12782598;15907834;10601040
+BMP4	FOXO1	UP	Pubmed	mouse, Mus musculus;	;16100571;
+BMP4	FOXO3	UP	Pubmed	mouse, Mus musculus;	;16100571;
+BMP7	GLI2	DOWN	Pubmed	human, Homo sapiens	;14691458
+BMPER	FOXO1	DOWN	Pubmed	mouse, Mus musculus;	;17254969
+BNIP3	E2F1	UP	Pubmed	;homo sapiens	;19088195
+BNIP3	HIF1A	UP	Pubmed	human, Homo sapiens	;11559532;
+BNIP3	RBPJ	UP	Pubmed	mus musculus;	;15979417
+BNIP3	RELA	DOWN	Pubmed	;homo sapiens	;19088195
+BNIP3L	FOXO3	UP	Pubmed	human, Homo sapiens	;12351634;
+BOK	CTNNB1	DOWN	Pubmed	mouse, Mus musculus;	;12907606
+BOK	TCF7L2	DOWN	Pubmed	mouse, Mus musculus;	;12907606
+BRCA1	BRCA1	DOWN	Pubmed	;homo sapiens	20068145;
+BRCA1	E2F1	UP	Pubmed	mouse, Mus musculus;mus musculus; homo sapiens	;10660629; 17106239; 18660752
+BRCA1	E2F4	DOWN	Pubmed	;homo sapiens	;17106239
+BRCA1	E2F6	DOWN	Pubmed	;homo sapiens	;12909625
+BRCA1	MYC	UP	Pubmed	human, Homo sapiens	;11983916;
+BRCA1	RBL1	DOWN	Pubmed	;homo sapiens	;17106239
+BRCA1	RBL2	DOWN	Pubmed	;homo sapiens	;17106239
+BRCA1	TP53	DOWN	pazar	hUman, Homo sapiens;	pazar_ABS;pazar_pleiades;
+BRD2	GLI2	UP	Pubmed	human, Homo sapiens	;14691458
+BRD2	MYC	DOWN	Pubmed	rat, Rattus norvegicus	;11085504
+BSG	SP1	UP	trrd;	human, Homo sapiens;	S9313;
+BTG1	FOXO3	UP	Pubmed	mouse, Mus musculus;	;14734530
+BTG2	GATA1	UP	pazar	mouse, Mus musculus;	;
+BTRC	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;15473860;10882123
+C10ORF10	FOXO1	UP	Pubmed	mouse, Mus musculus;	;16100571;
+C10ORF10	FOXO3	UP	Pubmed	human, Homo sapiens	;16100571;12351634;
+C12ORF5	TP53	UP	pazar	human, Homo sapiens;	pazar_ABS;
+C1QBP	MYC	UP	Pubmed	human, Homo sapiens	;11983916;
+C7ORF68	CTNNB1	UP	Pubmed	hUman, Homo sapiens; Mus musculus	;15642117
+CA3	AR	UP	Pubmed	rat, Rattus norvegicus	6411140;11817565;
+CACNA1S	CREB1	UP	trrd;	mouse, Mus musculus;	S10594;
+CACNA1S	GATA2	UP	pazar	mouse, Mus musculus;	Pazar_ares;
+CAD	MYC	UP	Pubmed	human, Homo sapiens;	;14519204;11983916;14519204
+CALR	AR	UP	Pubmed	rat, Rattus norvegicus	11817565;
+CALR	ATF6	UP	Pubmed	;homo sapiens	19659458;
+CALR	YY1	UP	Pubmed	;homo sapiens	;19659458
+CAMK1	GLI2	UP	Pubmed	human, Homo sapiens	;14691458
+CAMK1D	GLI1	UP	Pubmed	mus musculus;	;19095649
+CAPN2	CTNNB1	UP	Pubmed	mouse, Mus musculus;	;12907606
+CAPN2	TCF7L2	UP	Pubmed	mouse, Mus musculus;	;12907606
+CAR2	FOXO1	UP	Pubmed	mouse, Mus musculus;	;16492665;
+CARS	CREB1	UP	Pubmed	mouse, Mus musculus;	;14973073
+CASP1	TP53	UP	Pubmed	human, Homo sapiens;	;11278253
+CASP14	FOXO1	UP	Pubmed	mouse, Mus musculus;	;15632117;
+CASP2	FOXO1	UP	Pubmed	mouse, Mus musculus;	;15632117;
+CASP3	CTNNB1	DOWN	Pubmed	mouse, Mus musculus;	;12907606
+CASP3	ETS1	UP	trrd;	rat, Rattus norvegicus	S10668;
+CASP3	FOXO1	UP	Pubmed	mouse, Mus musculus;	;15565601;
+CASP3	NOTCH1	UP	Pubmed	mouse, Mus musculus;	;15068794
+CASP3	RBPJ	UP	Pubmed	mouse, Mus musculus;	;15068794
+CASP3	TCF7L2	DOWN	Pubmed	mouse, Mus musculus;	;12907606
+CASP4	CTNNB1	DOWN	Pubmed	hUman, Homo sapiens;	;15979100
+CASP4	LEF1	DOWN	Pubmed	hUman, Homo sapiens;	;15979100
+CASP6	FOXO1	UP	Pubmed	mouse, Mus musculus;	;15632117;
+CASP7	CTNNB1	DOWN	Pubmed	mouse, Mus musculus;	;12907606
+CASP7	TCF7L2	DOWN	Pubmed	mouse, Mus musculus;	;12907606
+CASP7	TP53	UP	Pubmed	;homo sapiens	;16918502
+CASP8	ETS1	UP	trrd;	human, Homo sapiens	S10671;
+CASP8	FOXO1	UP	Pubmed	mouse, Mus musculus;	;15632117;15565601;
+CASP8	SP1	UP	trrd;	hUman, Homo sapiens;	S10670;
+CAT	EGR1	UP	Pubmed	human, Homo sapiens;	;11479230
+CAT	SP1	UP	trrd;	human, Homo sapiens;	S8153;
+CAV1	TP53	UP	Pubmed	human, Homo sapiens;	;10684646
+CBLB	FOXO3	UP	Pubmed	human, Homo sapiens	;12351634;
+CBX3	MYC	UP	Pubmed	human, Homo sapiens;	;12747840
+CBX5	E2F6	DOWN	Pubmed	;homo sapiens	;12909625
+CCK	JUN	UP	trrd;	rat, Rattus norvegicus	S10613;
+CCK	NFKB1	UP	trrd	rat, Rattus norvegicus	S10610;
+CCL17	GLI2	UP	Pubmed	human, Homo sapiens	;14691458
+CCL2	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;16003740
+CCL2	JUN	UP	NFIRegulomeDB;	human, Homo sapiens;	;
+CCL2	NFKB1	UP	NfiRegulomeDB	human, Homo sapiens;	;
+CCL2	STAT1	UP	Pubmed	human, Homo sapiens;	;9558097,12488502
+CCL2	STAT3	UP	Pubmed	Human, Homo sapiens;	;12488502
+CCL2	TCF7L2	UP	Pubmed	hUman, Homo sapiens;	;16003740
+CCL4	JUN	UP	trrd;	human, Homo sapiens;	S1292;
+CCL5	JUN	UP	trrd;	human, Homo sapiens;	S9511;
+CCL5	NFKB1	UP	Pubmed	human, Homo sapiens	;17065335
+CCL5	STAT1	UP	Pubmed	hUman, Homo sapiens;	;11821046;
+CCL7	CTNNB1	DOWN	Pubmed	mouse, Mus musculus;	;11118053
+CCL7	LEF1	DOWN	Pubmed	mouse, Mus musculus;	;11118053
+CCNA1	TP53	DOWN	pazar	human, Homo sapiens;	pazar_pleiades;
+CCNA2	E2F1	UP	Pubmed	;homo sapiens	;10594784; 14681231
+CCNA2	MYC	UP	Pubmed	human, Homo sapiens	;14519204;
+CCNB1	FOXO1	DOWN	Pubmed	human, Homo sapiens	;17609436;
+CCNB1	MYC	UP	Pubmed	mouse, Mus musculus; homo sapiens	;12747840;11983916
+CCNB2	FOXO1	DOWN	Pubmed	human, Homo sapiens	;17609436;
+CCNB2	HMGA1	UP	Pubmed	;mus musculus	;19223528
+CCNB2	HMGA2	UP	Pubmed	;mus musculus	;19223528
+CCND1	CTNNB1	UP	Pubmed	hUman, Homo sapiens; rattus norvegicus; mouse	;15592430;12782598;11943708;12095419;10201372;14557550;10915780;17693601;15111320
+CCND1	E2F1	UP	Pubmed	;homo sapiens	;7929342; 10594784
+CCND1	E2F4	UP	Pubmed	;homo sapiens	;7929342; 10594784
+CCND1	ETS1	UP	Pubmed	human, Homo sapiens	;19499154
+CCND1	FOXO1	DOWN	Pubmed	human, Homo sapiens; mus musculus	;12391153;
+CCND1	FOXO3	DOWN	Pubmed	human, Homo sapiens; mus musculus	;12391153;
+CCND1	GLI2	UP	Pubmed	human, Homo sapiens	;14691458
+CCND1	HBP1	DOWN	Pubmed	human, Homo sapiens	;16179914;11500377;
+CCND1	JUN	UP	Pubmed	;homo sapiens	;17637753
+CCND1	MYC	DOWN	Pubmed	rat, Rattus norvegicus	;11085504
+CCND1	NFKB1	UP	Pubmed	human, Homo sapiens; mus musculus	;10464245;
+CCND1	RELA	UP	Pubmed	human, Homo sapiens; mus musculus	;10464245;
+CCND1	STAT3	UP	Pubmed	hUman, Homo sapiens;	;18988190;
+CCND1	STAT5A	UP	Pubmed	mouse, Mus musculus;	;14645506;
+CCND1	STAT5B	UP	Pubmed	mouse, Mus musculus;	;14645506;
+CCND2	FOXO1	DOWN	Pubmed	human, Homo sapiens; mus musculus	;12391153;
+CCND2	FOXO3	DOWN	Pubmed	human, Homo sapiens; mus musculus	;12391153;
+CCND2	GLI1	UP	Pubmed	human, Homo sapiens	;11719506
+CCND2	MYC	UP	Pubmed	human, Homo sapiens;	;14519204;14519204
+CCND2	STAT5A	UP	Pubmed	mouse, Mus musculus;	;11160217;
+CCND2	STAT5B	UP	Pubmed	mouse, Mus musculus;	;11160217;
+CCND3	CTNNB1	UP	Pubmed	rAt, Rattus norvegicus	;14557550
+CCND3	E2F1	UP	Pubmed	;homo sapiens	;12611887
+CCND3	E2F2	UP	Pubmed	;homo sapiens	;12611887
+CCND3	E2F3	UP	Pubmed	;homo sapiens	;12611887
+CCND3	HBP1	DOWN	Pubmed	human, Homo sapiens	;16179914;
+CCNE1	E2F1	UP	Pubmed	;homo sapiens	;17471231; 1059478; 19564413
+CCNE1	HBP1	DOWN	Pubmed	human, Homo sapiens	;16179914;
+CCNE1	MYC	UP	Pubmed	human, Homo sapiens	;14519204;11983916;14519204;
+CCNE1	PROX1	UP	Pubmed	;mus musculus	;21040746
+CCNG1	TP53	UP	pazar	hUman, Homo sapiens;	pazar_ABS;pazar_pleiades;
+CCNG2	FOXO1	UP	Pubmed	human, Homo sapiens; mus musculus	;14966295;16493026;12351634;
+CCNG2	FOXO3	UP	Pubmed	human, Homo sapiens; mus musculus	;14966295;16493026;1235163414966295;
+CCNG2	FOXO4	UP	Pubmed	mouse, Mus musculus;	;014966295;
+CCNG2	GLI2	DOWN	Pubmed	human, Homo sapiens	;14691458
+CCPG1	GLI1	DOWN	Pubmed	human, Homo sapiens; rattus norvegicus	;18924150
+CCRN4L	FOXO1	UP	Pubmed	mouse, Mus musculus;	;17254969
+CCT3	MYC	UP	Pubmed	human, Homo sapiens	;11983916;
+CCT5	MYC	UP	Pubmed	human, Homo sapiens;	;12747840
+CCT6A	MYC	UP	Pubmed	rat, Rattus norvegicus	;11085504
+CD14	CTNNB1	UP	Pubmed	hUman, Homo sapiens; Mus musculus	;15642117
+CD14	SP1	UP	trrd;	human, Homo sapiens;	S6445;
+CD19	EGR1	UP	trrd;	human, Homo sapiens;	S10337;
+CD36	NR1H2	UP	Pubmed	human, Homo sapiens	;19258656
+CD36	NR1H3	UP	Pubmed	human, Homo sapiens	;19258656
+CD3D	ELF1	UP	Pubmed	human, Homo sapiens; mus musculus	;12324448
+CD3D	ELF2	UP	Pubmed	human, Homo sapiens; mus musculus	;12324448
+CD3D	ETS1	UP	Pubmed	human, Homo sapiens; mus musculus	;12324448
+CD3D	YY1	DOWN	Pubmed	human, Homo sapiens; mus musculus	;12324448
+CD4	CREB1	UP	trrd;	human, Homo sapiens;	S7640;
+CD4	CTNNB1	UP	Pubmed	mouse, Mus musculus;	;16585583
+CD4	ELF1	UP	trrd;	mus musculus;	S7658;
+CD4	ETS1	UP	trrd;	mus musculus;	S7658;
+CD4	ETS2	UP	trrd;	mus musculus;	S7658;
+CD4	TCF7	UP	Pubmed	mouse, Mus musculus;	;16585583
+CD40	FOXO1	UP	Pubmed	mouse, Mus musculus;	;15632117;20338229;
+CD40	SPI1	UP	trrd;	human, Homo sapiens	S9961;
+CD40	SPIB	UP	trrd;	human, Homo sapiens	S9961;
+CD40	STAT1	UP	trrd;	mouse, Mus musculus;	S9963;
+CD40LG	JUN	UP	trrd;	mouse, Mus musculus;	S4129;
+CD44	CTNNB1	UP	Pubmed	hUman, Homo sapiens; Mus musculus	;12782598;10027409;18483247
+CD44	EGR1	UP	Pubmed	human, Homo sapiens;	;8628295
+CD44	TCF7L2	UP	Pubmed	hUman, Homo sapiens; Mus musculus	;12782598;10027409;18483247
+CD55	FOXO3	UP	Pubmed	human, Homo sapiens	;12351634;
+CD70	FOXO1	UP	Pubmed	mouse, Mus musculus;	;15632117;
+CD79A	GABPA	UP	pazar;	mouse, Mus musculus;	Pazar_rare;
+CD82	JUN	UP	trrd;	human, Homo sapiens;	S10107;
+CD83	NFKB1	UP	Pubmed	human, Homo sapiens	;12182451;
+CD84	STAT5A	UP	Pubmed	mouse, Mus musculus;	;16293640
+CD84	STAT5B	UP	Pubmed	mouse, Mus musculus;	;16293640
+CD8A	NOTCH1	DOWN	Pubmed	mouse, Mus musculus;	;9881968
+CD8A	RBPJ	DOWN	Pubmed	mouse, Mus musculus;	;9881968
+CDAN1	E2F1	UP	Pubmed	;homo sapiens	;19336738
+CDC14A	GLI1	UP	Pubmed	mus musculus;	;19095649
+CDC25A	CDKN1A	DOWN	Pubmed	;homo sapiens	16923815;
+CDC25A	E2F1	UP	Pubmed	human, Homo sapiens;	;11799067;
+CDC25A	E2F4	UP	Pubmed	human, Homo sapiens;	;11799067;
+CDC25A	ESR1	UP	Pubmed	;homo sapiens	;16598773
+CDC25A	NFYA	UP	Pubmed	;homo sapiens	;16598773
+CDC25A	SP1	UP	Pubmed	;homo sapiens	;16598773
+CDC25B	SP1	UP	pazar;TRRD;	mouse, Mus musculus;	Pazar_Hnf4; S924;;
+CDC25B	SP3	UP	trrd	mus musculus;	S9247;
+CDC25C	MYC	UP	Pubmed	human, Homo sapiens;	;12747840
+CDC25C	SP1	UP	trrd;	human, Homo sapiens;	S9236;
+CDC25C	SP3	UP	trrd	hUman, Homo sapiens;	S9236;
+CDC45	E2F1	UP	Pubmed	human, Homo sapiens	10692433;
+CDC45	GLI2	UP	Pubmed	human, Homo sapiens	;14691458
+CDC6	AR	UP	Pubmed	human, Homo sapiens;	18541154;
+CDC6	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;16132617
+CDC6	E2F1	UP	Pubmed	human, Homo sapiens;	11799067;
+CDC6	E2F2	UP	Pubmed	;homo sapiens	;12411495
+CDC6	E2F3	UP	Pubmed	;homo sapiens	;12411495
+CDC6	E2F4	UP	Pubmed	human, Homo sapiens;	11799067;
+CDC6	YY1	UP	Pubmed	;homo sapiens	;12411495
+CDC7	GLI2	UP	Pubmed	human, Homo sapiens	;14691458
+CDCA4	E2F1	UP	Pubmed	;homo sapiens	;16984923
+CDCA4	E2F2	UP	Pubmed	;homo sapiens	;16984923
+CDCA4	E2F3	UP	Pubmed	;homo sapiens	;16984923
+CDCA4	E2F4	UP	Pubmed	;homo sapiens	;16984923
+CDCA7	E2F1	UP	Pubmed	;homo sapiens; mus musculus	;16580749
+CDCA7	E2F2	UP	Pubmed	;homo sapiens; mus musculus	;16580749
+CDCA7	E2F3	UP	Pubmed	;homo sapiens; mus musculus	;16580749
+CDCA7	E2F4	UP	Pubmed	;homo sapiens; mus musculus	;16580749
+CDH2	AR	UP	Pubmed	human, Homo sapiens;	17297473;
+CDH2	NOTCH1	UP	Pubmed	human, Homo sapiens; mus musculus	;16618740
+CDH2	RBPJ	UP	Pubmed	human, Homo sapiens; mus musculus	;16618740
+CDH3	CTNNB1	UP	Pubmed	mouse, Mus musculus;	;17292359
+CDK1	E2F1	UP	Pubmed	human, Homo sapiens	11799067;
+CDK1	E2F4	UP	Pubmed	human, Homo sapiens	11799067;
+CDK1	FOXO1	DOWN	Pubmed	human, Homo sapiens	;17609436;
+CDK1	GLI2	UP	Pubmed	human, Homo sapiens	;14691458
+CDK1	MYC	UP	Pubmed	rat, Rattus norvegicus	;11085504
+CDK1	SMAD7	DOWN	Pubmed	;homo sapiens	;15023526
+CDK1	SP1	UP	trrd;	human, Homo sapiens;	S3438;
+CDK11A	CREB1	UP	Pubmed	;homo sapiens	;15087126
+CDK11A	ETS1	UP	Pubmed	human, Homo sapiens	;15087126
+CDK11B	ETS1	UP	Pubmed	human, Homo sapiens	;15656972
+CDK11B	MYC	UP	Pubmed	human, Homo sapiens	;11983916;
+CDK11B	POU2F3	UP	Pubmed	;homo sapiens	;15656972
+CDK2	MITF	UP	Pubmed	human, Homo sapiens	;1999537;19067971
+CDK2	SP1	UP	trrd;	hUman, Homo sapiens;	S8019;
+CDK4	MYC	UP	Pubmed	human, Homo sapiens;	;11983916;14519204;14519204
+CDK6	SMAD6	DOWN	Pubmed	mouse, Mus musculus;	;15254224;
+CDKN1A	CEBPA	UP	Pubmed	human, Homo sapiens;homo sapiens	8846917;
+CDKN1A	CTNNB1	DOWN	Pubmed	hUman, Homo sapiens;	;14637149
+CDKN1A	E2F1	UP	Pubmed	human, Homo sapiens	;10030670;
+CDKN1A	E2F3	UP	Pubmed	human, Homo sapiens	;10030670;
+CDKN1A	FOXO1	UP	Pubmed	human, Homo sapiens	;17609436;
+CDKN1A	GLI2	DOWN	Pubmed	human, Homo sapiens	;14691458
+CDKN1A	ID1	UP	Pubmed	human, Homo sapiens	;17639499
+CDKN1A	ID2	UP	Pubmed	human, Homo sapiens	;17639499
+CDKN1A	ID3	UP	Pubmed	human, Homo sapiens	;17639499
+CDKN1A	MITF	DOWN	Pubmed	human, Homo sapiens	;1999537;19067971
+CDKN1A	MYC	DOWN	Pubmed	human, Homo sapiens	;14519204
+CDKN1A	NOTCH1	UP	Pubmed	human, Homo sapiens;	;11306509;14670925
+CDKN1A	NOTCH2	UP	Pubmed	human, Homo sapiens;	;11306509;14670925
+CDKN1A	RBPJ	UP	Pubmed	human, Homo sapiens;	;11306509;14670925
+CDKN1A	SMAD1	UP	Pubmed	human, Homo sapiens;	;11786386;
+CDKN1A	SMAD4	UP	Pubmed	human, Homo sapiens;	;11786386;
+CDKN1A	SP1	UP	Pubmed	hUman, Homo sapiens;	;10030670
+CDKN1A	SREBF1	UP	Pubmed	mouse, Mus musculus;	;16199872
+CDKN1A	STAT1	UP	Pubmed	;homo sapiens	;10866323
+CDKN1A	TP53	UP	pazar	hUman, Homo sapiens;	pazar_ABS;pazar_pleiades;
+CDKN1B	CTNNB1	DOWN	Pubmed	rAt, Rattus norvegicus	;14557550
+CDKN1B	E2F1	UP	Pubmed	;mus musculus	;15713665
+CDKN1B	E2F4	UP	Pubmed	;mus musculus	;15713665
+CDKN1B	FOXO1	UP	Pubmed	human, Homo sapiens; mus musculus	;12391153;12359217;17015685;11094066;
+CDKN1B	NOTCH2	UP	Pubmed	human, Homo sapiens;	;11306509
+CDKN1B	RBPJ	UP	Pubmed	human, Homo sapiens;	;11306509
+CDKN1B	SP1	UP	trrd;	hUman, Homo sapiens;	S5531;
+CDKN1C	CTNNB1	DOWN	Pubmed	rAt, Rattus norvegicus	;14557550
+CDKN1C	E2F1	UP	Pubmed	;homo sapiens	;17173074
+CDKN1C	FOXO1	UP	Pubmed	human, Homo sapiens	;17609436;
+CDKN2A	E2F1	UP	Pubmed	;?; homo sapiens	;11062467; 16211008; 19641316
+CDKN2A	E2F2	UP	Pubmed	;homo sapiens	;11883935
+CDKN2A	E2F3	UP	Pubmed	;homo sapiens; mus musculus	;11883935;  15175242
+CDKN2A	HBP1	UP	Pubmed	human, Homo sapiens; mus musculus	;20581871;
+CDKN2A	ID1	UP	Pubmed	human, Homo sapiens	;17639499
+CDKN2A	ID2	UP	Pubmed	human, Homo sapiens	;17639499
+CDKN2A	ID3	UP	Pubmed	human, Homo sapiens	;17639499
+CDKN2A	MITF	DOWN	Pubmed	human, Homo sapiens	;1999537;19067971
+CDKN2A	MYC	UP	Pubmed	human, Homo sapiens	;11062467
+CDKN2A	TBX2	DOWN	Pubmed	human, Homo sapiens;	;11062467
+CDKN2B-AS1	E2F1	UP	Pubmed	;mus musculus?	;20664976
+CDKN2B	FOXO1	UP	Pubmed	human, Homo sapiens; mus musculus	;17873901;
+CDKN2B	FOXO3	UP	Pubmed	human, Homo sapiens; mus musculus	;17873901;
+CDKN2B	MYC	DOWN	Pubmed	human, Homo sapiens;	;14519204
+CDKN2C	E2F1	UP	Pubmed	;homo sapiens	;12077144
+CDKN2C	E2F4	UP	Pubmed	;homo sapiens	;12077144
+CDKN2C	SP1	UP	Pubmed	;homo sapiens	;12077144
+CDKN2D	FOXO1	UP	Pubmed	human, Homo sapiens; mus musculus	;17873901;
+CDKN2D	FOXO3	UP	Pubmed	human, Homo sapiens; mus musculus	;17873901;
+CDKN2D	STAT3	UP	Pubmed	mouse, Mus musculus;	;10779764;
+CDT1	E2F1	UP	Pubmed	;homo sapiens	;14990995
+CDT1	E2F2	UP	Pubmed	;homo sapiens	;14990995
+CDT1	E2F3	UP	Pubmed	;homo sapiens	;14990995
+CDT1	E2F4	UP	Pubmed	;homo sapiens	;14990995
+CDX1	CTNNB1	UP	Pubmed	rAt, Rattus norvegicus; mus musculus; human	;11997022;12446687;10934025
+CDX1	LEF1	UP	Pubmed	rAt, Rattus norvegicus; mus musculus; human	;11997022;12446687;10934025
+CDX1	TCF7L2	UP	Pubmed	rAt, Rattus norvegicus; mus musculus; human	;11997022;12446687;10934025
+CDX4	CTNNB1	UP	Pubmed	mouse, Mus musculus;	;16309666
+CDX4	LEF1	UP	Pubmed	mouse, Mus musculus;	;16309666
+CEACAM1	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;12782598
+CEACAM5	CTNNB1	UP	Pubmed	human, Homo sapiens;	;15890249
+CEACAM5	TCF7	UP	Pubmed	human, Homo sapiens;	;15890249
+CEACAM6	CTNNB1	UP	Pubmed	human, Homo sapiens;	;15890249
+CEACAM6	GLI2	DOWN	Pubmed	human, Homo sapiens	;14691458
+CEACAM6	TCF7	UP	Pubmed	human, Homo sapiens;	;15890249
+CEACAM7	GLI2	DOWN	Pubmed	human, Homo sapiens	;14691458
+CEBPA	CEBPA	UP	Pubmed	;mus musculus	19380823;
+CEBPA	CEBPB	UP	Pubmed	;mus musculus	19663997;
+CEBPA	CTNNB1	DOWN	Pubmed	mouse, Mus musculus;	;10937998
+CEBPA	EBF1	UP	Pubmed	;mus musculus	;17060461
+CEBPA	HBP1	UP	Pubmed	human, Homo sapiens	;16179914;
+CEBPA	HDAC1	DOWN	Pubmed	;mus musculus	;16431920
+CEBPA	MYC	UP	pazar	human, Homo sapiens;	Pazar_Hnf4;
+CEBPA	NFKB1	UP	Pubmed	mouse, Mus musculus;	;21346255
+CEBPA	PPARG	UP	Pubmed	;mus musculus	;16431920
+CEBPA	RBPJ	DOWN	Pubmed	mouse, Mus musculus;	;15226394
+CEBPA	TCF7	DOWN	Pubmed	mouse, Mus musculus;	;10937998
+CEBPB	STAT3	UP	Pubmed	mouse, Mus musculus;	;16293640
+CEBPD	JUN	UP	Pubmed	;mus musculus	;20506344
+CEBPD	SP1	UP	Pubmed	;mus musculus	;20506344
+CEBPD	STAT3	UP	Pubmed	mouse, Mus musculus;	;16293640
+CETP	SP1	UP	trrd;	human, Homo sapiens;	S4001;
+CETP	SREBF1	UP	Pubmed	;homo sapiens	;10393213
+CETP	SREBF2	UP	Pubmed	;homo sapiens	;10393213
+CETP	YY1	UP	Pubmed	;homo sapiens	;10393213
+CFB	STAT2	UP	Pubmed	hUman, Homo sapiens;	;16689942
+CFLAR	AR	UP	Pubmed	mouse, Mus musculus;	16720717;
+CFLAR	CEBPA	UP	Pubmed	;mus musculus	18987666;
+CFLAR	FOXO1	DOWN	Pubmed	mouse, Mus musculus;	;15632117;
+CFLAR	GLI2	UP	Pubmed	human, Homo sapiens	;18264131
+CGA	CREB1	UP	trrd;	mouse, Mus musculus;	S6375;
+CGA	ETS1	UP	trrd;	rat, Rattus norvegicus	S4800;
+CGA	SP1	UP	trrd;	mouse, Mus musculus;	S7520;
+CGB	JUN	DOWN	trrd;	human, Homo sapiens;	S4337;
+CHEK1	E2F1	UP	Pubmed	;mus musculus	;18660752
+CHEK1	TP53	DOWN	Pubmed	human, Homo sapiens;	;11152453
+CHGA	EGR1	UP	Pubmed	human, Homo sapiens	;12456801
+CHGA	JUN	UP	trrd;	human, Homo sapiens;	S9958;
+CHI3L1	STAT3	UP	Pubmed	mouse, Mus musculus;	;16293640
+CHORDC1	STAT5A	UP	Pubmed	mouse, Mus musculus;	;16293640
+CHORDC1	STAT5B	UP	Pubmed	mouse, Mus musculus;	;16293640
+CHRM1	AR	DOWN	Pubmed	human, Homo sapiens;	17624924;
+CHRNA3	ETS1	UP	trrd;	rat, Rattus norvegicus	S9118;
+CHRNE	ETS2	UP	Pubmed	rat, Rattus norvegicus	;9448324
+CHRNE	GABPA	UP	pazar;	mouse, Mus musculus;	Pazar_Hnf4;
+CHST12	RBPJ	DOWN	Pubmed	mus musculus;	;15979417
+CHUK	ETS1	UP	Pubmed	human, Homo sapiens	;15469934
+CIDEA	SREBF1	UP	Pubmed	;mus musculus	;20575761
+CIITA	STAT1	UP	Pubmed	rAt, Rattus norvegicus	;10202014;9858567
+CISH	STAT5A	UP	Pubmed	mouse, Mus musculus;	;11696536;
+CISH	STAT5B	UP	Pubmed	mouse, Mus musculus;	;11696536;
+CITED2	FOXO1	UP	Pubmed	human, Homo sapiens; mus musculus	;17254969;12351634;
+CITED2	FOXO3	UP	Pubmed	human, Homo sapiens; mus musculus	;18158893;17353275
+CKM	MEF2A	UP	pazar	mouse, Mus musculus;	pazar_rare;
+CKS1B	GLI2	UP	Pubmed	human, Homo sapiens	;14691458
+CKS2	MYC	UP	Pubmed	human, Homo sapiens; rattus norvegicus	;11085504
+CLCA1	GLI1	DOWN	Pubmed	mus musculus;	;19095649
+CLCA2	GLI1	DOWN	Pubmed	mus musculus;	;19095649
+CLCN1	RBPJ	DOWN	Pubmed	mus musculus;	;15979417
+CLCN3	STAT3	UP	Pubmed	mouse, Mus musculus;	;16293640
+CLCN7	MITF	UP	Pubmed	human, Homo sapiens	;1999537;19067971
+CLCNKA	KLF15	DOWN	trrd	rat, Rattus norvegicus	S9339;
+CLDN1	SMAD4	DOWN	Pubmed	human, Homo sapiens; rattus norvegicus	;17308096
+CLDN2	CDX1	UP	Pubmed	;homo sapiens	11934881;
+CLDN2	CDX2	UP	Pubmed	;homo sapiens	11934881;
+CLDN2	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	; 14751232
+CLDN2	GLI1	UP	Pubmed	mus musculus;	;19095649
+CLDN2	HNF1A	UP	Pubmed	;homo sapiens	;11934881
+CLDN2	LEF1	UP	Pubmed	hUman, Homo sapiens;	; 14751232
+CLDN4	STAT2	UP	Pubmed	hUman, Homo sapiens;	;16689942;17651017;
+CLDN5	FOXO1	UP	pazar;	mouse, Mus musculus;	pazar_pleiades_20100814;
+CLEC2B	GLI2	DOWN	Pubmed	human, Homo sapiens	;14691458
+CLK1	GLI2	DOWN	Pubmed	human, Homo sapiens	;14691458
+CLK2	GLI2	UP	Pubmed	human, Homo sapiens	;14691458
+CLU	SP1	UP	trrd;	rAt, Rattus norvegicus	S9865;
+CNKSR1	GLI1	UP	Pubmed	mus musculus;	;19095649
+CNN2	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;12782598
+CNOT8	FOXO1	UP	Pubmed	human, Homo sapiens	;12351634;
+CNR1	FOXO1	DOWN	Pubmed	human, Homo sapiens	;16690806;
+CNTN2	GLI2	UP	Pubmed	human, Homo sapiens	;14691458
+COL10A1	NFKB1	DOWN	Pubmed	rat, Rattus norvegicus	;16409866
+COL10A1	RUNX2	UP	Pubmed	;homo sapiens	;19116917
+COL13A1	FOXO1	DOWN	Pubmed	mouse, Mus musculus;	;16100571;
+COL13A1	FOXO3	DOWN	Pubmed	mouse, Mus musculus;	;16100571;
+COL1A1	NFKB1	DOWN	Pubmed	human, Homo sapiens	;11277268;
+COL1A1	RELA	DOWN	Pubmed	human, Homo sapiens	;11277268;
+COL1A1	SMAD3	UP	Pubmed	human, Homo sapiens; Mus musculus	;11279127;
+COL1A1	SMAD7	DOWN	Pubmed	human, Homo sapiens; Mus musculus	;11279127;
+COL1A1	SP1	DOWN	trrd;	human, Homo sapiens;	S6152;
+COL1A1	YY1	UP	Pubmed	;mus musculus	;11514536
+COL1A2	EP300	UP	Pubmed	;mus musculus	;19828133
+COL1A2	ID2	DOWN	Pubmed	;mus musculus	;16126788
+COL1A2	ID3	DOWN	Pubmed	;mus musculus	;16126788
+COL1A2	SCXA	UP	Pubmed	;mus musculus	;19828133
+COL1A2	SMAD3	UP	Pubmed	human, Homo sapiens; Mus musculus	;11279127;
+COL1A2	SMAD7	DOWN	Pubmed	human, Homo sapiens; Mus musculus	;11279127;
+COL1A2	SOX9	UP	Pubmed	;mus musculus	;19828133
+COL1A2	SP1	UP	trrd;	hUman, Homo sapiens;	S6144;
+COL1A2	TCF3	UP	Pubmed	;mus musculus	;19828133
+COL2A1	CEBPA	DOWN	Pubmed	mouse, Mus musculus;Rattus norvegicus	18438857;
+COL2A1	EGR1	DOWN	Pubmed	human, Homo sapiens;	;12637574
+COL2A1	NFKB1	UP	Pubmed	rat, Rattus norvegicus	;16409866
+COL3A1	SMAD3	UP	Pubmed	human, Homo sapiens; Mus musculus	;11279127;
+COL3A1	SMAD7	DOWN	Pubmed	human, Homo sapiens; Mus musculus	;11279127;
+COL4A2	FOXO1	DOWN	Pubmed	mouse, Mus musculus;	;20338229;
+COL5A2	GLI2	UP	Pubmed	human, Homo sapiens	;14691458
+COL5A2	SMAD3	UP	Pubmed	human, Homo sapiens; Mus musculus	;11279127;
+COL5A2	SMAD7	DOWN	Pubmed	human, Homo sapiens; Mus musculus	;11279127;
+COL6A1	JUN	UP	trrd;	mouse, Mus musculus;	S9008;
+COL6A1	SMAD3	UP	Pubmed	human, Homo sapiens; Mus musculus	;11279127;
+COL6A1	SP1	UP	trrd;	mouse, Mus musculus;	S9010;
+COL6A2	SMAD3	UP	Pubmed	human, Homo sapiens; Mus musculus	;11279127;
+COL6A2	SMAD7	DOWN	Pubmed	human, Homo sapiens; Mus musculus	;11279127;
+COL6A3	SMAD3	UP	Pubmed	human, Homo sapiens; Mus musculus	;11279127;
+COL6A3	SMAD7	DOWN	Pubmed	human, Homo sapiens; Mus musculus	;11279127;
+COL7A1	SMAD2	UP	Pubmed	human, Homo sapiens;	;9582342;
+COL7A1	SMAD3	UP	Pubmed	human, Homo sapiens;	;9582342;
+COL7A1	SMAD4	UP	Pubmed	human, Homo sapiens;	;9582342;
+COX1	E2F1	UP	Pubmed	;homo sapiens	;10998368
+COX1	E2F6	DOWN	Pubmed	;homo sapiens	;10998368
+COX17	SP1	UP	trrd;	mouse, Mus musculus;	S9783;
+COX4I1	ETS1	UP	trrd;	mouse, Mus musculus;	S7117;
+COX4I1	GABPA	UP	pazar;	mouse, Mus musculus;	Pazar_Hnf4;
+COX4I1	SP1	UP	trrd;	mouse, Mus musculus;	S7116;
+CP	GLI1	UP	Pubmed	mouse, Mus musculus; homo sapiens	;11716497
+CPA3	GATA1	UP	pazar	mouse, Mus musculus;	Pazar_rare;
+CPA3	GATA2	UP	pazar	mouse, Mus musculus;	Pazar_rare;
+CPD	CREB1	DOWN	Pubmed	mouse, Mus musculus;	;14973073
+CPD	MYC	DOWN	Pubmed	rat, Rattus norvegicus	;11085504
+CPOX	GATA1	UP	pazar	human, Homo sapiens	;
+CPOX	SP1	UP	trrd;	hUman, Homo sapiens; Mus musculus	S2974; S5542;
+CPT1B	GATA4	UP	TRRD	rat, Rattus norvegicus	S9284;
+CPT1B	MEF2A	UP	trrd	rat, Rattus norvegicus;	S9282;
+CPT2	NR2F1	DOWN	trrd	human, Homo sapiens;	S8879;
+CR2	JUN	UP	trrd;	human, Homo sapiens;	S9967;
+CR2	NOTCH1	UP	Pubmed	mouse, Mus musculus;	;10644343
+CR2	RBPJ	UP	Pubmed	mouse, Mus musculus;	;10644343
+CRAT	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;12782598
+CREB1	CREB1	UP	trrd;	human, Homo sapiens;	S10596;
+CRH	NR3C1	DOWN	pazar	hUman, Homo sapiens;	;
+CRMP1	CEBPA	UP	Pubmed	;homo sapiens	18524846;
+CRMP1	SP1	DOWN	Pubmed	;homo sapiens	;18524846
+CRYGB	JUN	UP	trrd;	rat, Rattus norvegicus	S8526;
+CSDA	E2F1	UP	Pubmed	;homo sapiens	;15313206
+CSDA	MYC	UP	Pubmed	human, Homo sapiens;	;12747840;
+CSDE1	MYC	DOWN	Pubmed	human, Homo sapiens	;12747840;
+CSF1	NFKB1	UP	Pubmed	mouse, Mus musculus;	;7583532;
+CSF1	NOTCH1	DOWN	Pubmed	mouse, Mus musculus;	;12411305
+CSF1	RBPJ	DOWN	Pubmed	mouse, Mus musculus;	;12411305
+CSF2	ETS1	UP	trrd;	human, Homo sapiens	S10582;
+CSF2	JUN	UP	trrd;	human, Homo sapiens;	S2281;
+CSF2	NFKB1	UP	trrd	human, Homo sapiens	S3431;
+CSF2	REL	UP	trrd	human, Homo sapiens	S3431;
+CSF2	RELA	UP	trrd	human, Homo sapiens	S3431;
+CSH1	FOXM1	DOWN	NfiRegulomeDB	human, Homo sapiens	;
+CSH1	POU1F1	UP	NfiRegulomeDB	human, Homo sapiens	;
+CSH1	RFX1	DOWN	NfiRegulomeDB	hUman, Homo sapiens;	;
+CSH1	SP1	UP	NfiRegulomeDB	hUman, Homo sapiens;	;
+CSH1	TFAP2A	UP	NfiRegulomeDB	human, Homo sapiens;	;
+CSN1S1	STAT5A	UP	Pubmed	mouse, Mus musculus;	;16293640
+CSN1S1	STAT5B	UP	Pubmed	mouse, Mus musculus;	;16293640
+CSN2	STAT5A	UP	Pubmed	mouse, Mus musculus;	;18583090
+CSN2	STAT5B	UP	Pubmed	mouse, Mus musculus;	;18583090
+CSNK2A1	ETS1	UP	trrd;	human, Homo sapiens	S6725;
+CSNK2A1	NFKB1	UP	trrd	human, Homo sapiens	S6724;
+CSNK2A1	SP1	UP	trrd;	hUman, Homo sapiens;	S6722;
+CSRP2	CREB1	DOWN	Pubmed	mouse, Mus musculus;	;14973073
+CST4	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;12782598
+CTBP2	SOX6	DOWN	Pubmed	;mus musculus	;11504872
+CTGF	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;12200448
+CTGF	FOXO1	UP	Pubmed	mouse, Mus musculus;	;17254969
+CTGF	TCF7L2	UP	Pubmed	hUman, Homo sapiens;	;12200448
+CTNNA2	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;12782598
+CTNNB1	CTNNB1	DOWN	Pubmed	human, Homo sapiens;	;16959035
+CTNNB1	JUN	UP	Pubmed	;homo sapiens; mus musculus; rattus norvegicus	;14706452
+CTNNB1	SMAD7	UP	Pubmed	rat, Rattus norvegicus; mus musculus	;1568439;15684397;
+CTNNB1	TCF7L2	UP	Pubmed	;homo sapiens; mus musculus; rattus norvegicus	;14706452
+CTNNB1	TP53	DOWN	Pubmed	human, Homo sapiens;	;11564862
+CTNNBIP1	E2F1	UP	Pubmed	;homo sapiens	; 21532622
+CTNND2	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;12782598
+CTNND2	E2F1	UP	Pubmed	;homo sapiens	;18302937
+CTNND2	HES1	DOWN	Pubmed	;homo sapiens	;21106062
+CTR9	GLI2	DOWN	Pubmed	human, Homo sapiens	;14691458
+CTSD	SP1	UP	trrd;	hUman, Homo sapiens;	S7124;
+CTSE	FOXO1	UP	Pubmed	mouse, Mus musculus;	;16492665;
+CTSE	GATA1	UP	Pubmed	human, Homo sapiens	;11322887
+CTSE	SPI1	UP	Pubmed	;homo sapiens; mus musculus	;11322887
+CTSE	YY1	DOWN	Pubmed	;homo sapiens; mus musculus	;11322887
+CTSG	SPI1	DOWN	pazar	hUman, Homo sapiens;	;
+CTSL1	GLI2	UP	Pubmed	human, Homo sapiens	;14691458
+CX3CL1	GLI1	DOWN	Pubmed	mus musculus;	;19095649
+CXCL1	NFKB1	UP	trrd	human, Homo sapiens	S206;
+CXCL12	CTNNB1	DOWN	Pubmed	hUman, Homo sapiens;	;16132617
+CXCL14	GLI1	UP	Pubmed	mus musculus;	;19095649
+CXCL2	NFKB1	UP	trrd	mouse, Mus musculus;	S7912;
+CXCL2	RELA	UP	trrd	mouse, Mus musculus;	S7912;
+CXCL2	RELB	UP	trrd	mouse, Mus musculus;	S7912;
+CXCL3	NFKB1	UP	Trrd	human, Homo sapiens	S210;
+CXCL6	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;16132617
+CXCL9	STAT1	UP	Pubmed	mouse, Mus musculus;	;12403783
+CXCR4	FOXO1	UP	Pubmed	mouse, Mus musculus;	;16100571;
+CXCR4	FOXO3	UP	Pubmed	mouse, Mus musculus;	;16100571;
+CXCR4	GLI1	UP	Pubmed	human, Homo sapiens; rattus norvegicus	;18924150
+CXCR4	YY1	DOWN	Pubmed	;homo sapiens	;11145693
+CYBB	SPI1	DOWN	pazar	human, Homo sapiens;	;
+CYCS	CTNNB1	DOWN	Pubmed	mouse, Mus musculus;	;12907606
+CYCS	TCF7L2	DOWN	Pubmed	mouse, Mus musculus;	;12907606
+CYP11A1	NR5A1	UP	Pubmed	hUman, Homo sapiens;	S2674; 8026494
+CYP11A1	SP1	UP	trrd;	human, Homo sapiens;	S3302;
+CYP11B1	NR5A1	UP	trrd;	mouse, Mus musculus;	S5191;
+CYP17A1	NR2F1	DOWN	trrd	rAt, Rattus norvegicus	S3972;
+CYP17A1	NR5A1	UP	NfiRegulomeDB	;homo sapiens	;
+CYP17A1	SMAD3	DOWN	Pubmed	;homo sapiens	;17786540
+CYP17A1	SP1	UP	trrd;	human, Homo sapiens;	S8633;
+CYP17A1	SP3	UP	trrd	hUman, Homo sapiens;	S8633;
+CYP19A1	CREB1	UP	trrd;	rat, Rattus norvegicus	S3297;
+CYP19A1	NR2F1	DOWN	trrd	hUman, Homo sapiens;	S4316;
+CYP19A1	NR5A1	UP	trrd;	hUman, Homo sapiens;	S3313;
+CYP1A2	HNF1A	UP	Pubmed	mouse, Mus musculus;	;14599559
+CYP21A2	NR5A1	UP	trrd;	human, Homo sapiens;	S8338;
+CYP24A1	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;12782598
+CYP26A1	CTNNB1	UP	Pubmed	zebra fish; mouse; human	;16885356
+CYP26A1	SP3	UP	trrd	mouse, Mus musculus;	S9756;
+CYP26A1	TCF7L2	UP	Pubmed	zebra fish; mouse; human	;16885356
+CYP27A1	ETS2	UP	trrd;	rat, Rattus norvegicus	S6439;
+CYP27A1	HNF1A	UP	Pubmed	;rattus norvegicus	;10528998
+CYP27A1	SP1	UP	trrd;	rAt, Rattus norvegicus	S6441;
+CYP2A5	HNF1A	UP	Pubmed	;mus musculus	;15115437
+CYP2A5	HNF4A	UP	Pubmed	;mus musculus	;15115437
+CYP2B6	CTNNB1	UP	Pubmed	mouse, Mus musculus;	;15471898
+CYP2E1	HNF1A	UP	Pubmed	;homo sapiens	;12604681
+CYP4A14	PPARA	UP	Pubmed	mouse, Mus musculus;	;18189363
+CYP4A31	PPARA	UP	Pubmed	rat, Rattus norvegicus	;18222077;
+CYP4F2	SREBF1	UP	Pubmed	;homo sapiens	;17142457
+CYP4F2	SREBF2	UP	Pubmed	;homo sapiens	;17142457
+CYP7A1	NR1H2	UP	Pubmed	rat, Rattus norvegicus	;12917410
+CYP7A1	NR1H3	UP	Pubmed	rat, Rattus norvegicus	;12917410
+CYP7A1	NR2F2	UP	trrd	rAt, Rattus norvegicus	S2154;
+CYP7B1	NR1H2	DOWN	Pubmed	mouse, Mus musculus;	;18055760
+CYP7B1	NR1H3	DOWN	Pubmed	mouse, Mus musculus;	;18055760
+CYP8B1	SREBF1	UP	Pubmed	;homo sapiens; mus musculus; rattus norvegicus	;15249218
+CYP8B1	SREBF2	DOWN	Pubmed	;rattus norvegicus	;11741989
+CYR61	CREB1	UP	Pubmed	mouse, Mus musculus;	;14973073
+CYR61	SMAD2	UP	Pubmed	;homo sapiens	;16616811
+CYR61	SMAD3	UP	Pubmed	;homo sapiens	;16616811
+CYR61	SMAD4	UP	Pubmed	;homo sapiens	;16616811
+DAAM1	FOXO1	UP	Pubmed	human, Homo sapiens	;12351634;
+DAAM1	FOXO3	UP	Pubmed	human, Homo sapiens	;12351634;
+DAP3	CTNNB1	DOWN	Pubmed	human, Homo sapiens;	;16959035
+DAPK1	FOXO1	UP	Pubmed	human, Homo sapiens	;12351634;
+DAPK2	CTNNB1	DOWN	Pubmed	hUman, Homo sapiens;	;18957423
+DAPK2	E2F1	UP	Pubmed	;homo sapiens	;18521079
+DAPK2	KLF6	UP	Pubmed	;homo sapiens	;18521079
+DAPK2	SP1	UP	Pubmed	;homo sapiens	;18521079
+DAPK2	TCF7L2	DOWN	Pubmed	hUman, Homo sapiens;	;18957423
+DARC	SP1	UP	trrd;	human, Homo sapiens;	S2815;
+DARS2	GLI1	DOWN	Pubmed	human, Homo sapiens	;11719506
+DBF4	E2F1	UP	Pubmed	;homo sapiens	;18503552
+DBH	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;12782598
+DBH	EGR1	DOWN	pazar	rat, Rattus norvegicus	pazar_pleiades_20100814;
+DBH	REPIN1	DOWN	pazar	human, Homo sapiens;	;
+DBH	SP1	UP	trrd;	hUman, Homo sapiens;	S10151;
+DBI	AR	UP	Pubmed	human, Homo sapiens;	8634149;
+DCAF6	AR	UP	Pubmed	human, Homo sapiens;	17984071;
+DCAF6	SP1	UP	Pubmed	hUman, Homo sapiens;	;17984071
+DCN	FOXO1	UP	Pubmed	human, Homo sapiens	;16690806;
+DCT	CREB1	UP	Pubmed	human, Homo sapiens;	;1999537
+DCT	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;12032083
+DCT	LEF1	UP	Pubmed	human, Homo sapiens	;1999537;
+DCT	MITF	UP	Pubmed	human, Homo sapiens	;1999537;19067971
+DCT	PAX3	DOWN	Pubmed	human, Homo sapiens;	;1999537;
+DCT	SOX10	DOWN	Pubmed	human, Homo sapiens;	;1999537
+DDB2	E2F1	UP	Pubmed	;mus musculus	;17173070
+DDB2	TP53	UP	pazar	human, Homo sapiens;	pazar_ABS;pazar_pleiades;
+DDC	HNF1A	UP	Pubmed	;rattus norvegicus	;8626808
+DDT	AR	UP	Pubmed	human, Homo sapiens;	17553165;
+DDX17	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;12782598
+DDX18	MYC	UP	Pubmed	human, Homo sapiens;	;12747840;14519204
+DDX5	MYC	UP	Pubmed	human, Homo sapiens; rattus norvegicus	;11085504
+DDX6	RBPJ	DOWN	Pubmed	mus musculus;	;15979417
+DEFA5	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;12782598
+DES	STAT2	UP	Pubmed	hUman, Homo sapiens;	;16689942;
+DGKE	STAT2	UP	Pubmed	hUman, Homo sapiens;	;16689942;
+DHCR7	SP1	UP	trrd;	rAt, Rattus norvegicus	S9059;
+DHCR7	SREBF1	UP	Pubmed	mouse, Mus musculus;	;11279217
+DHFR	E2F1	UP	Pubmed	;homo sapiens; mus musculus	;8441401; 8816912; 10597240; 10336493
+DHX15	AR	UP	Pubmed	human, Homo sapiens;	11867260;
+DIABLO	E2F1	UP	Pubmed	;homo sapiens	;16617145; 18660514
+DIABLO	PAWR	UP	Pubmed	;homo sapiens	;18660514
+DIAPH1	MITF	UP	Pubmed	human, Homo sapiens	;1999537;19067971
+DIO2	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;12782598
+DIO2	JUN	DOWN	trrd;	human, Homo sapiens;	S6890;
+DIO2	RBPJ	DOWN	Pubmed	mus musculus;	;15979417
+DIO3	GLI2	UP	Pubmed	mouse, Mus musculus;	;17720805
+DIRAS3	E2F1	DOWN	Pubmed	;homo sapiens	;16638845; 16158053
+DIRAS3	E2F4	DOWN	Pubmed	;homo sapiens	;16638845; 16158053
+DKK1	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;15592430; 15592505
+DKK1	FOXO1	UP	Pubmed	mouse, Mus musculus;	;16100571;
+DKK1	FOXO3	UP	Pubmed	mouse, Mus musculus;	;16100571;
+DKK1	TCF7L2	UP	Pubmed	hUman, Homo sapiens;	;15592430; 15592505
+DKK1	TP53	UP	Pubmed	hUman, Homo sapiens;	;10777218
+DKK2	CREB1	DOWN	Pubmed	mouse, Mus musculus;	;14973073
+DKK4	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;18408752
+DLD	ETS1	UP	trrd;	mouse, Mus musculus;	S9753;
+DLD	GABPA	UP	pazar;	mouse, Mus musculus;	Pazar_oreganno;
+DLEU1	MYC	DOWN	Pubmed	human, Homo sapiens	;12747840;12808131;
+DLEU2	MYC	DOWN	Pubmed	human, Homo sapiens;	;12747840;12808131
+DLK1	E2F1	UP	Pubmed	;mus musculus	;19874716
+DLK1	EGR1	UP	trrd;	rat, Rattus norvegicus	S6707;
+DLK1	RBPJ	DOWN	Pubmed	human, Homo sapiens;	;18375046
+DLK1	SP1	UP	trrd;	rAt, Rattus norvegicus	S6710;
+DLK1	SP3	UP	trrd	rAt, Rattus norvegicus	S6710;
+DLL1	CTNNB1	UP	Pubmed	mouse, Mus musculus;	;15545629
+DLL1	LEF1	UP	Pubmed	mouse, Mus musculus;	;15545629
+DLL4	HIF1A	UP	Pubmed	human, Homo sapiens	;16204037
+DLL4	NOTCH4	UP	Pubmed	human, Homo sapiens;	;12814948
+DLL4	RBPJ	UP	Pubmed	human, Homo sapiens;	;12814948
+DLX3	GLI2	DOWN	Pubmed	human, Homo sapiens	;14691458
+DLX3	SMAD1	UP	Pubmed	mouse, Mus musculus;	;11788714;
+DLX3	SMAD4	UP	Pubmed	mouse, Mus musculus;	;11788714;
+DLX4	RBPJ	DOWN	Pubmed	mus musculus;	;15979417
+DLX5	GLI2	DOWN	Pubmed	human, Homo sapiens	;14691458
+DMP1	CTNNB1	UP	Pubmed	mouse, Mus musculus;	;19213727
+DMP1	GLI1	DOWN	Pubmed	mus musculus;	;19095649
+DMP1	SMAD2	UP	Pubmed	;mus musculus	;12489180
+DMP1	SMAD3	UP	Pubmed	;mus musculus	;12489180
+DMP1	SMAD4	UP	Pubmed	;mus musculus	;12489180
+DNAJB1	MYC	UP	Pubmed	human, Homo sapiens	;11983916
+DNAJB4	YY1	UP	Pubmed	;homo sapiens	;15782117
+DNAJB9	GLI1	DOWN	Pubmed	human, Homo sapiens; rattus norvegicus	;18924150
+DNER	GLI1	UP	Pubmed	mus musculus;	;19095649
+DNMT1	CDKN1A	DOWN	Pubmed	;homo sapiens	19275888;
+DNMT1	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;12538344
+DNMT1	E2F1	UP	Pubmed	;homo sapiens; mus musculus	;15867357; 17575144
+DNMT1	EP300	UP	Pubmed	;homo sapiens	;19275888
+DNMT1	SP1	UP	trrd;	mouse, Mus musculus;	S9325;
+DPAGT1	STAT5A	UP	Pubmed	mouse, Mus musculus;	;12649593;
+DPAGT1	STAT5B	UP	Pubmed	mouse, Mus musculus;	;12649593;
+DPEP1	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;12782598
+DPY30	MYC	UP	Pubmed	human, Homo sapiens;	;12747840
+DRAM1	E2F1	UP	Pubmed	;homo sapiens	;18408756
+DRD1	TFAP2A	UP	pazar	human, Homo sapiens;	;
+DRD2	KLF16	DOWN	pazar	rat, Rattus norvegicus	0
+DRG2	GLI1	UP	Pubmed	human, Homo sapiens	;11719506
+DSP	CTNNB1	DOWN	Pubmed	hUman, Homo sapiens;	;15979100
+DSP	LEF1	DOWN	Pubmed	hUman, Homo sapiens;	;15979100
+DSPP	DLX5	UP	Pubmed	;mus musculus	;20843790
+DSPP	MSX2	DOWN	Pubmed	;mus musculus	;20843790
+DSPP	RUNX2	UP	Pubmed	;mus musculus	;20843790
+DSPP	SMAD1	UP	Pubmed	;mus musculus	;20843790
+DSPP	SMAD2	UP	Pubmed	;mus musculus	;12489180
+DSPP	SMAD3	UP	Pubmed	;mus musculus	;12489180
+DSPP	SMAD4	UP	Pubmed	;mus musculus	;12489180
+DSPP	SMAD5	UP	Pubmed	;mus musculus	;20843790
+DST	FOXO3	UP	Pubmed	human, Homo sapiens	;12351634;
+DST	GLI2	DOWN	Pubmed	human, Homo sapiens	;14691458
+DTL	E2F1	UP	Pubmed	;homo sapiens	;18213392
+DTX1	NOTCH1	UP	Pubmed	mouse, Mus musculus;	;10933396;9881968;15356142
+DTX1	RBPJ	UP	Pubmed	mouse, Mus musculus;	;10933396;9881968;15356142
+DUSP1	CREB1	UP	Pubmed	mouse, Mus musculus;	;14973073
+DUSP1	E2F1	UP	Pubmed	;homo sapiens	;17638884; 17471234
+DUSP1	MYC	DOWN	Pubmed	human, Homo sapiens	;14519204
+DUSP1	TP53	UP	Pubmed	human, Homo sapiens;	;12890671
+DUSP4	FOXO1	DOWN	Pubmed	human, Homo sapiens	;12351634;
+DUSP6	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;15592430
+DYNC1I1	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;15592430
+DYRK1A	E2F1	UP	Pubmed	;homo sapiens	;18366763
+E2F1	CTNNB1	UP	Pubmed	mouse, Mus musculus;	;19900401
+E2F1	E2F1	UP	Pubmed	mouse, Mus musculus;homo sapiens	;7958836; 14576826
+E2F1	E2F2	UP	Pubmed	;homo sapiens	;7958836
+E2F1	E2F3	UP	Pubmed	;homo sapiens	;7958836; 14576826
+E2F1	E2F4	DOWN	Pubmed	;homo sapiens	;14576826
+E2F1	E2F6	DOWN	Pubmed	;homo sapiens	; 18562691
+E2F1	ESR1	UP	Pubmed	human, Homo sapiens;homo sapiens	;20215421
+E2F1	GLI2	UP	Pubmed	human, Homo sapiens	;14691458
+E2F1	HES1	DOWN	Pubmed	;homo sapiens	;15467735
+E2F1	LEF1	UP	Pubmed	;homo sapiens	;17980157
+E2F1	MYC	UP	Pubmed	human, Homo sapiens;homo sapiens	;19603422
+E2F1	NFYA	UP	Pubmed	;mus musculus	;20952509
+E2F1	NR4A1	UP	Pubmed	;homo sapiens	;12947120
+E2F1	SP1	UP	trrd;	mouse, Mus musculus;	S1784;
+E2F1	THRA	UP	Pubmed	;homo sapiens	;12511608
+E2F1	THRB	UP	Pubmed	;homo sapiens	;12511608
+E2F3	MYC	UP	Pubmed	rat, Rattus norvegicus	;10779353
+E2F6	E2F1	UP	Pubmed	;homo sapiens	;16107498
+EBF1	CEBPB	UP	Pubmed	;mus musculus	17060461;
+EBF1	CEBPD	UP	Pubmed	;mus musculus	17060461;
+EBP	HNF4A	UP	Pubmed	;homo sapiens	;12855700
+EBP	SREBF2	UP	Pubmed	hUman, Homo sapiens;	;12855700
+ECM1	CTNNB1	UP	Pubmed	hUman, Homo sapiens; Mus musculus	;12782598;15642117
+ECT2	CUX1	DOWN	Pubmed	;homo sapiens	;19015243
+ECT2	E2F1	UP	Pubmed	;homo sapiens	;19015243
+EDN1	CREB1	UP	Pubmed	mouse, Mus musculus;	;14973073
+EDN1	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;15558022
+EDN1	GLI2	UP	Pubmed	human, Homo sapiens	;14691458
+EDN1	JUN	UP	Pubmed	;homo sapiens	16740983;
+EDN1	SMAD3	UP	Pubmed	;homo sapiens	;16740983; 17376964
+EDN1	TCF7L2	UP	Pubmed	hUman, Homo sapiens;	;15558022
+EDN3	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;12782598
+EEF2	MYC	UP	Pubmed	rat, Rattus norvegicus	;11085504
+EFEMP1	GLI2	DOWN	Pubmed	human, Homo sapiens	;14691458
+EFNA1	GLI2	DOWN	Pubmed	human, Homo sapiens	;14691458
+EFNB2	GLI1	UP	Pubmed	mus musculus;	;19095649
+EGF	YY1	UP	Pubmed	;mus musculus	;9687156
+EGFR	EGR1	UP	Pubmed	human, Homo sapiens;	;11830539
+EGFR	GLI2	DOWN	Pubmed	human, Homo sapiens	;14691458
+EGFR	SP1	UP	trrd;	human, Homo sapiens;	S1310;
+EGFR	TP53	UP	Pubmed	human, Homo sapiens;	;8152794
+EGR1	E2F1	UP	Pubmed	;homo sapiens	;19276347
+EGR1	ETS1	UP	trrd;	mouse, Mus musculus;	S1534;
+EGR1	RELA	DOWN	Pubmed	human, Homo sapiens	;19276347;
+EGR2	GLI1	DOWN	Pubmed	human, Homo sapiens; rattus norvegicus	;18924150
+EI24	MYC	UP	Pubmed	human, Homo sapiens	;11983916
+EI24	TP53	UP	pazar	mouse, Mus musculus;	pazar_pleiades;
+EIF3B	MYC	UP	Pubmed	human, Homo sapiens	;11983916;
+EIF3C	MYC	UP	Pubmed	human, Homo sapiens;	;12747840
+EIF4B	MYC	UP	Pubmed	human, Homo sapiens;	;12747840
+EIF4E	MYC	UP	Pubmed	human, Homo sapiens;	;14519204
+EIF4G1	FOXO1	UP	Pubmed	human, Homo sapiens	;18301748
+EIF5	MYC	UP	Pubmed	human, Homo sapiens	;11983916
+EIF5B	STAT3	UP	Pubmed	mouse, Mus musculus;	;16293640
+ELA1	PDX1	UP	trrd	rAt, Rattus norvegicus	S8592;
+ELANE	ETS1	UP	trrd;	mouse, Mus musculus;	S3251;
+ELANE	GABPA	UP	pazar;	mouse, Mus musculus;	Pazar_Stat_lit;
+ELF3	NFKB1	UP	Pubmed	human, Homo sapiens	;12746898;
+ELF3	RELA	UP	Pubmed	human, Homo sapiens	;12746898;
+ELF4	E2F1	UP	Pubmed	;homo sapiens	; 20805247
+ELF4	TP53	DOWN	Pubmed	;homo sapiens	; 20805247
+ELK1	EGR1	UP	pazar	human, Homo sapiens;	pazar_pleiades_20100814;
+ELK3	FOXO1	DOWN	Pubmed	mouse, Mus musculus;	;16100571;
+ELK3	FOXO3	DOWN	Pubmed	mouse, Mus musculus;	;16100571;
+ELOVL5	FOXO1	DOWN	Pubmed	mouse, Mus musculus;	;16492665;
+ELOVL5	PPARA	UP	Pubmed	human, Homo sapiens; Mus musculus	;16564093;
+ELOVL5	SREBF1	UP	Pubmed	mouse, Mus musculus;	;19136075
+ELOVL6	FOXO1	DOWN	Pubmed	mouse, Mus musculus;	;16492665;
+ELOVL6	PPARA	UP	Pubmed	human, Homo sapiens; Mus musculus	;16564093;
+ELOVL6	SREBF1	UP	Pubmed	;mus musculus	;18226595
+EMB	GLI1	DOWN	Pubmed	human, Homo sapiens	;11719506
+EMP1	CTNNB1	UP	Pubmed	mouse, Mus musculus;	;12154096
+EMX2	CTNNB1	UP	Pubmed	rAt, Rattus norvegicus	;17693601
+ENC1	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;11691783
+ENC1	TCF7L2	UP	Pubmed	hUman, Homo sapiens;	;11691783
+ENDOU	MYC	UP	Pubmed	rat, Rattus norvegicus	;11085504
+ENHO	NR1H2	DOWN	Pubmed	mouse, Mus musculus;	;19041763
+ENHO	NR1H3	DOWN	Pubmed	mouse, Mus musculus;	;19041763
+ENO1	HIF1A	UP	Pubmed	human, Homo sapiens;	;8955077
+ENO1	MYC	UP	Pubmed	human, Homo sapiens; rattus norvegicus	;1451920411983916;11085504;1451920411085504;
+ENPP1	MSX2	UP	Pubmed	;mus musculus	;20803545
+ENPP1	RUNX2	UP	Pubmed	;mus musculus	;20803545; 19049325
+ENPP2	CTNNB1	UP	Pubmed	hUman, Homo sapiens; Mus musculus	;15592430;15642117
+EP300	EGR1	UP	Pubmed	human, Homo sapiens	;18798221
+EPB41L4A	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;10874211
+EPB42	GATA1	UP	pazar	mouse, Mus musculus;	Pazar_tfe;
+EPCAM	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;18006828
+EPCAM	TCF7L2	UP	Pubmed	hUman, Homo sapiens;	;18006828
+EPHA2	TP53	UP	Pubmed	mouse, Mus musculus;	;11641774
+EPHB2	CTNNB1	UP	Pubmed	mouse, Mus musculus;	;12408869
+EPHB2	LEF1	UP	Pubmed	mouse, Mus musculus;	;12408869
+EPHB2	TCF7	UP	Pubmed	mouse, Mus musculus;	;12408869
+EPHB3	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;12782598;12408869
+EPHB3	LEF1	UP	Pubmed	hUman, Homo sapiens;	;12782598;12408869
+EPHB3	TCF7	UP	Pubmed	hUman, Homo sapiens;	;12782598;12408869
+EPO	GATA1	UP	pazar	mouse, Mus musculus;	Pazar_oreganno
+EPO	GATA2	DOWN	pazar	human, Homo sapiens	pazar_pleiades_20100814;
+EPO	NR2F1	DOWN	trrd	human, Homo sapiens;	S1401;
+EPO	SMAD3	UP	Pubmed	human, Homo sapiens;	;14741200;
+EPO	SMAD4	UP	Pubmed	human, Homo sapiens;	;14741200;
+EPOR	GATA1	UP	pazar	mouse, Mus musculus;	Pazar_oreganno
+EPOR	SP1	UP	trrd;	mouse, Mus musculus; Homo sapiens	S2372; S227;
+EPRS	MYC	UP	Pubmed	human, Homo sapiens	;11983916
+ERBB2	RBPJ	UP	Pubmed	human, Homo sapiens;	;9162037
+ERBB2	TFAP2A	UP	Pubmed	human, Homo sapiens;homo sapiens	;15870067
+ERBB2	YY1	UP	Pubmed	;homo sapiens	;15870067
+ESR1	RUNX2	DOWN	Pubmed	;homo sapiens	;17350616
+ESR1	STAT5A	UP	Pubmed	rAt, Rattus norvegicus	;11731618;
+ESR1	STAT5B	UP	Pubmed	rAt, Rattus norvegicus	;11731618;
+ETV5	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;15592430
+ETV6	CREB1	UP	Pubmed	mouse, Mus musculus;	;14973073
+EVPL	SP1	UP	trrd;	hUman, Homo sapiens;	S5667;
+EXOSC6	CREB1	UP	Pubmed	mouse, Mus musculus;	;14973073
+EXOSC8	MYC	UP	Pubmed	human, Homo sapiens	;12747840
+EZH2	TP53	DOWN	Pubmed	human, Homo sapiens;	;15208672
+F10	GATA4	UP	pazar	human, Homo sapiens	pazar_pleiades_20100814;
+F10	SP1	UP	trrd;	hUman, Homo sapiens;	S5998;
+F10	SP3	UP	trrd	hUman, Homo sapiens;	S5999;
+F13A1	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;12782598
+F13A1	GATA1	UP	pazar	human, Homo sapiens	pazar_pleiades_20100814;
+F13A1	SP1	UP	trrd;	hUman, Homo sapiens;	S4077;
+F2	FOXA2	UP	Pubmed	;homo sapiens	;12911579
+F2	HNF4A	UP	Pubmed	;homo sapiens	;12911579
+F2	SP1	UP	Pubmed	;homo sapiens	;12911579
+F2	SP3	UP	Pubmed	human, Homo sapiens;homo sapiens	;12911579
+F3	EGR1	UP	trrd;	human, Homo sapiens	S5884;
+F3	NFKB1	UP	Pubmed	human, Homo sapiens	;12746898;11057875;
+F3	RELA	UP	Pubmed	human, Homo sapiens	;12746898;11057875;
+FA2H	GLI1	UP	Pubmed	mus musculus;	;19095649
+FABP2	FOXO1	UP	Pubmed	mouse, Mus musculus;	;16492665;
+FABP2	GATA4	UP	Pubmed	mouse, Mus musculus;	;17290010
+FABP2	HNF1A	UP	Pubmed	human, Homo sapiens	;18440731
+FABP2	SMAD2	UP	Pubmed	;mus musculus	;17290010
+FABP2	SMAD3	UP	Pubmed	;mus musculus	;17290010
+FABP2	SMAD4	UP	Pubmed	;mus musculus	;17290010
+FABP3	PPARA	UP	Pubmed	human, Homo sapiens; Mus musculus	;16936205;
+FABP4	CEBPA	UP	NFIRegulomeDB;	mouse, Mus musculus;	;
+FABP4	JUN	UP	NFIregulomeDB;	mouse, Mus musculus;	;
+FABP7	RBPJ	UP	Pubmed	mouse, Mus musculus;	;15879553
+FADD	CTNNB1	DOWN	Pubmed	human, Homo sapiens;	;16959035
+FADS1	PPARA	UP	Pubmed	human, Homo sapiens; Mus musculus	;11792729;
+FADS1	SREBF1	UP	Pubmed	mouse, Mus musculus;	;11792729
+FADS2	GLI1	UP	Pubmed	mus musculus;	;19095649
+FADS2	PPARA	UP	Pubmed	hUman, Homo sapiens;	;15189125;
+FAM115A	FOXO1	UP	Pubmed	human, Homo sapiens	;12351634;
+FAM126A	CTNNB1	DOWN	Pubmed	hUman, Homo sapiens;	;10910037
+FAM189A2	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;12782598
+FANCD2	CDKN2A	DOWN	Pubmed	;homo sapiens	18438432;
+FANCD2	E2F1	UP	Pubmed	;homo sapiens	;18438432
+FAS	EGR1	DOWN	Pubmed	human, Homo sapiens	;9300687;
+FAS	ETS1	UP	Pubmed	human, Homo sapiens	;11970950
+FAS	SP1	UP	trrd;	rAt, Rattus norvegicus; homo sapiens	S6079; S6082;
+FAS	SP3	UP	trrd	mouse, Mus musculus;	S7061;
+FAS	TP53	UP	pazar	hUman, Homo sapiens;	pazar_ABS;
+FAS	YY1	DOWN	Pubmed	;homo sapiens	;11418634
+FASLG	FOXO1	UP	Pubmed	mouse, Mus musculus;	;15632117;16006742;
+FASLG	HBP1	UP	Pubmed	human, Homo sapiens	;16179914;
+FASLG	MYC	UP	Pubmed	human, Homo sapiens	;14519204
+FASLG	SP1	UP	trrd;	mouse, Mus musculus;	S8393;
+FASN	AR	UP	Pubmed	human, Homo sapiens;	15048993;
+FASN	MYC	UP	Pubmed	human, Homo sapiens	;14519204
+FASN	SREBF1	UP	Pubmed	;rattus norvegicus	;12177166
+FASN	SREBF2	UP	Pubmed	;rattus norvegicus	;12177166
+FASN	TP53	DOWN	Pubmed	;mus musculus	;12734185
+FASN	USF1	UP	Pubmed	;mus musculus	;17197698
+FBLIM1	GLI1	UP	Pubmed	mus musculus;	;19095649
+FBLN2	CTNNB1	DOWN	Pubmed	hUman, Homo sapiens;	;16132617
+FBN1	FOXO1	DOWN	Pubmed	mouse, Mus musculus;	;17254969
+FBN2	E2F1	UP	Pubmed	;mus musculus	;19142862
+FBN2	E2F2	UP	Pubmed	;mus musculus	;19142862
+FBN2	E2F3	UP	Pubmed	;mus musculus	;19142862
+FBN2	E2F4	DOWN	Pubmed	;mus musculus	;19142862
+FBN2	GLI1	UP	Pubmed	mus musculus;	;19095649
+FBP1	NFKB1	UP	Pubmed	human, Homo sapiens; rattus norvegicus	;11023824;
+FBP1	NR1H2	DOWN	Pubmed	human, Homo sapiens	;19258656
+FBP1	NR1H3	DOWN	Pubmed	human, Homo sapiens	;19258656
+FBXL16	E2F1	UP	Pubmed	;homo sapiens	;20043084
+FBXO32	FOXO4	UP	Pubmed	mouse, Mus musculus;	;18701653;
+FBXO43	E2F1	UP	Pubmed	;homo sapiens	;18439978
+FBXO43	E2F2	UP	Pubmed	;homo sapiens	;18439978
+FBXO43	E2F3	UP	Pubmed	;homo sapiens	;18439978
+FBXO5	E2F1	UP	Pubmed	;homo sapiens	;18439978
+FBXO5	E2F2	UP	Pubmed	;homo sapiens	;18439978
+FBXO5	E2F3	UP	Pubmed	;homo sapiens	;18439978
+FBXO5	E2F4	UP	Pubmed	;homo sapiens	;18439978
+FCER2	EGR1	DOWN	Pubmed	human, Homo sapiens;	;9300687
+FCER2	NOTCH2	UP	Pubmed	human, Homo sapiens;	;11986231
+FCER2	RBPJ	UP	Pubmed	human, Homo sapiens;	;11986231
+FCGR1A	STAT1	UP	Pubmed	hUman, Homo sapiens;	;10820245
+FCGR1A	STAT5A	UP	Pubmed	hUman, Homo sapiens;	;10820245
+FCGR1A	STAT5B	UP	Pubmed	hUman, Homo sapiens;	;10820245
+FDFT1	SREBF1	UP	Pubmed	;homo sapiens	;9575211
+FDFT1	SREBF2	UP	Pubmed	;homo sapiens	;9575211
+FDPS	CREBBP	UP	Pubmed	;homo sapiens	;9651391
+FDPS	NFYA	UP	Pubmed	;homo sapiens	;7665553
+FDPS	SREBF1	UP	Pubmed	;homo sapiens	;9651391
+FDPS	SREBF2	UP	Pubmed	;rattus norvegicus	;12177166
+FDPS	YY1	DOWN	Pubmed	;homo sapiens	;10318878
+FDX1	SP1	UP	trrd;	hUman, Homo sapiens;	S3995;
+FDXR	TP53	UP	pazar	mouse, Mus musculus;	pazar_ABS;pazar_pleiades;
+FECH	HNF1A	UP	Pubmed	;mus musculus	;10617683
+FEN1	GLI2	UP	Pubmed	human, Homo sapiens	;14691458
+FES	RBPJ	DOWN	Pubmed	mus musculus;	;15979417
+FES	SPI1	UP	pazar	human, Homo sapiens;	;
+FGA	STAT3	UP	Pubmed	hUman, Homo sapiens;	;16524883;
+FGF10	GLI2	DOWN	Pubmed	mouse, Mus musculus; rattus norvegicus	;15328011;12384550
+FGF13	GLI2	UP	Pubmed	human, Homo sapiens	;14691458
+FGF18	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;14559787
+FGF18	TCF7L2	UP	Pubmed	hUman, Homo sapiens;	;14559787
+FGF19	GLI2	UP	Pubmed	mouse, Mus musculus;	;18279667
+FGF2	E2F3	UP	Pubmed	;mus musculus	;19564414
+FGF20	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;15592430
+FGF3	GATA4	UP	pazar	mouse, Mus musculus;	Pazar_oreganno
+FGF3	SOX2	DOWN	Pubmed	;mus musculus	;15082719
+FGF3	SOX7	UP	Pubmed	;mus musculus	;15082719
+FGF4	POU5F1	UP	Pubmed	mouse, Mus musculus;mus musculus	;7590241
+FGF4	SOX2	UP	Pubmed	;mus musculus	;7590241
+FGF5	GLI1	UP	Pubmed	mus musculus;	;19095649
+FGF6	RBPJ	UP	Pubmed	mus musculus;	;15979417
+FGF9	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;12782598;16452189
+FGFR1	E2F1	UP	Pubmed	;homo sapiens	;19303924
+FGFR2	E2F1	UP	Pubmed	;mus musculus	;12944911
+FGFR2	E2F2	UP	Pubmed	;mus musculus	;12944911
+FGFR2	E2F3	UP	Pubmed	;mus musculus	;12944911
+FGG	SP1	UP	trrd;	rAt, Rattus norvegicus	S5555;
+FGG	USF1	UP	Pubmed	;homo sapiens	;7499336
+FGL1	HMGA1	UP	Pubmed	;homo sapiens	;19304666
+FGL1	HNF1A	UP	Pubmed	;homo sapiens	;19304666
+FJX1	RBPJ	UP	Pubmed	human, Homo sapiens; mus musculus	;16145673
+FKBP1A	GLI1	DOWN	Pubmed	mus musculus;	;19095649
+FKBP4	MYC	UP	Pubmed	human, Homo sapiens	;14519204
+FKBP5	AR	UP	Pubmed	human, Homo sapiens;	19433513;11867260;16210365;
+FLT1	E2F1	UP	Pubmed	;homo sapiens	;20516113
+FLT1	ETS1	UP	Pubmed	human, Homo sapiens	;16861237
+FMO1	GLI1	UP	Pubmed	mus musculus;	;19095649;17873912
+FN1	EGR1	UP	Pubmed	human, Homo sapiens;	;10783396
+FN1	MYC	DOWN	Pubmed	human, Homo sapiens	;14519204
+FN1	NFKB1	DOWN	Pubmed	human, Homo sapiens	;10649441;
+FN1	RELA	DOWN	Pubmed	human, Homo sapiens	;10649441;
+FOLH1	ETS1	UP	trrd;	human, Homo sapiens	S8436;
+FOS	AR	UP	Pubmed	human, Homo sapiens;	14614224;
+FOS	ETS1	UP	trrd;	human, Homo sapiens	S1122;
+FOS	SP1	UP	trrd;	hUman, Homo sapiens;	S1805;
+FOS	STAT1	UP	Pubmed	hUman, Homo sapiens;	;12600988
+FOS	STAT3	UP	Pubmed	human, Homo sapiens;	;16293640;12600988
+FOSL1	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;9990071
+FOXA1	GLI1	DOWN	Pubmed	human, Homo sapiens; rattus norvegicus	;18924150
+FOXA1	SP1	DOWN	trrd;	rAt, Rattus norvegicus	S2886;
+FOXA2	CEBPA	UP	Pubmed	human, Homo sapiens;homo sapiens; mus musculus	15205324;
+FOXA2	GLI1	UP	Pubmed	mouse, Mus musculus;	;12384550;9247260;10433919;9118802
+FOXD1	ETS1	UP	trrd;	human, Homo sapiens	S6662;
+FOXD1	GLI1	UP	Pubmed	mouse, Mus musculus;	;12444557
+FOXE1	GLI2	UP	Pubmed	human, Homo sapiens	;14691458;15367491;15140221
+FOXJ1	SOX2	UP	Pubmed	;mus musculus	;20011520
+FOXM1	GLI1	UP	Pubmed	mouse, Mus musculus;	;12183437
+FOXN1	CTNNB1	UP	Pubmed	mouse, Mus musculus;	;12379851
+FOXN1	LEF1	UP	Pubmed	mouse, Mus musculus;	;12379851
+FOXO1	E2F1	UP	Pubmed	;homo sapiens	;17482685
+FOXO1	E2F2	UP	Pubmed	;homo sapiens	;17482685
+FOXO1	E2F3	UP	Pubmed	;homo sapiens	;17482685
+FOXO1	FOXO1	UP	Pubmed	human, Homo sapiens	;19244250;
+FOXO1	FOXO3	UP	Pubmed	human, Homo sapiens	;19244250;
+FOXO4	FOXO3	UP	Pubmed	human, Homo sapiens	;19244250;
+FRK	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;16132617
+FSCN1	CTNNB1	UP	Pubmed	mouse, Mus musculus;	;17638895
+FSHB	PITX1	UP	Pubmed	;homo sapiens; mus musculus	;18339718
+FSHB	PITX2	UP	Pubmed	;homo sapiens; mus musculus	;18339718
+FSHB	SMAD3	UP	Pubmed	;rattus norvegicus	;12554780
+FSHB	SMAD4	UP	Pubmed	human, Homo sapiens;rattus norvegicus	;12554780
+FSHR	NR5A1	UP	trrd;	rAt, Rattus norvegicus; mus musculus	S8344; S5490;
+FST	CTNNB1	UP	Pubmed	hUman, Homo sapiens; Mus musculus	;15579438;18948405
+FST	GLI2	UP	Pubmed	human, Homo sapiens	;14691458;15140221;18319260
+FST	SMAD2	UP	Pubmed	;rattus norvegicus	;11181520
+FST	SMAD3	UP	Pubmed	;rattus norvegicus	;11181520
+FST	TCF7L2	UP	Pubmed	hUman, Homo sapiens; Mus musculus	;15579438;18948405
+FTMT	NFKB1	UP	pazar	mouse, Mus musculus;	Pazar_oreganno;
+FTMT	SP1	UP	trrd;	mouse, Mus musculus;	S3032;
+FUBP1	STAT5A	UP	Pubmed	mouse, Mus musculus;	;16293640
+FUBP1	STAT5B	UP	Pubmed	mouse, Mus musculus;	;16293640
+FUT1	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;15592430
+FUT8	CTNNB1	UP	Pubmed	mouse, Mus musculus;	;17273793
+FV1	STAT5A	UP	Pubmed	mouse, Mus musculus;	;16293640
+FV1	STAT5B	UP	Pubmed	mouse, Mus musculus;	;16293640
+FXYD3	FOXO3	UP	Pubmed	human, Homo sapiens	;12351634;
+FZD1	CTNNB1	DOWN	Pubmed	hUman, Homo sapiens;	;15473860
+FZD2	CTNNB1	DOWN	Pubmed	hUman, Homo sapiens;	; 15473860
+FZD3	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	; 15473860
+FZD6	GLI2	DOWN	Pubmed	human, Homo sapiens	;14691458
+FZD7	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;15473860;12095419
+G6PC	FOXO1	UP	Pubmed	mouse, Mus musculus;	;15047713;12507516;10960473;11467835;1169658&;16492665;16804074;
+G6PC	NR1H2	DOWN	Pubmed	human, Homo sapiens	;19258656
+G6PC	NR1H3	DOWN	Pubmed	human, Homo sapiens	;19258656
+G6PD	SREBF1	UP	Pubmed	;rattus norvegicus	;12177166
+G6PD	SREBF2	UP	Pubmed	;rattus norvegicus	;12177166
+GAB2	E2F1	UP	Pubmed	;homo sapiens	;15574337
+GABARAP	CREB1	UP	Pubmed	mouse, Mus musculus;	;14973073
+GABARAPL1	E2F1	UP	Pubmed	;homo sapiens	;19657746
+GABARAPL2	E2F1	UP	Pubmed	;homo sapiens	;19657746
+GAD1	CREB1	UP	Pubmed	mouse, Mus musculus;	;14973073
+GAD1	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;15592430;12782598
+GAD2	SP1	UP	trrd;	rAt, Rattus norvegicus	S6465;
+GADD45A	FOXO1	UP	Pubmed	mouse, Mus musculus;	;15632117;
+GADD45A	FOXO3	UP	Pubmed	human, Homo sapiens; rattus norvegicus; mus musculus	;11964479;12048180;
+GADD45A	FOXO4	UP	Pubmed	mouse, Mus musculus;	;12048180;
+GADD45A	MYC	DOWN	Pubmed	human, Homo sapiens	;14519204
+GADD45A	TP53	UP	pazar	human, Homo sapiens;	pazar_ABS;pazar_pleiades;
+GADD45B	RUNX2	UP	Pubmed	;homo sapiens	;16144844
+GADD45B	SMAD1	UP	Pubmed	;homo sapiens	;16144844
+GALNT1	CREB1	DOWN	Pubmed	mouse, Mus musculus;	;14973073
+GAMT	RBPJ	UP	Pubmed	mus musculus;	;15979417
+GAP43	CREB1	DOWN	Pubmed	mouse, Mus musculus;	;14973073
+GAPDH	HIF1A	UP	Pubmed	human, Homo sapiens	;11955624;
+GAST	CTNNB1	UP	Pubmed	;mus musculus	;15292219; 16139800;15292219
+GAST	JUN	UP	Pubmed	;mus musculus	16139800;
+GAST	SMAD3	UP	Pubmed	mouse, Mus musculus; homo sapiens	;15292219;16139800;15292219
+GAST	SMAD4	UP	Pubmed	mouse, Mus musculus; homo sapiens	;15292219;16139800;15292219
+GATA1	GATA1	UP	TRRD	mouse, Mus musculus;	S5549;
+GATA1	GATA2	UP	pazar	mouse, Mus musculus;	Pazar_oreganno
+GATA1	GATA3	UP	pazar	mouse, Mus musculus;	Pazar_oreganno
+GATA1	HBP1	UP	Pubmed	human, Homo sapiens	;16179914;
+GATA1	JUN	UP	trrd;	mouse, Mus musculus;	S5550;
+GATA2	NOTCH1	UP	Pubmed	mouse, Mus musculus; homo sapiens	;15689374;11719365
+GATA2	RBPJ	UP	Pubmed	mouse, Mus musculus; homo sapiens	;15689374;11719365
+GATA3	NOTCH1	UP	Pubmed	mouse, Mus musculus;	;15356142;17658279
+GATA3	RBPJ	UP	Pubmed	mouse, Mus musculus;	;15356142;17658279
+GATM	GLI1	DOWN	Pubmed	human, Homo sapiens; rattus norvegicus	;18924150
+GBP2	STAT1	UP	Pubmed	mouse, Mus musculus;	;17293456;
+GCK	FOXM1	UP	Pubmed	;rattus norvegicus	;11460882
+GCK	FOXO1	DOWN	Pubmed	mouse, Mus musculus;	;16492665;
+GCK	HNF1A	UP	Pubmed	;rattus norvegicus	;11460882
+GCK	PDX1	UP	trrd	human, Homo sapiens;	S8591;
+GCK	SREBF1	UP	Pubmed	;rattus norvegicus	;15123649
+GCK	USF1	UP	Pubmed	;rattus norvegicus	;12177166
+GCLC	ATF3	DOWN	Pubmed	;homo sapiens	15629866;
+GCLC	NFE2L2	UP	Pubmed	;homo sapiens	;15629866
+GCLC	SMAD3	DOWN	Pubmed	;homo sapiens	;15629866
+GCLM	JUN	UP	trrd;	human, Homo sapiens;	S6348;
+GCN1L1	MYC	DOWN	Pubmed	rat, Rattus norvegicus	;11085504
+GCSH	JUN	UP	trrd;	human, Homo sapiens;	S6354;
+GFAP	KCNIP3	DOWN	pazar	rat, Rattus norvegicus	0
+GFAP	NFIC	UP	pazar	rat, Rattus norvegicus	pazar_pleiades_20100814;
+GFAP	STAT3	DOWN	pazar	mouse, Mus musculus;	pazar_pleiades_20100814;
+GGTA1P	STAT3	UP	Pubmed	mouse, Mus musculus;	;16293640
+GH1	TFAP2A	UP	NfiRegulomeDB	human, Homo sapiens;	;
+GJA1	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;11943708
+GJA4	CTNNB1	DOWN	Pubmed	hUman, Homo sapiens;	;16132617
+GJA5	CTNNB1	DOWN	Pubmed	hUman, Homo sapiens;	;16132617
+GJB1	HNF1A	UP	Pubmed	;rattus norvegicus	;10760574
+GJB1	SOX10	DOWN	pazar	hUman, Homo sapiens;	pazar_pleiades_20100814;
+GJB1	YY1	UP	Pubmed	;rattus norvegicus	;12850269
+GKAP1	STAT3	UP	Pubmed	mouse, Mus musculus;	;16293640
+GLCE	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;15853773
+GLCE	TCF7L2	UP	Pubmed	hUman, Homo sapiens;	;15853773
+GLI1	GLI2	UP	Pubmed	human, Homo sapiens; mus musculus	;12165851;9636069;15175043
+GLI1	GLI3	UP	Pubmed	mouse, Mus musculus; rattus norvegicus	;10075717;12435627
+GLI2	CTNNB1	UP	Pubmed	;homo sapiens	;19797115
+GLI2	SMAD3	UP	Pubmed	;homo sapiens	;19797115
+GLI2	TCF7L2	UP	Pubmed	;homo sapiens	;19797115
+GLI3	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;18057099
+GLS2	CEBPA	UP	Pubmed	;homo sapiens	12444921;
+GLS2	HNF1A	UP	Pubmed	;homo sapiens	;12444921
+GLS2	SP1	UP	Pubmed	;homo sapiens	;12444921
+GLUL	CTNNB1	UP	Pubmed	rAt, Rattus norvegicus	;17006929
+GLUL	RBPJ	DOWN	Pubmed	mus musculus;	;15979417
+GLUL	STAT5A	UP	Pubmed	rAt, Rattus norvegicus	;17006929
+GLUL	STAT5B	UP	Pubmed	rAt, Rattus norvegicus	;17006929
+GLYAT	SREBF1	UP	trrd;	rAt, Rattus norvegicus	S2394;
+GM2A	MYC	DOWN	Pubmed	rat, Rattus norvegicus	;11085504
+GML	TP53	UP	Pubmed	human, Homo sapiens;	;10717525
+GMNN	E2F1	UP	Pubmed	;homo sapiens	;14990995
+GMNN	E2F2	UP	Pubmed	;homo sapiens	;14990995
+GMNN	E2F3	UP	Pubmed	;homo sapiens	;14990995
+GMNN	E2F4	UP	Pubmed	;homo sapiens	;14990995
+GNB2L1	FOXO1	UP	Pubmed	mouse, Mus musculus;	;20338229;
+GNL3	MYC	UP	Pubmed	human, Homo sapiens;	;12747840
+GNRH1	GATA4	UP	TRRD	rat, Rattus norvegicus	S4353;
+GNRH1	MEF2A	DOWN	trrd	rat, Rattus norvegicus;	S7043;
+GNRH1	SP3	UP	trrd	mouse, Mus musculus;	S4344;
+GNRHR	GATA2	UP	pazar	human, Homo sapiens	pazar_pleiades_20100814;
+GNRHR	GATA3	UP	pazar	human, Homo sapiens	pazar_pleiades_20100814;
+GNRHR	JUN	UP	trrd;	human, Homo sapiens;	S7275;
+GNRHR	NR5A1	UP	trrd;	mouse, Mus musculus; rattus norvegicus	S3754; S5495;
+GOSR1	GLI1	DOWN	Pubmed	human, Homo sapiens	;11719506
+GP5	ETS1	UP	trrd;	human, Homo sapiens	S4752;
+GP9	ETS1	UP	Pubmed	human, Homo sapiens	;11504709
+GPAM	FOXO1	DOWN	Pubmed	mouse, Mus musculus;	;16492665;
+GPAM	NFYA	UP	Pubmed	;mus musculus	;9054427
+GPAM	SREBF1	UP	Pubmed	;mus musculus	;9054427
+GPAM	USF1	UP	Pubmed	;mus musculus	;17197698
+GPD1	TP53	DOWN	Pubmed	;mus musculus	;12734185
+GPD2	FOXO1	DOWN	Pubmed	mouse, Mus musculus;	;16492665;
+GPNMB	MITF	UP	Pubmed	human, Homo sapiens	;1999537;19067971
+GPR143	MITF	UP	Pubmed	human, Homo sapiens	;1999537;19067971
+GPR64	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;12782598
+GPX2	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;12782598
+GRB10	STAT5A	UP	Pubmed	mouse, Mus musculus;	;16293640
+GRB10	STAT5B	UP	Pubmed	mouse, Mus musculus;	;16293640
+GRB14	FOXO3	UP	Pubmed	human, Homo sapiens	;12351634;
+GREM2	CTNNB1	UP	Pubmed	mouse, Mus musculus;	;17222801
+GRHL2	GLI1	DOWN	Pubmed	mus musculus;	;19095649
+GRIA1	SP3	UP	trrd	mouse, Mus musculus;	S7433;
+GRIN1	SP1	UP	trrd;	rAt, Rattus norvegicus	S9826;
+GRK5	STAT5A	UP	Pubmed	mouse, Mus musculus;	;16293640
+GRK5	STAT5B	UP	Pubmed	mouse, Mus musculus;	;16293640
+GSTA1	HNF1A	DOWN	Pubmed	;homo sapiens	; 12386123
+GSTA2	HNF1A	UP	Pubmed	;rattus norvegicus	;15155840
+GSTM2	SP1	UP	trrd;	mouse, Mus musculus;	S9306;
+GSTP1	SP1	UP	trrd;	hUman, Homo sapiens;	S6554;
+GSTT2	AR	UP	Pubmed	human, Homo sapiens;	17553165;
+GTF2H2	MYC	DOWN	Pubmed	human, Homo sapiens;	;12747840
+GTF2I	FOXO3	UP	Pubmed	human, Homo sapiens	;12351634;
+GUCA2A	HNF1A	UP	Pubmed	;mus musculus	;9357824
+GYPB	SP1	UP	trrd;	hUman, Homo sapiens;	S1583;
+H19	E2F1	UP	Pubmed	;homo sapiens	;15985428
+H19	E2F6	DOWN	Pubmed	;homo sapiens	;15985428
+H19	GLI1	UP	Pubmed	human, Homo sapiens	;11719506
+H2AFZ	MYC	UP	Pubmed	human, Homo sapiens; rattus norvegicus	;11085504;
+H6PD	MYC	UP	Pubmed	rat, Rattus norvegicus	;11085504
+HAL	FOXO1	UP	Pubmed	mouse, Mus musculus;	;16492665;
+HAMP	STAT3	UP	Pubmed	;homo sapiens	;16946298
+HAND1	FOXC2	UP	Pubmed	;mus musculus; rat norvigecus	;19170063
+HAPLN1	RUNX1	UP	Pubmed	;rattus norvegicus	;20339004
+HAPLN1	RUNX2	UP	Pubmed	;rattus norvegicus ?	;20339004
+HAS2	MYC	UP	Pubmed	rat, Rattus norvegicus	;11085504
+HBB-B2	RBPJ	UP	Pubmed	mus musculus;	;15979417
+HBB-Y	RBPJ	UP	Pubmed	mus musculus;	;15979417
+HBB	RBPJ	UP	Pubmed	mus musculus;	;15979417
+HBP1	FOXO3	UP	Pubmed	human, Homo sapiens	;12351634;
+HDC	GATA4	DOWN	pazar	human, Homo sapiens	pazar_pleiades_20100814;
+HDC	GATA6	DOWN	pazar	human, Homo sapiens	pazar_pleiades_20100814;
+HDLBP	ESR1	UP	Pubmed	;rattus norvegicus	;12021179
+HDLBP	ESR2	UP	Pubmed	;rattus norvegicus	;12021179
+HDLBP	SP1	UP	Pubmed	;rattus norvegicus	;11145566
+HDLBP	SREBF1	UP	Pubmed	;rattus norvegicus	;11145566; 1202117
+HDLBP	YY1	DOWN	Pubmed	;rattus norvegicus	;11145566
+HEBP1	GATA1	UP	pazar	mouse, Mus musculus;	0
+HELLS	E2F1	UP	Pubmed	;homo sapiens	;21453717
+HERC5	MYC	UP	Pubmed	human, Homo sapiens	;11983916;
+HERPUD1	CREB1	UP	Pubmed	mouse, Mus musculus;	;14973073
+HERPUD1	CTNNB1	UP	Pubmed	mouse, Mus musculus;	;12153396
+HES1	GLI1	UP	Pubmed	mus musculus;	;19095649;17873912
+HES1	NOTCH1	UP	Pubmed	mouse, Mus musculus; homo sapiens	;10933396;12814948;7566092;10066785;10205173;9819428;11120788;10520600
+HES1	NOTCH4	UP	Pubmed	mouse, Mus musculus; homo sapiens	;10933396;12814948;7566092;10066785;10205173;9819428;11120788;10520600
+HES1	RBPJ	UP	Pubmed	mouse, Mus musculus; homo sapiens	;10933396;12814948;7566092;10066785;10205173;9819428;11120788;10520600
+HES5	NOTCH1	UP	Pubmed	mouse, Mus musculus;	;10205173;10520600;10205173
+HES5	RBPJ	UP	Pubmed	mouse, Mus musculus;	;10205173;10520600;10205173
+HES7	RBPJ	UP	Pubmed	mouse, Mus musculus;	;11260262
+HEY1	JUN	UP	Pubmed	human, Homo sapiens;	12384550;
+HEY1	NOTCH1	UP	Pubmed	human, Homo sapiens; mus musculus; rattus norvegicus	;12814948;14739937;11486045;10964718;11486044;11971902
+HEY1	NOTCH3	UP	Pubmed	human, Homo sapiens; mus musculus; rattus norvegicus	;12814948;14739937;11486045;10964718;11486044;11971902
+HEY1	NOTCH4	UP	Pubmed	human, Homo sapiens; mus musculus; rattus norvegicus	;12814948;14739937;11486045;10964718;11486044;11971902
+HEY1	RBPJ	UP	Pubmed	human, Homo sapiens; mus musculus; rattus norvegicus	;12814948;14739937;11486045;10964718;11486044;11971902
+HEY1	SMAD1	UP	Pubmed	human, Homo sapiens; mus musculus	;14739937
+HEY1	SMAD3	UP	Pubmed	human, Homo sapiens; mus musculus	;14739937
+HEY1	SMAD5	UP	Pubmed	human, Homo sapiens; mus musculus	;14739937
+HEY2	NOTCH1	UP	Pubmed	human, Homo sapiens; mus musculus; rattus norvegicus	;12814948;11486045;11486044;11971902;11095750;11741889
+HEY2	NOTCH3	UP	Pubmed	human, Homo sapiens; mus musculus; rattus norvegicus	;12814948;11486045;11486044;11971902;11095750;11741889
+HEY2	NOTCH4	UP	Pubmed	human, Homo sapiens; mus musculus; rattus norvegicus	;12814948;11486045;11486044;11971902;11095750;11741889
+HEY2	RBPJ	UP	Pubmed	human, Homo sapiens; mus musculus; rattus norvegicus	;12814948;11486045;11486044;11971902;11095750;11741889
+HIC1	E2F1	UP	Pubmed	;homo sapiens	;19491197; 19015639
+HIC1	TP53	UP	Pubmed	;homo sapiens	;16301995
+HIF1A	CTNNB1	DOWN	Pubmed	human, Homo sapiens;	;16959035
+HIGD1A	AR	UP	Pubmed	human, Homo sapiens;	11867260;
+HIPK2	GATA1	UP	pazar	mouse, Mus musculus;	0
+HIST1H1B	HBP1	UP	Pubmed	human, Homo sapiens; mus musculus; rattus norvegicus	;10958660;
+HIST1H1B	RB1	UP	Pubmed	human, Homo sapiens; mus musculus; rattus norvegicus	;10958660;
+HIST1H1C	GATA1	UP	pazar	mouse, Mus musculus;	0
+HIST1H2AM	E2F1	UP	Pubmed	;homo sapiens	;8628255
+HIST2H2BE	GLI2	DOWN	Pubmed	human, Homo sapiens	;14691458
+HLA-DRA	GLI2	DOWN	Pubmed	human, Homo sapiens	;14691458
+HLA-E	GLI2	DOWN	Pubmed	human, Homo sapiens	;14691458
+HMGCR	CREBBP	UP	Pubmed	;homo sapiens	;9651391
+HMGCR	FOXO1	UP	Pubmed	mouse, Mus musculus;	;16100571;
+HMGCR	FOXO3	UP	Pubmed	mouse, Mus musculus;	;16100571;
+HMGCR	SREBF1	UP	Pubmed	;homo sapiens	;9651391
+HMGCR	STAT5A	UP	Pubmed	mouse, Mus musculus;	;16293640
+HMGCR	STAT5B	UP	Pubmed	mouse, Mus musculus;	;16293640
+HMGCS1	CREBBP	UP	Pubmed	;homo sapiens	;9651391
+HMGCS1	NFYA	UP	Pubmed	;homo sapiens	;7665553
+HMGCS1	SREBF1	UP	Pubmed	;homo sapiens	;9651391
+HMGCS1	SREBF2	UP	Pubmed	;rattus norvegicus	;12177166
+HMGCS1	YY1	DOWN	Pubmed	;homo sapiens	;10318878
+HMGN2	MYC	UP	Pubmed	human, Homo sapiens;	;11085504
+HMOX1	NFKB1	UP	Pubmed	human, Homo sapiens	;8016102;
+HMOX1	SREBF1	UP	Pubmed	hUman, Homo sapiens;	;17452746
+HMX2	RBPJ	DOWN	Pubmed	mus musculus;	;15979417
+HNF1A	HNF1A	UP	Pubmed	;rattus norvegicus	;8367288
+HNF1A	HNF4A	UP	Pubmed	;rattus norvegicus	;8367288
+HNF1A	RBPJ	DOWN	Pubmed	mouse, Mus musculus;	;15226394
+HNF1B	RBPJ	UP	Pubmed	mouse, Mus musculus;	;15226394
+HNF4A	CEBPA	UP	Pubmed	;mus musculus	11522818;
+HNF4A	GATA6	UP	pazar	human, Homo sapiens	pazar_pleiades_20100814;
+HNF4A	HNF1A	UP	Pubmed	;mus musculus	;11522818
+HNF4A	HNF4A	UP	Pubmed	;mus musculus	;11522818
+HNF4A	NR2F2	DOWN	trrd	hUman, Homo sapiens;	S6867;
+HNF4A	RBPJ	DOWN	Pubmed	mouse, Mus musculus;	;15226394
+HNF4A	SP1	UP	pazar; trrd	human, Homo sapiens;	pazar_pleiades_20100814; S6870; 
+HNRNPA1	MYC	UP	Pubmed	human, Homo sapiens;	;12747840
+HNRNPA2B1	MYC	UP	Pubmed	human, Homo sapiens;	;12747840
+HNRNPD	MYC	UP	Pubmed	human, Homo sapiens	;11983916
+HNRNPH1	MYC	DOWN	Pubmed	rat, Rattus norvegicus	;11085504
+HOXA4	SP1	UP	trrd;	mouse, Mus musculus;	S8580;
+HOXA5	FOXO1	UP	Pubmed	mouse, Mus musculus;	;16100571;
+HOXA5	FOXO3	UP	Pubmed	mouse, Mus musculus;	;16100571;
+HOXB2	GATA1	UP	pazar	human, Homo sapiens	pazar_pleiades_20100814;
+HOXB3	ETS1	UP	trrd;	mouse, Mus musculus;	S8521;
+HOXB4	CTNNB1	UP	Pubmed	mouse, Mus musculus;	;12717450
+HOXD1	RBPJ	UP	Pubmed	mouse, Mus musculus;	;11511348
+HP	CEBPA	UP	Pubmed	human, Homo sapiens;Rattus norvegicus; homo sapiens	16172914; 12074569;
+HP	CEBPB	UP	Pubmed	human, Homo sapiens;Rattus norvegicus	16172914;
+HP	STAT3	UP	Pubmed	mouse, Mus musculus;	;9169415;
+HPD	FOXO1	UP	Pubmed	mouse, Mus musculus;	;16492665;
+HPGD	FOXO3	UP	Pubmed	human, Homo sapiens	;12351634;
+HPGD	GLI2	DOWN	Pubmed	human, Homo sapiens	;14691458
+HRAS	TP53	DOWN	Pubmed	human, Homo sapiens;	;9662334
+HSD11B1	CEBPA	UP	Pubmed	;homo sapiens	19088256;
+HSD11B1	CEBPB	UP	Pubmed	;homo sapiens	19088256;
+HSD11B1	GLI1	UP	Pubmed	mus musculus;	;19095649
+HSD17B1	GATA2	DOWN	pazar	human, Homo sapiens	pazar_pleiades_20100814;
+HSD17B1	GATA3	DOWN	pazar	human, Homo sapiens	pazar_pleiades_20100814;
+HSD17B1	SP1	UP	pazar	human, Homo sapiens;	pazar_pleiades_20100814;
+HSD17B1	SP3	UP	trrd	hUman, Homo sapiens;	S8335;
+HSD17B2	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;12782598
+HSD3B2	NR5A1	UP	trrd;	hUman, Homo sapiens;	S3992;
+HSF1	SP1	UP	trrd;	mouse, Mus musculus;	S5464;
+HSP90AA1	AR	UP	Pubmed	human, Homo sapiens;	11867260;
+HSP90AA1	MYC	UP	Pubmed	rat, Rattus norvegicus	;11085504
+HSP90AA2	MYC	UP	Pubmed	human, Homo sapiens	;14519204
+HSP90AB1	MYC	UP	Pubmed	human, Homo sapiens	;11983916
+HSP90AB1	TP53	DOWN	Pubmed	human, Homo sapiens;	;15284248
+HSP90B1	ATF6	UP	Pubmed	human, Homo sapiens;	9837962;
+HSP90B1	HIF1A	UP	Pubmed	human, Homo sapiens	;15620698;
+HSPA1A	MYC	UP	trrd	human, Homo sapiens	S3262;
+HSPA1A	SP1	UP	trrd;	hUman, Homo sapiens;	S3261;
+HSPA1B	SP3	DOWN	trrd	mouse, Mus musculus;	S6969;
+HSPA4	GLI2	UP	Pubmed	human, Homo sapiens	;14691458
+HSPA4	MYC	UP	Pubmed	human, Homo sapiens	;14519204
+HSPA5	ATF6	UP	Pubmed	;mus musculus	16452489;
+HSPA5	E2F1	DOWN	Pubmed	;homo sapiens	;18840615
+HSPA5	GATA4	UP	Pubmed	mouse, Mus musculus;	;16452489
+HSPA5	YY1	UP	Pubmed	;mus musculus	;16452489
+HSPA8	MYC	UP	Pubmed	human, Homo sapiens;	;11983916
+HSPA9	MYC	UP	Pubmed	human, Homo sapiens	;11983916;
+HSPD1	MYC	UP	Pubmed	rat, Rattus norvegicus; homo sapiens	;11983916;11085504;14519204;
+HSPE1	MYC	UP	Pubmed	human, Homo sapiens	;14519204;11983916
+HSPH1	MYC	UP	Pubmed	human, Homo sapiens	;11983916
+HTR1A	CC2D1A	DOWN	pazar	human, Homo sapiens;	pazar_pleiades_20100814;
+HTR1A	DEAF1	DOWN	pazar	human, Homo sapiens;	;
+HTR1A	NFKB1	UP	trrd	rat, Rattus norvegicus	S9475;
+HTR1A	RELA	UP	trrd	rat, Rattus norvegicus	S9475;
+HTRA1	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;12782598
+HUS1	FOXO1	UP	Pubmed	mouse, Mus musculus;	;15632117;
+IAPP	PDX1	UP	trrd	hUman, Homo sapiens;	S7101;
+IBSP	JUN	DOWN	trrd;	rat, Rattus norvegicus	S4115;
+ICAM1	FEV	DOWN	pazar	human, Homo sapiens	pazar_pleiades_20100814;
+ICAM1	NFKB1	UP	Pubmed	human, Homo sapiens	;10553096;
+ICAM1	RELA	UP	Pubmed	human, Homo sapiens	;10553096;
+ID1	FOXO1	DOWN	Pubmed	mouse, Mus musculus;	;16100571;
+ID1	FOXO3	DOWN	Pubmed	mouse, Mus musculus;	;16100571;
+ID1	SMAD1	UP	Pubmed	rat, Rattus norvegicus	;20522807;
+ID1	SMAD5	UP	Pubmed	rat, Rattus norvegicus	;20522807;
+ID2	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;12095419;11572874
+ID2	FOXO1	UP	Pubmed	mouse, Mus musculus;	;16100571;
+ID2	FOXO3	UP	Pubmed	mouse, Mus musculus;	;16100571;
+ID2	HIF1A	UP	Pubmed	human, Homo sapiens	;11955624
+ID2	SMAD1	UP	Pubmed	mouse, Mus musculus;	;20674548;
+ID2	SMAD5	UP	Pubmed	mouse, Mus musculus;	;20674548;
+ID2	SMAD8	UP	Pubmed	mouse, Mus musculus;	;20674548;
+ID3	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;12782598
+ID3	SMAD1	UP	Pubmed	human, Homo sapiens; Mus musculus	;21056086;
+ID3	SMAD5	UP	Pubmed	human, Homo sapiens; Mus musculus	;21056086;
+ID4	GLI1	UP	Pubmed	mus musculus;	;19095649
+IDE	STAT3	UP	Pubmed	mouse, Mus musculus;	;16293640
+IDO1	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;12782598
+IER2	ETS1	UP	trrd;	mouse, Mus musculus;	S1538;
+IER3	SP1	UP	trrd;	hUman, Homo sapiens;	S10491;
+IFI16	STAT3	UP	Pubmed	mouse, Mus musculus;	;16293640
+IFI204	NOTCH1	UP	Pubmed	mouse, Mus musculus;	;10933396
+IFI204	RBPJ	UP	Pubmed	mouse, Mus musculus;	;10933396
+IFI205	NOTCH1	UP	Pubmed	mouse, Mus musculus;	;10933396
+IFI205	RBPJ	UP	Pubmed	mouse, Mus musculus;	;10933396
+IFIT3	IRF9	UP	Pubmed	human, Homo sapiens	;19351818;
+IFIT3	STAT2	UP	Pubmed	hUman, Homo sapiens;	;19351818;
+IFITM1	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;12782598
+IFITM1	GLI2	DOWN	Pubmed	human, Homo sapiens	;14691458
+IFNB1	YY1	DOWN	Pubmed	;homo sapiens	;16260628
+IFNB1	YY2	UP	Pubmed	;homo sapiens	;16260628
+IFNG	CREB1	DOWN	trrd;	human, Homo sapiens;	S2413;
+IFNG	EGR1	UP	TRED	human, Homo sapiens;	;
+IFNG	JUN	UP	Pubmed	;homo sapiens	11943142;
+IFNGR1	GLI2	DOWN	Pubmed	human, Homo sapiens	;14691458
+IGF1	CEBPA	UP	Pubmed	human, Homo sapiens;homo sapiens	7708053;
+IGF1	CEBPB	UP	Pubmed	;homo sapiens	7708053;
+IGF1	CTNNB1	UP	Pubmed	mouse, Mus musculus;	;12154096
+IGF1	STAT2	UP	Pubmed	rAt, Rattus norvegicus	;20378540;
+IGF1	STAT5A	UP	Pubmed	rAt, Rattus norvegicus	;20378540;
+IGF1	STAT5B	UP	Pubmed	rAt, Rattus norvegicus	;20378540;
+IGF1R	E2F1	UP	Pubmed	;rattus norvegicus	;19703789
+IGF1R	SP1	UP	trrd;	rAt, Rattus norvegicus	S9289;
+IGF2	CEBPA	UP	Pubmed	human, Homo sapiens;homo sapiens	7659086;
+IGF2	CEBPB	UP	Pubmed	human, Homo sapiens;homo sapiens	7659086;
+IGF2	CTNNB1	UP	Pubmed	mouse, Mus musculus;	;12154096
+IGF2	EGR1	UP	Pubmed	human, Homo sapiens;	;8276819
+IGF2	GLI1	UP	Pubmed	mouse, Mus musculus;	;12444557
+IGF2	JUN	UP	trrd;	mouse, Mus musculus;	S639;
+IGFBP1	FOXO1	UP	Pubmed	human, Homo sapiens	;17609436;
+IGFBP3	GLI2	DOWN	Pubmed	human, Homo sapiens	;14691458
+IGFBP3	TP53	UP	pazar	human, Homo sapiens;	pazar_ABS;pazar_pleiades;
+IGFBP6	CTNNB1	DOWN	Pubmed	hUman, Homo sapiens;	;14737101
+IGFBP6	GLI1	UP	Pubmed	human, Homo sapiens	;11719506
+IGFBP6	TCF7L1	DOWN	Pubmed	hUman, Homo sapiens;	;14737101
+IGFBP6	TCF7L2	DOWN	Pubmed	hUman, Homo sapiens;	;14737101
+IGH@	ETS1	UP	trrd;	human, Homo sapiens	S3730;
+IGH@	NOTCH1	DOWN	Pubmed	human, Homo sapiens;	;11207282
+IGH@	RBPJ	DOWN	Pubmed	human, Homo sapiens;	;11207282
+IGHM	NOTCH1	DOWN	Pubmed	mouse, Mus musculus;	;10644343
+IGHM	RBPJ	DOWN	Pubmed	mouse, Mus musculus;	;10644343
+IGK@	SP1	UP	trrd;	mouse, Mus musculus;	S2609;
+IHH	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;12782598
+IHH	SMAD4	UP	Pubmed	human, Homo sapiens; Mus musculus	;14981086;
+IKBKG	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;15473860
+IL10	RBPJ	UP	Pubmed	mouse, Mus musculus;	;15688350
+IL13	GLI2	DOWN	Pubmed	human, Homo sapiens	;14691458
+IL18	FOXO1	UP	Pubmed	mouse, Mus musculus;	;15632117;
+IL18	JUN	UP	trrd;	mouse, Mus musculus;	S6467;
+IL1B	NFKB1	UP	Pubmed	mouse, Mus musculus;	;10080875;
+IL1B	RELA	UP	Pubmed	mouse, Mus musculus;	;10080875;
+IL1R1	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;12782598
+IL1R2	GLI2	UP	Pubmed	human, Homo sapiens	;14691458
+IL2	CREB1	UP	trrd;	human, Homo sapiens;	S3430;
+IL2	EGR1	UP	Pubmed	human, Homo sapiens;	;9756940
+IL2	JUN	UP	trrd;	human, Homo sapiens;	S2299;
+IL2	NFATC2	DOWN	pazar	human, Homo sapiens	0
+IL2	NFKB1	UP	pazar	human, Homo sapiens	pazar_pleiades_20100814;
+IL20RA	STAT2	UP	Pubmed	hUman, Homo sapiens;	;16689942;
+IL21	STAT1	UP	Pubmed	rAt, Rattus norvegicus	;15178704;
+IL21	STAT2	UP	Pubmed	rAt, Rattus norvegicus	;15178704;
+IL21	STAT3	UP	Pubmed	rAt, Rattus norvegicus	;15178704;
+IL21	STAT4	UP	Pubmed	rAt, Rattus norvegicus	;15178704;
+IL2RA	JUN	UP	trrd;	mouse, Mus musculus;	S10450;
+IL2RA	NFKB1	UP	Pubmed	human, Homo sapiens	;8455627;
+IL2RA	STAT1	UP	Pubmed	human, Homo sapiens;	;10068671
+IL2RA	STAT3	UP	Pubmed	mouse, Mus musculus; Homo sapiens	;10068671
+IL2RA	STAT5A	UP	Pubmed	mouse, Mus musculus;	;8943338
+IL2RA	STAT5B	UP	Pubmed	mouse, Mus musculus;	;8943338
+IL2RB	ETS1	UP	trrd;	human, Homo sapiens	S751;
+IL2RB	GABPA	UP	pazar;	human, Homo sapiens	pazar_pleiades_20100814;
+IL3	ETS1	UP	trrd;	human, Homo sapiens	S3538;
+IL3	JUN	UP	trrd;	mouse, Mus musculus;	S3535;
+IL4	CEBPA	UP	Pubmed	mouse, Mus musculus;Rattus norvegicus; mus musuclus	21454593;
+IL4	JUN	UP	trrd;	mouse, Mus musculus;	S4040;
+IL4	NFKB1	DOWN	pazar	human, Homo sapiens	pazar_pleiades_20100814;
+IL4	RELA	DOWN	pazar	human, Homo sapiens	pazar_pleiades_20100814;
+IL5	GATA3	UP	pazar	human, Homo sapiens	0
+IL5	JUN	UP	trrd;	mouse, Mus musculus;	S4047;
+IL5	NFATC1	UP	Pubmed	;homo sapiens	;17270283
+IL5	YY1	UP	Pubmed	;homo sapiens	;17270283
+IL5RA	JUN	UP	trrd;	human, Homo sapiens;	S3586;
+IL6	CTNNB1	UP	Pubmed	mouse, Mus musculus;	;12154096
+IL6	GLI2	UP	Pubmed	human, Homo sapiens	;14691458
+IL6	JUN	UP	trrd;	rat, Rattus norvegicus	S5203;
+IL6	NFKB1	UP	Pubmed	human, Homo sapiens	;11098847;
+IL6ST	STAT1	UP	Pubmed	human, Homo sapiens;	;9169475
+IL6ST	STAT3	UP	Pubmed	human, Homo sapiens;	;9169475
+IL6ST	STAT5A	UP	Pubmed	hUman, Homo sapiens;	;9169475;
+IL6ST	STAT5B	UP	Pubmed	hUman, Homo sapiens;	;9169475;
+IL8	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;16132617;12200448
+IL8	FOXO1	DOWN	Pubmed	mouse, Mus musculus;	;16100571;
+IL8	FOXO3	DOWN	Pubmed	mouse, Mus musculus;	;16100571;
+IL8	IRF9	DOWN	Pubmed	human, Homo sapiens	;18370868;
+IL8	JUN	UP	trrd;	human, Homo sapiens;	S125;
+IL8	NFKB2	UP	Pubmed	human, Homo sapiens	pazar_pleiades_20100814;15079071;
+IL8	RELA	UP	Pubmed	human, Homo sapiens	pazar_pleiades_20100814;15079071;
+IL8	STAT1	DOWN	Pubmed	hUman, Homo sapiens;	;18370868
+IL8	STAT2	DOWN	Pubmed	hUman, Homo sapiens;	;18370868;
+IL8	TCF7L2	UP	Pubmed	hUman, Homo sapiens;	;16132617;12200448
+ILF3	GLI2	UP	Pubmed	human, Homo sapiens	;14691458
+IMPACT	MYC	DOWN	Pubmed	rat, Rattus norvegicus	;11085504
+INHA	CTNNB1	UP	Pubmed	human, Homo sapiens; Mus musculus	;12732619;12861022
+INHA	GATA1	UP	TRRD	rat, Rattus norvegicus	S4794;
+INHA	LEF1	UP	Pubmed	human, Homo sapiens; Mus musculus	;12732619;12861022
+INHA	NR5A1	UP	Pubmed	mouse, Mus musculus; Homo sapiens	;12732619;12861022
+INHA	TCF7L2	UP	Pubmed	human, Homo sapiens; Mus musculus	;12732619;12861022
+INHBB	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;12782598
+INHBB	GATA1	UP	TRRD	rat, Rattus norvegicus	S7510;
+INS	HNF1A	UP	Pubmed	;homo sapiens	;10491332; 1142872
+INS	HNF1B	UP	Pubmed	;homo sapiens	;10491332
+INS	PDX1	UP	Pubmed	;homo sapiens	;11428722
+INS1	SREBF1	UP	Pubmed	;rattus norvegicus	;16055439
+INS2	NR2F1	UP	trrd	rAt, Rattus norvegicus	S6593;
+INS2	PDX1	UP	trrd	rAt, Rattus norvegicus	S6589;
+INSIG1	SREBF1	UP	Pubmed	hUman, Homo sapiens;	;15073165
+INSIG1	SREBF2	UP	Pubmed	hUman, Homo sapiens;	;15073165
+INSIG2	NR1H2	UP	Pubmed	rat, Rattus norvegicus	;15637161
+INSIG2	NR1H3	UP	Pubmed	rat, Rattus norvegicus	;15637161
+INTS7	MYB	DOWN	Pubmed	;homo sapiens	;18213392
+INTS7	MYC	DOWN	Pubmed	;homo sapiens	;18213392
+INTS7	TP53	DOWN	Pubmed	;homo sapiens	;18213392
+IRF1	NFKB1	UP	Pubmed	human, Homo sapiens	;12077266;
+IRF1	STAT1	UP	Pubmed	hUman, Homo sapiens;	;10068671;8168491;8621447
+IRF1	STAT2	UP	Pubmed	hUman, Homo sapiens;	;8621447;
+IRF1	STAT3	UP	Pubmed	human, Homo sapiens;	;10068671;8168491
+IRF3	E2F1	DOWN	Pubmed	;homo sapiens	;19826915; 21225257
+IRF7	CREB1	UP	Pubmed	mouse, Mus musculus;	;14973073
+IRF7	IRF9	UP	Pubmed	mouse, Mus musculus;	;12768031;
+IRF7	NFKB1	UP	pazar	human, Homo sapiens	pazar_pleiades_20100814;
+IRF7	STAT1	UP	Pubmed	mouse, Mus musculus;	;12768031;
+IRF7	STAT2	UP	Pubmed	mouse, Mus musculus;	;12768031;
+IRF8	NFKB1	UP	trrd	mouse, Mus musculus;	S862;
+IRF9	GLI2	DOWN	Pubmed	human, Homo sapiens	;14691458
+IRS1	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;15592430;12782598
+IRS2	FOXO1	UP	Pubmed	mouse, Mus musculus;	;16906224;
+IRS2	SREBF1	DOWN	Pubmed	hUman, Homo sapiens;	;16091421
+ISYNA1	CTNNB1	DOWN	Pubmed	hUman, Homo sapiens;	;15592430
+ISYNA1	E2F1	UP	Pubmed	;homo sapiens	;15464731
+ISYNA1	IER2	UP	Pubmed	;homo sapiens	;19584537
+ITGA1	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;12782598
+ITGA11	SMAD2	UP	Pubmed	;homo sapiens	;19913614
+ITGA11	SMAD3	UP	Pubmed	;homo sapiens	;19913614
+ITGA11	SP1	UP	Pubmed	;homo sapiens	;19913614
+ITGA2	JUN	UP	trrd;	human, Homo sapiens;	S3912;
+ITGA2	SP1	UP	pazar	human, Homo sapiens;	pazar_pleiades_20100814;
+ITGA2B	ETS1	UP	trrd;	rat, Rattus norvegicus	S6095;
+ITGA2B	SP1	DOWN	trrd;	rAt, Rattus norvegicus	S6097;
+ITGA5	JUN	UP	trrd;	human, Homo sapiens;	S6129;
+ITGA5	SP1	UP	pazar	hUman, Homo sapiens;	pazar_pleiades_20100814;
+ITGA6	GLI2	DOWN	Pubmed	human, Homo sapiens	;14691458
+ITGA6	SP1	UP	NfiRegulomeDB	hUman, Homo sapiens;	;
+ITGAD	SP1	UP	trrd;	hUman, Homo sapiens;	S6471;
+ITGAD	SP3	DOWN	trrd	hUman, Homo sapiens;	S6472;
+ITGAM	SP1	UP	NfiRegulomeDB	human, Homo sapiens;	;
+ITGAV	ETS1	UP	trrd;	mouse, Mus musculus;	S6107;
+ITGAV	SP1	UP	trrd;	human, Homo sapiens; mus musculus	S6109;
+ITGAX	CEBPA	UP	Pubmed	human, Homo sapiens;homo sapiens	12935984;
+ITGAX	JUN	UP	trrd;	human, Homo sapiens;	S3016;
+ITGAX	RUNX1	UP	Pubmed	;homo sapiens	;12935984
+ITGB1	CTNNB1	DOWN	Pubmed	hUman, Homo sapiens;	;15979100
+ITGB1	GLI2	UP	Pubmed	human, Homo sapiens	;14691458
+ITGB1	LEF1	DOWN	Pubmed	hUman, Homo sapiens;	;15979100
+ITGB1	SMAD3	UP	Pubmed	;homo sapiens	;20709799
+ITGB2	GABPA	UP	pazar;	human, Homo sapiens	pazar_pleiades_20100814;
+ITGB2	HIF1A	UP	Pubmed	human, Homo sapiens	;15235127;
+ITGB5	SMAD4	UP	pazar; trrd	mouse, Mus musculus;	Pazar_rare; S6164; 
+ITIH3	GLI1	UP	Pubmed	mouse, Mus musculus; homo sapiens	;11716497
+IVL	JUN	UP	trrd;	human, Homo sapiens;	S9198;
+IVL	SP1	UP	trrd;	hUman, Homo sapiens;	S9199;
+JAG1	GLI2	DOWN	Pubmed	human, Homo sapiens	;14691458
+JAG1	REL	UP	Pubmed	human, Homo sapiens	;10329626
+JAG1	RELA	UP	Pubmed	human, Homo sapiens	;10329626
+JAK1	FOXO3	UP	Pubmed	human, Homo sapiens	;12351634;
+JUN	AR	UP	Pubmed	human, Homo sapiens;	14614224;
+JUN	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;9990071
+JUN	E2F1	UP	Pubmed	human, Homo sapiens	11799067;
+JUN	E2F4	UP	Pubmed	human, Homo sapiens	11799067;
+JUN	FOXO1	UP	Pubmed	mouse, Mus musculus;	;15632117;
+JUN	MEF2A	UP	pazar	human, Homo sapiens;	;
+JUN	SMAD3	UP	Pubmed	hUman, Homo sapiens; mus musculus	;10022869;
+JUN	SMAD4	UP	Pubmed	hUman, Homo sapiens; mus musculus	;10022869;
+JUNB	GLI2	DOWN	Pubmed	human, Homo sapiens	;14691458
+JUNB	HBP1	UP	Pubmed	human, Homo sapiens	;16179914;
+JUND	STAT2	UP	Pubmed	hUman, Homo sapiens;	;16689942;
+JUP	GLI1	DOWN	Pubmed	human, Homo sapiens	;11719506
+KANK1	GLI1	DOWN	Pubmed	human, Homo sapiens; rattus norvegicus	;18924150
+KAT2B	MYC	UP	Pubmed	human, Homo sapiens	;11983916
+KDR	E2F1	UP	Pubmed	;homo sapiens	;20516113
+KDR	FOXO1	UP	Pubmed	mouse, Mus musculus;	;16100571;
+KDR	FOXO3	UP	Pubmed	mouse, Mus musculus;	;16100571;
+KDR	NANOG	UP	Pubmed	;homo sapiens	;21119109
+KEL	SP1	DOWN	trrd;	hUman, Homo sapiens;	S7025;
+KIAA1217	AR	DOWN	Pubmed	human, Homo sapiens;	17624924;
+KIDINS220	GLI1	DOWN	Pubmed	human, Homo sapiens; rattus norvegicus	;18924150
+KIF23	CUX1	DOWN	Pubmed	;homo sapiens	;19015243
+KIF23	E2F1	UP	Pubmed	;homo sapiens	;19015243
+KIF2C	E2F1	DOWN	Pubmed	;homo sapiens	;18440323
+KIF2C	SP1	UP	Pubmed	;homo sapiens	;18440323
+KIR3DL1	E2F1	UP	Pubmed	;homo sapiens	;19176033
+KIT	MITF	UP	Pubmed	human, Homo sapiens	;1999537;19067971
+KITLG	FOXO1	DOWN	Pubmed	mouse, Mus musculus;	;19896444;
+KITLG	FOXO3	DOWN	Pubmed	mouse, Mus musculus;	;19896444;
+KLF1	GATA1	UP	pazar	mouse, Mus musculus;	Pazar_oreganno
+KLF2	FOXO1	UP	Pubmed	human, Homo sapiens	;18713968;
+KLF4	CTNNB1	DOWN	Pubmed	hUman, Homo sapiens;	;12387883
+KLF4	FOXO1	UP	Pubmed	mouse, Mus musculus;	;18375530;
+KLF4	FOXO3	UP	Pubmed	mouse, Mus musculus;	;18375530;
+KLF5	CTNNB1	UP	Pubmed	mouse, Mus musculus;	;11134343
+KLF5	PGR	UP	Pubmed	;mus musculus	;21566082
+KLF5	RUNX2	UP	NfiRegulomeDB	rAt, Rattus norvegicus	;
+KLF5	SP1	UP	NfiRegulomeDB	rAt, Rattus norvegicus	;
+KLF7	MYC	DOWN	Pubmed	rat, Rattus norvegicus	;11085504
+KLK15	NR2F1	DOWN	trrd	rAt, Rattus norvegicus	S6998;
+KLK2	AR	UP	Pubmed	human, Homo sapiens;	1370633;7686046;
+KLK2	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;12782598
+KLK3	AR	UP	Pubmed	human, Homo sapiens;	7686046;11867260;17426252;17426252;
+KLK3	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;12782598
+KLK3	HIF1A	UP	Pubmed	human, Homo sapiens	;17426252
+KLK3	NFKB1	UP	Pubmed	human, Homo sapiens; mus musculus	;11909978;
+KLK3	RELA	UP	Pubmed	human, Homo sapiens; mus musculus	;11909978;
+KLK3	TP53	DOWN	Pubmed	human, Homo sapiens;	;11504717
+KLK4	AR	UP	Pubmed	human, Homo sapiens;	10077646;
+KLK8	STAT5A	UP	Pubmed	mouse, Mus musculus;	;16293640
+KLK8	STAT5B	UP	Pubmed	mouse, Mus musculus;	;16293640
+KREMEN1	GLI1	DOWN	Pubmed	mus musculus;	;19095649
+KRT1	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;12200448
+KRT1	TCF7L2	UP	Pubmed	hUman, Homo sapiens;	;12200448
+KRT14	ETS1	UP	trrd;	human, Homo sapiens	S9116;
+KRT14	JUN	UP	trrd;	human, Homo sapiens;	S9115;
+KRT14	SMAD7	DOWN	Pubmed	;homo sapiens	;15023526
+KRT17	GLI2	UP	Pubmed	mouse, Mus musculus;	;16055733
+KRT17	STAT5A	UP	Pubmed	mouse, Mus musculus;	;16293640
+KRT17	STAT5B	UP	Pubmed	mouse, Mus musculus;	;16293640
+KRT18	AR	UP	Pubmed	human, Homo sapiens;	11867260;
+KRT19	FOXO1	DOWN	Pubmed	human, Homo sapiens	;12351634;
+KRT19	SP1	UP	trrd;	human, Homo sapiens; mus musculus	S9810;
+KRT5	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;12782598
+KRT8	ETS1	UP	trrd;	mouse, Mus musculus;	S8460;
+KRT8	ETS2	UP	trrd;	mouse, Mus musculus;	S8460;
+L1CAM	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;15716380
+L1TD1	NANOG	UP	Pubmed	;homo sapiens	;21559406
+LALBA	F11	UP	NFIregulomedb	human, Homo sapiens	;
+LALBA	MAF	UP	NfiRegulomeDB	human, Homo sapiens	;
+LAMA1	SP1	UP	Pubmed	;mus musculus	;12519763
+LAMA1	SP3	UP	Pubmed	mouse, Mus musculus;mus musculus	;12519763
+LAMA1	YY1	UP	Pubmed	;mus musculus	;12519763
+LAMB3	GLI2	DOWN	Pubmed	human, Homo sapiens	;14691458
+LAMC2	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;11719433
+LAMP1	MYC	DOWN	Pubmed	human, Homo sapiens;	;11085504
+LBX1	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;15579438
+LCRB	JUN	UP	trrd;	human, Homo sapiens;	S3107;
+LCRB	SP1	UP	trrd;	hUman, Homo sapiens;	S3111;
+LCT	CDX2	UP	trrd;	human, Homo sapiens;	S10098;
+LCT	GATA4	UP	pazar	human, Homo sapiens	0
+LCT	GATA5	DOWN	TRRD	human, Homo sapiens	S10097;
+LCT	GATA6	UP	TRRD	rat, Rattus norvegicus	S10099;
+LCT	HNF1A	UP	trrd	rat, Rattus norvegicus	S10100;
+LDHA	HIF1A	UP	Pubmed	human, Homo sapiens;	;8089148;
+LDHA	MYC	UP	Pubmed	human, Homo sapiens;	;11983916;11085504;14519204
+LDHB	MYC	UP	Pubmed	human, Homo sapiens	;11983916
+LDLR	CREBBP	UP	Pubmed	;homo sapiens	;9651391
+LDLR	PPARGC1A	DOWN	Pubmed	;homo sapiens	;19322023
+LDLR	SP1	UP	trrd;	mouse, Mus musculus; Homo sapiens	S2080;
+LDLR	SREBF1	UP	Pubmed	;homo sapiens	;9651391
+LDLR	SREBF2	UP	Pubmed	;rattus norvegicus	;12177166
+LDLR	YY1	DOWN	Pubmed	;homo sapiens	;10318878
+LECT2	CTNNB1	UP	Pubmed	mouse, Mus musculus;	;15239100
+LEF1	CTNNB1	UP	Pubmed	hUman, Homo sapiens; mus musculus	;11326276;15473860;17335794
+LEF1	TCF7	UP	Pubmed	hUman, Homo sapiens; mus musculus	;11326276;15473860;17335794
+LEF1	TCF7L2	UP	Pubmed	hUman, Homo sapiens; mus musculus	;11326276;15473860;17335794
+LEFTY2	FOXO1	UP	Pubmed	human, Homo sapiens	;17609436;
+LENEP	MYC	UP	Pubmed	rat, Rattus norvegicus	;11085504
+LEP	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;12861022
+LGALS3	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;12782598
+LGALS3	RUNX1	UP	Pubmed	;homo sapiens	;19020999
+LGALS3	RUNX2	UP	Pubmed	;homo sapiens	;19020999
+LGALS8	CREB1	UP	Pubmed	mouse, Mus musculus;	;14973073
+LGI2	GLI1	UP	Pubmed	mus musculus;	;19095649
+LHB	AR	DOWN	Pubmed	human, Homo sapiens;	11518799;
+LHB	EGR1	UP	Pubmed	mouse, Mus musculus;homo sapiens	;10319325
+LHB	NR5A1	DOWN	Pubmed	human, Homo sapiens;	;11518799
+LHCGR	NR2F1	DOWN	trrd	human, Homo sapiens;	S7949;
+LHCGR	NR2F6	DOWN	trrd	hUman, Homo sapiens;	S7950;
+LHCGR	SP1	UP	trrd;	human, Homo sapiens;	S8347;
+LHCGR	SP3	UP	trrd	human, Homo sapiens;	S8346;
+LHFP	GLI1	UP	Pubmed	mus musculus;	;19095649
+LHX3	RBPJ	DOWN	Pubmed	mus musculus;	;15979417
+LIMA1	CTNNB1	DOWN	Pubmed	hUman, Homo sapiens;	;15979100
+LIMA1	LEF1	DOWN	Pubmed	hUman, Homo sapiens;	;15979100
+LITAF	TP53	UP	Pubmed	human, Homo sapiens;	;10321740
+LMAN2L	RBPJ	DOWN	Pubmed	mus musculus;	;15979417
+LMO2	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;15592430;12782598
+LONP1	STAT1	UP	Pubmed	human, Homo sapiens;	;10068671
+LONP1	STAT3	UP	Pubmed	human, Homo sapiens;	;15528381
+LONP1	STAT5A	UP	Pubmed	hUman, Homo sapiens;	;15528381;
+LONP1	STAT5B	UP	Pubmed	hUman, Homo sapiens;	;15528381;
+LOX	CEBPG	UP	NFIRegulomeDB;	rat, Rattus norvegicus	;
+LPA	HNF1A	UP	Pubmed	;homo sapiens	;8051057
+LPIN1	CEBPA	UP	Pubmed	;mus musculus	18930917;
+LPIN2	FOXO1	UP	Pubmed	mouse, Mus musculus;	;16492665;
+LPL	FOXO1	UP	Pubmed	mouse, Mus musculus;	;12586369;16492665;
+LRP1	CTNNB1	DOWN	Pubmed	hUman, Homo sapiens;	;15473860
+LRP1	SREBF1	DOWN	Pubmed	;homo sapiens	;20980003
+LRP1	SREBF2	DOWN	Pubmed	;homo sapiens	;20980003; 16697011
+LRP2	SP1	UP	trrd;	rAt, Rattus norvegicus	S9091;
+LTA4H	MYC	UP	Pubmed	human, Homo sapiens;	;12808131;12747840
+LTBR	FOXO1	UP	Pubmed	mouse, Mus musculus;	;15632117;
+LTC4S	SP1	UP	trrd;	human, Homo sapiens;	S6628;
+LTC4S	SP3	UP	trrd	hUman, Homo sapiens;	S6628;
+LUM	GLI2	DOWN	Pubmed	human, Homo sapiens	;14691458
+LY6G6D	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;15592430
+LYZ	CTNNB1	UP	Pubmed	mouse, Mus musculus;	;17273793
+MAD1L1	TP53	DOWN	Pubmed	human, Homo sapiens;	;12876282
+MAD2L1	GLI2	UP	Pubmed	human, Homo sapiens	;14691458
+MAFK	GATA1	UP	pazar	mouse, Mus musculus;	Pazar_rare;
+MAFK	GATA2	UP	pazar	mouse, Mus musculus;	Pazar_rare;
+MAFK	GATA4	UP	pazar	mouse, Mus musculus;	Pazar_rare;
+MAFK	GATA6	UP	pazar	mouse, Mus musculus;	Pazar_rare;
+MAP1LC3A	E2F1	UP	Pubmed	;homo sapiens	;18408756
+MAP1LC3B	E2F1	UP	Pubmed	;homo sapiens	;19657746
+MAP2K5	STAT3	UP	Pubmed	hUman, Homo sapiens;	;15378007;
+MAP3K1	MYC	DOWN	Pubmed	rat, Rattus norvegicus	;11085504
+MAP3K12	GLI1	UP	Pubmed	mus musculus;	;19095649
+MAP3K4	GLI2	DOWN	Pubmed	human, Homo sapiens	;14691458
+MAP3K5	E2F1	UP	Pubmed	;homo sapiens	;16512785; 16476732
+MAP3K5	E2F2	UP	Pubmed	;homo sapiens	;16512785
+MAP3K5	E2F3	UP	Pubmed	;homo sapiens	;16512785
+MAP3K5	E2F4	UP	Pubmed	;homo sapiens	;16512785
+MAP3K6	CTNNB1	UP	Pubmed	mouse, Mus musculus;	;12907606
+MAP3K6	TCF7L2	UP	Pubmed	mouse, Mus musculus;	;12907606
+MAP4	TP53	DOWN	pazar	hUman, Homo sapiens;	pazar_ABS;pazar_pleiades;
+MAPK1	E2F1	UP	Pubmed	;homo sapiens	;18396012
+MAPK3	MYC	DOWN	Pubmed	rat, Rattus norvegicus	;11085504
+MAPK6	GLI2	DOWN	Pubmed	human, Homo sapiens	;14691458
+MARK3	RBPJ	UP	Pubmed	mus musculus;	;15979417
+MARK4	CTNNB1	UP	Pubmed	mouse, Mus musculus; homo sapiens	;11716497
+MAT2A	E2F1	UP	Pubmed	;rattus norvegicus	;17317269
+MAT2A	E2F3	UP	Pubmed	;rattus norvegicus	;17317269
+MAT2A	E2F4	UP	Pubmed	;rattus norvegicus	;17317269
+MAT2A	NFKB1	UP	Pubmed	human, Homo sapiens;	;14530285
+MAT2A	SP1	UP	trrd;	human, Homo sapiens;rattus norvegicus	S8678;
+MAZ	GLI2	DOWN	Pubmed	human, Homo sapiens	;14691458
+MBD1	STAT3	UP	Pubmed	mouse, Mus musculus;	;16293640
+MC2R	NR5A1	UP	trrd;	hUman, Homo sapiens;	S4366;
+MCL1	E2F1	DOWN	Pubmed	;mus musculus	;11896585; 11857079;PMC109073
+MCL1	ETS1	UP	trrd;	human, Homo sapiens	S8291;
+MCL1	SP1	UP	trrd;	hUman, Homo sapiens;	S8292;
+MCL1	STAT3	UP	Pubmed	hUman, Homo sapiens;	;16048438;
+MCM10	E2F1	UP	Pubmed	;homo sapiens	;15195143
+MCM10	E2F2	UP	Pubmed	;homo sapiens	;15195143
+MCM10	E2F3	UP	Pubmed	;homo sapiens	;15195143
+MCM2	NOTCH1	DOWN	Pubmed	HUman, Homo sapiens;	;15976316
+MCM2	RBPJ	DOWN	Pubmed	HUman, Homo sapiens;	;15976316
+MCM5	E2F1	UP	Pubmed	human, Homo sapiens	11799067;
+MCM5	E2F2	UP	Pubmed	;homo sapiens	;10327050
+MCM5	E2F3	UP	Pubmed	;homo sapiens	;10327050
+MCM5	E2F4	UP	Pubmed	human, Homo sapiens	11799067;
+MCM5	FOXO1	DOWN	Pubmed	human, Homo sapiens	;17609436;
+MCM6	E2F1	UP	Pubmed	;homo sapiens	;10327050
+MCM6	E2F2	UP	Pubmed	;homo sapiens	;10327050
+MCM6	E2F3	UP	Pubmed	;homo sapiens	;10327050
+MCM6	NOTCH1	DOWN	Pubmed	HUman, Homo sapiens;	;15976316
+MCM6	RBPJ	DOWN	Pubmed	HUman, Homo sapiens;	;15976316
+MCM7	E2F1	UP	Pubmed	;homo sapiens	;14990995
+MCM7	E2F2	UP	Pubmed	;homo sapiens	;14990995
+MCM7	E2F3	UP	Pubmed	;homo sapiens	;14990995
+MCM7	E2F4	UP	Pubmed	;homo sapiens	;14990995
+MCM8	E2F1	UP	Pubmed	;homo sapiens; rat norvigecus	;16325355
+MCM8	NFYA	UP	Pubmed	;homo sapiens; rat norvigecus	;16325355
+MCMBP	GLI1	UP	Pubmed	mus musculus;	;19095649
+MDK	HIF1A	UP	Pubmed	mouse, Mus musculus;	;15197188;
+MDM2	E2F1	DOWN	Pubmed	;homo sapiens	;20837136
+MDM2	ETS1	UP	trrd;	mouse, Mus musculus;	S6208;
+MDM2	JUN	UP	trrd;	mouse, Mus musculus;	S6209;
+MDM2	TP53	UP	Pubmed	mouse, Mus musculus;homo sapiens	;20837136
+ME1	FOXO1	DOWN	Pubmed	mouse, Mus musculus;	;16492665;
+ME1	SREBF1	UP	Pubmed	;rattus norvegicus	;12177166
+ME1	SREBF2	UP	Pubmed	;rattus norvegicus	;12177166
+MED22	STAT5A	UP	Pubmed	mouse, Mus musculus;	;16293640
+MED22	STAT5B	UP	Pubmed	mouse, Mus musculus;	;16293640
+MEOX1	GLI2	UP	Pubmed	human, Homo sapiens; mus musculus	;14691458;15039437
+MEOX2	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;15579438
+MET	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;12234972
+MET	ETS1	UP	trrd;	human, Homo sapiens	S8437;
+MET	JUN	UP	trrd;	mouse, Mus musculus;	S8159;
+MET	MITF	UP	Pubmed	human, Homo sapiens	;1999537;19067971
+MET	SMAD2	UP	Pubmed	hUman, Homo sapiens; mus musculus	;15339794;
+MET	SMAD3	UP	Pubmed	hUman, Homo sapiens; mus musculus	;15339794;
+MET	SMAD4	UP	Pubmed	hUman, Homo sapiens; mus musculus	;15339794;
+MET	SMAD7	DOWN	Pubmed	hUman, Homo sapiens; mus musculus	;15339794;
+MET	SP1	UP	trrd;	human, Homo sapiens; mus musculus	S8160;
+METAP2	MYC	UP	Pubmed	human, Homo sapiens	;11983916
+METTL1	MYC	UP	Pubmed	human, Homo sapiens;	;12747840
+MGAT5	ETS1	UP	trrd;	human, Homo sapiens	S6658;
+MGAT5	ETS2	UP	trrd;	human, Homo sapiens	S6658;
+MGMT	GLI1	UP	Pubmed	human, Homo sapiens; rattus norvegicus	;18924150
+MGST1	MYC	UP	Pubmed	human, Homo sapiens;	;11983916;14519204
+MIA	HMGA2	DOWN	Pubmed	;mus musculus	;17914116
+MIF	HBP1	DOWN	Pubmed	human, Homo sapiens	;20383199;
+MIF	MYC	UP	Pubmed	rat, Rattus norvegicus	;11085504
+MKL1	FOXO1	DOWN	Pubmed	mouse, Mus musculus;	;20338229;
+MLANA	MITF	UP	Pubmed	human, Homo sapiens	;1999537;19067971
+MLLT10	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;15979100
+MLLT10	LEF1	UP	Pubmed	hUman, Homo sapiens;	;15979100
+MLXIPL	THRB	UP	Pubmed	;mus musculus; homo sapiens	;19324998
+MME	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;12782598
+MME	SP1	UP	trrd;	human, Homo sapiens;	S9270;
+MMP1	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;12384519
+MMP1	JUN	UP	Pubmed	human, Homo sapiens;	10995748;
+MMP1	SMAD3	UP	Pubmed	;homo sapiens	;10995748
+MMP1	TCF7L2	UP	Pubmed	hUman, Homo sapiens;	;12384519
+MMP10	FOXO1	UP	Pubmed	mouse, Mus musculus;	;16100571;
+MMP10	FOXO3	UP	Pubmed	mouse, Mus musculus;	;16100571;
+MMP10	GLI2	DOWN	Pubmed	human, Homo sapiens	;14691458
+MMP13	FOSL2	UP	Pubmed	;homo sapiens	;16144844
+MMP13	GLI1	DOWN	Pubmed	mus musculus; homo sapiens	;19095649;14691458
+MMP13	GLI2	DOWN	Pubmed	human, Homo sapiens	;14691458
+MMP13	JUN	UP	trrd;	rat, Rattus norvegicus	S8955;
+MMP13	JUND	UP	Pubmed	;homo sapiens	;16144844
+MMP13	RUNX2	UP	Pubmed	;homo sapiens	;16144844; 19121369
+MMP2	CTNNB1	UP	Pubmed	hUman, Homo sapiens; mus musculus	;12782598;17306568
+MMP2	GLI2	UP	Pubmed	human, Homo sapiens	;14691458
+MMP2	TP53	UP	Pubmed	human, Homo sapiens;	;10029407
+MMP26	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;15006646;11931652
+MMP26	JUN	UP	trrd;	human, Homo sapiens;	S10607;
+MMP26	TCF7L2	UP	Pubmed	hUman, Homo sapiens;	;15006646;11931652
+MMP3	RELA	UP	Pubmed	human, Homo sapiens	;11376631;
+MMP7	CTNNB1	UP	Pubmed	hUman, Homo sapiens	;12782598;11943708;12200448;15457508;10514384;12958188
+MMP7	HNF1A	UP	Pubmed	;homo sapiens	;12851697
+MMP7	HNF1B	UP	Pubmed	;homo sapiens	;12851697
+MMP7	JUN	UP	Pubmed	;homo sapiens	12851697;12958188;1899216;
+MMP7	LEF1	UP	Pubmed	hUman, Homo sapiens	;12782598;11943708;12200448;15457508;10514384;12958188
+MMP7	TCF7L2	UP	Pubmed	hUman, Homo sapiens	;12782598;11943708;12200448;15457508;10514384;12958188
+MMP9	CITED2	UP	Pubmed	;mus musculus	;16619037
+MMP9	CTNNB1	UP	Pubmed	mouse, Mus musculus;	;17306568
+MMP9	ETS1	UP	trrd;	human, Homo sapiens	S6634;
+MMP9	JUN	UP	NFIregulomedb;pazar;TRRD	human, Homo sapiens;	S6635;
+MMP9	RELA	UP	Pubmed	human, Homo sapiens	;11376631
+MMP9	SMAD3	UP	Pubmed	human, Homo sapiens;mus musculus	;16619037
+MMP9	SP1	UP	trrd;	human, Homo sapiens;	S6633;
+MNT	MYC	UP	Pubmed	human, Homo sapiens	;11983916
+MPL	ETS1	UP	trrd;	human, Homo sapiens	S3904;
+MR1	GLI1	UP	Pubmed	mus musculus;	;19095649
+MRC1	FOXO1	UP	Pubmed	mouse, Mus musculus;	;17254969
+MSH2	MYC	UP	Pubmed	human, Homo sapiens;	;11983916;12808131
+MSLN	CTNNB1	UP	Pubmed	human, Homo sapiens;	;15890249
+MSLN	TCF7	UP	Pubmed	human, Homo sapiens;	;15890249
+MSN	MYC	DOWN	Pubmed	human, Homo sapiens; rattus norvegicus	;11085504
+MSR1	STAT2	UP	Pubmed	hUman, Homo sapiens;	;16689942;
+MSTN	FOXO1	UP	Pubmed	mouse, Mus musculus;	;16885393;
+MSX1	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;15592430;12095419
+MSX1	SP1	UP	trrd;	mouse, Mus musculus;	S10306;
+MSX2	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;14551209;12095419;15592430;12782598
+MSX2	DLX2	UP	pazar	mouse, Mus musculus;	;
+MSX2	GLI2	DOWN	Pubmed	human, Homo sapiens	;14691458
+MSX2	SMAD4	UP	Pubmed	mouse, Mus musculus;	;14551209
+MSX2	YY1	UP	Pubmed	;mus musculus	;11861914
+MT1A	CEBPD	UP	NFIRegulomeDB;	mouse, Mus musculus;	;
+MT1A	MTF1	UP	NfiRegulomeDB	mouse, Mus musculus;	;
+MT1A	RBPJ	UP	Pubmed	mus musculus;	;15979417
+MT1A	SP1	UP	trrd;	mouse, Mus musculus;	S2127;
+MT1A	STAT1	UP	NfiRegulomeDB	mouse, Mus musculus;	;
+MT1G	E2F1	UP	Pubmed	;homo sapiens	;15735762
+MT1L	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;12782598
+MT2A	AR	UP	Pubmed	rat, Rattus norvegicus	11191077;
+MT2A	JUN	UP	trrd;	human, Homo sapiens;	S222;
+MT2A	RBPJ	UP	Pubmed	mus musculus;	;15979417
+MT2A	SP1	UP	trrd;	hUman, Homo sapiens;	S223;
+MTAP	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;15492751
+MTHFD1	MYC	UP	Pubmed	human, Homo sapiens;	;12747840;12808131
+MTRR	ETS1	UP	trrd;	human, Homo sapiens	S2622;
+MTTP	SREBF1	DOWN	Pubmed	;homo sapiens	;10455139
+MTTP	SREBF2	DOWN	Pubmed	;homo sapiens	;10455139
+MTUS1	GLI1	DOWN	Pubmed	human, Homo sapiens; rattus norvegicus	;18924150
+MUC1	STAT1	UP	Pubmed	human, Homo sapiens;	;11084045
+MUC1	STAT3	UP	Pubmed	human, Homo sapiens;	;11084045
+MUC1	STAT5A	UP	Pubmed	human, Homo sapiens;	;11084045;
+MUC1	STAT5B	UP	Pubmed	human, Homo sapiens;	;11084045;
+MUC2	SP1	UP	trrd; pazar	human, Homo sapiens; mus musculus	S9584; Pazar_Stat_lit; 
+MUC2	TP53	UP	Pubmed	human, Homo sapiens;	;12374798
+MUC6	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;12782598
+MVK	SREBF2	UP	Pubmed	mouse, Mus musculus;	;17300749
+MXD1	CTNNB1	DOWN	Pubmed	mouse, Mus musculus;	;12907606
+MXD1	TCF7L2	DOWN	Pubmed	mouse, Mus musculus;	;12907606
+MXD3	E2F1	UP	Pubmed	;mus musculus	;12444919
+MYB	E2F1	UP	Pubmed	human, Homo sapiens;homo sapiens	;7929342; 16299810
+MYB	EGR1	DOWN	Pubmed	human, Homo sapiens;	;7559553
+MYB	HBP1	DOWN	Pubmed	human, Homo sapiens	;16179914;
+MYB	JUN	UP	trrd;	human, Homo sapiens;	S2252;
+MYB	NFKB1	UP	Pubmed	mouse, Mus musculus;	;10602492;
+MYB	RELB	UP	Pubmed	mouse, Mus musculus;	;10602492;
+MYBL2	CTNNB1	DOWN	Pubmed	human, Homo sapiens;	;16959035
+MYBL2	TCF7L2	DOWN	Pubmed	human, Homo sapiens;	;16959035
+MYC	CDKN1A	DOWN	Pubmed	;homo sapiens	16923815;
+MYC	CTNNB1	UP	Pubmed	mouse, Mus musculus; Homo sapiens	;15576399; 15579438;12095419;9727977;12907606;18852287
+MYC	E2F1	UP	Pubmed	;homo sapiens	;8208548
+MYC	GLI1	DOWN	Pubmed	human, Homo sapiens	;16299030
+MYC	GLI2	DOWN	Pubmed	human, Homo sapiens	;14691458
+MYC	HBP1	DOWN	Pubmed	human, Homo sapiens	;16179914;
+MYC	MYC	DOWN	Pubmed	rat, Rattus norvegicus; homo sapiens	;11085504;12747840;14519204;
+MYC	NFKB1	UP	Pubmed	mouse, Mus musculus;	;1515224;
+MYC	NOTCH1	DOWN	Pubmed	mouse, Mus musculus;	;10644343;16847353
+MYC	RBPJ	DOWN	Pubmed	mouse, Mus musculus;	;10644343;16847353
+MYC	SMAD1	UP	Pubmed	mouse, Mus musculus;	;15576399
+MYC	STAT3	UP	Pubmed	hUman, Homo sapiens;	;17959148;
+MYC	TCF7L2	UP	Pubmed	mouse, Mus musculus; Homo sapiens	;15576399; 15579438;12095419;9727977;12907606;18852287
+MYC	YY1	UP	Pubmed	;homo sapiens	;17434929
+MYCBP	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;15979100
+MYCBP	LEF1	UP	Pubmed	hUman, Homo sapiens;	;15979100
+MYCL1	GLI1	UP	Pubmed	human, Homo sapiens; rattus norvegicus	;18924150
+MYCN	CTNNB1	UP	Pubmed	mouse, Mus musculus;	;15907834
+MYCN	E2F1	UP	Pubmed	;homo sapiens	;12438307
+MYCN	E2F2	UP	Pubmed	;homo sapiens	;12438307
+MYCN	E2F3	UP	Pubmed	;homo sapiens	;12438307
+MYD88	STAT1	UP	Pubmed	hUman, Homo sapiens;	;7567467
+MYD88	STAT3	UP	Pubmed	hUman, Homo sapiens;	;7567467
+MYD88	STAT5A	UP	Pubmed	hUman, Homo sapiens;	;7567467;
+MYD88	STAT5B	UP	Pubmed	hUman, Homo sapiens;	;7567467;
+MYF5	CTNNB1	UP	Pubmed	mouse, Mus musculus;	;16936075
+MYF5	LEF1	UP	Pubmed	mouse, Mus musculus;	;16936075
+MYF6	MEF2A	UP	trrd	rat, Rattus norvegicus;	S1339;
+MYH11	NOTCH1	DOWN	Pubmed	human, Homo sapiens;	;15987768
+MYH11	RBPJ	DOWN	Pubmed	human, Homo sapiens;	;15987768
+MYH2	CTNNB1	UP	Pubmed	mouse, Mus musculus;	;18948405
+MYH2	TCF7L2	UP	Pubmed	mouse, Mus musculus;	;18948405
+MYH4	YY1	DOWN	Pubmed	;mus musculus	;17438126
+MYO15A	GLI1	UP	Pubmed	human, Homo sapiens	;11719506
+MYO1E	GLI1	DOWN	Pubmed	human, Homo sapiens; rattus norvegicus	;18924150
+MYOD1	CTNNB1	UP	Pubmed	mouse, Mus musculus;	;18948405
+MYOD1	FOXO3	UP	Pubmed	mouse, Mus musculus;	;18854138;
+MYOD1	NOTCH1	DOWN	Pubmed	mouse, Mus musculus; Homo sapiens	;10066785;12050162
+MYOD1	PAX3	UP	Pubmed	mouse, Mus musculus;	;18854138;
+MYOD1	PAX7	UP	Pubmed	mouse, Mus musculus;	;18854138;
+MYOD1	RBPJ	DOWN	Pubmed	mouse, Mus musculus; Homo sapiens	;10066785;12050162
+MYOD1	SP1	UP	trrd;	mouse, Mus musculus;	S146;
+MYOD1	TCF7L2	UP	Pubmed	mouse, Mus musculus;	;18948405
+N.A	ETS1	UP	trrd;	mouse, Mus musculus;	S3833;
+N.A	GLI1	DOWN	Pubmed	human, Homo sapiens	;11719506
+N.A	MYC	DOWN	Pubmed	human, Homo sapiens	;12747840;
+N.A	NFKB1	UP	trrd	mouse, Mus musculus;	S4378;
+N.A	RBPJ	UP	Pubmed	mus musculus;	;15979417
+N.A	RELA	UP	trrd	mouse, Mus musculus;	S4378;
+N.A	TP53	UP	pazar	human, Homo sapiens;	pazar_ABS;
+NAIP	CTNNB1	UP	Pubmed	mouse, Mus musculus;	;12907606
+NAIP	TCF7L2	UP	Pubmed	mouse, Mus musculus;	;12907606
+NANOG	KLF4	UP	Pubmed	;homo sapiens	;19522013
+NANOG	PBX1	UP	Pubmed	;homo sapiens	;19522013
+NANOG	POU5F1	UP	Pubmed	;homo sapiens	;15860457
+NANOG	SOX2	UP	Pubmed	;homo sapiens	;15860457
+NAP1L1	MYC	UP	Pubmed	human, Homo sapiens;	;12747840
+NCAM1	MYC	DOWN	Pubmed	rat, Rattus norvegicus	;11085504
+NCF1	HBP1	DOWN	Pubmed	human, Homo sapiens; mus musculus	;15024088;
+NCL	MYC	UP	Pubmed	human, Homo sapiens;	;11983916;14519204
+NCOA2	AR	DOWN	Pubmed	human, Homo sapiens;	17079484;
+NCOA3	E2F1	UP	Pubmed	;homo sapiens	;16916939
+NDUFA4	CREB1	DOWN	Pubmed	mouse, Mus musculus;	;14973073
+NEDD4L	CTNNB1	UP	Pubmed	mouse, Mus musculus;	;17273793
+NEK2	FOXO1	DOWN	Pubmed	human, Homo sapiens	;17609436;
+NELL1	RUNX2	UP	Pubmed	;homo sapiens	;17042739
+NES	RBPJ	DOWN	Pubmed	mus musculus;	;15979417;17217625
+NES	SOX2	DOWN	pazar	mouse, Mus musculus;	pazar_pleiades_20100814;
+NEU1	MYF5	UP	Pubmed	mouse, Mus musculus;	;14597183
+NEU1	MYOD1	UP	Pubmed	;mus musculus	;14597183
+NEU1	SP1	UP	Pubmed	;mus musculus	;14597183
+NEUROG1	CTNNB1	UP	Pubmed	mouse, Mus musculus;	;15142975
+NEUROG1	RBPJ	UP	Pubmed	mouse, Mus musculus;	;9133387
+NEUROG3	RBPJ	DOWN	Pubmed	Mouse, Mus musculus;	;14641329
+NF1	SP1	UP	trrd;	rAt, Rattus norvegicus	S436;
+NF1	SPI1	UP	pazar	hUman, Homo sapiens;	;
+NFATC4	TP53	DOWN	Pubmed	human, Homo sapiens; mus musculus	;14990988
+NFKB1	CEBPA	UP	Pubmed	;mus musculus	19380823;
+NFKB1	NOTCH1	UP	Pubmed	Mouse, Mus musculus;	;11591772
+NFKB1	RBPJ	UP	Pubmed	Mouse, Mus musculus;	;11591772
+NFKB2	NOTCH1	UP	Pubmed	HUman, Homo sapiens;	;9528780;11115605
+NFKB2	RBPJ	UP	Pubmed	HUman, Homo sapiens;	;9528780;11115605
+NFKBIA	CTNNB1	DOWN	Pubmed	human, Homo sapiens;	;16959035
+NFKBIA	RBPJ	UP	Pubmed	Rat, Rattus norvegicus	;12700242
+NFKBIA	SP1	UP	trrd;	hUman, Homo sapiens;	S6453;
+NGFR	MITF	UP	Pubmed	human, Homo sapiens	;1999537;19067971
+NGFR	SP1	DOWN	pazar	rAt, Rattus norvegicus	pazar_pleiades_20100814;
+NKD1	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;15473860
+NKX2-2	CTNNB1	DOWN	Pubmed	GG; mus musculus	;16950124
+NKX2-5	SMAD1	UP	Pubmed	mouse, Mus musculus;	;14662776
+NKX2-5	SMAD4	UP	Pubmed	mouse, Mus musculus;	;14662776
+NKX3-2	SOX9	UP	Pubmed	;homo sapiens	;19306868
+NKX6-2	CREB1	UP	Pubmed	mouse, Mus musculus;	;14973073
+NMBR	STAT2	UP	Pubmed	hUman, Homo sapiens;	;16689942;
+NME1	MYC	UP	Pubmed	human, Homo sapiens;	;11983916;14519204;
+NME1	TP53	UP	Pubmed	human, Homo sapiens;	;12669312
+NME2	MYC	UP	Pubmed	human, Homo sapiens;	;14519204;
+NNMT	STAT3	UP	Pubmed	hUman, Homo sapiens;	;17922140;
+NOP56	MYC	UP	Pubmed	human, Homo sapiens	;11983916
+NOS2	CTNNB1	UP	Pubmed	rAt, Rattus norvegicus	;16849547
+NOS2	NFKB1	UP	trrd	rat, Rattus norvegicus	S6399;
+NOS2	RELA	UP	trrd	rat, Rattus norvegicus	S6399;
+NOS2	TCF7L2	UP	Pubmed	rAt, Rattus norvegicus	;16849547
+NOS2	TP53	DOWN	Pubmed	human, Homo sapiens;	;11092782
+NOS3	FOXO1	DOWN	Pubmed	mouse, Mus musculus;	;16100571;
+NOS3	FOXO3	DOWN	Pubmed	mouse, Mus musculus;	;16100571;
+NOS3	SP1	UP	trrd;	hUman, Homo sapiens;	S6212;
+NOS3	SP3	UP	trrd	hUman, Homo sapiens;	S6212;
+NOTCH1	CTNNB1	UP	Pubmed	mouse, Mus musculus;	;12717450
+NOTCH1	TP53	DOWN	Pubmed	mouse, Mus musculus;	;14991602
+NOTUM	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;15473860;18429952
+NOTUM	TCF7L2	UP	Pubmed	hUman, Homo sapiens;	;15473860;18429952
+NOV	WT1	UP	pazar	hUman, Homo sapiens;	pazar_pleiades_20100814;
+NOX4	E2F1	UP	Pubmed	;mus musculus; rat norvigecus	;18554521
+NPAT	E2F1	UP	Pubmed	;homo sapiens	;12665581
+NPAT	E2F2	UP	Pubmed	;homo sapiens	;12665581
+NPAT	E2F3	UP	Pubmed	;homo sapiens	;12665581
+NPAT	E2F4	UP	Pubmed	;homo sapiens	;12665581
+NPC1	FOXO1	UP	Pubmed	mouse, Mus musculus;	;16492665;
+NPC1	SREBF1	UP	Pubmed	;homo sapiens; mus musculus	;18272928
+NPC1	SREBF2	UP	Pubmed	;homo sapiens; mus musculus	;18272928
+NPC1L1	HNF4A	UP	Pubmed	;homo sapiens	;18080173
+NPC1L1	SREBF2	UP	Pubmed	;homo sapiens	;18080173; 21527728
+NPDC1	GLI1	UP	Pubmed	human, Homo sapiens	;11719506
+NPM1	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;12095419
+NPM1	GLI1	UP	Pubmed	human, Homo sapiens; rattus norvegicus	;18924150
+NPM1	MYC	UP	Pubmed	human, Homo sapiens; rattus norvegicus	;11085504;11983916;14519204;
+NPPA	GATA4	UP	TRRD	rat, Rattus norvegicus	S9359;
+NPPC	CTNNB1	UP	Pubmed	mouse, Mus musculus;	;12475749
+NPPC	LEF1	UP	Pubmed	mouse, Mus musculus;	;12475749
+NPR1	SP1	UP	trrd;	rat, Rattus norvegicus;	S6641;
+NPY	FOXO1	UP	Pubmed	human, Homo sapiens; mus musculus	;16783365;
+NPY1R	NFKB1	UP	pazar	mouse, Mus musculus;	Pazar_tfe;
+NPY2R	GLI2	DOWN	Pubmed	human, Homo sapiens	;14691458
+NQO1	JUN	DOWN	trrd;	human, Homo sapiens;	S4731;
+NR0B1	NANOG	UP	Pubmed	;mus musculus	;20937355
+NR0B1	NR2F1	DOWN	trrd	mouse, Mus musculus;	S3294;
+NR0B1	NR5A1	UP	trrd;	mouse, Mus musculus; homo sapiens	S4304; S4796;
+NR0B2	JUN	UP	trrd;	rat, Rattus norvegicus	S8332;
+NR0B2	NR5A1	UP	trrd;	mouse, Mus musculus;	S7265;
+NR0B2	SREBF1	UP	Pubmed	;homo spaiens	;15123650
+NR1D1	PPARG	UP	Pubmed	human, Homo sapiens;rattus norvegicus	;12821652
+NR1H2	RBPJ	DOWN	Pubmed	mus musculus;	;15979417
+NR1H4	GLI1	DOWN	Pubmed	mus musculus;	;19095649
+NR3C1	JUN	UP	trrd;	human, Homo sapiens;	S5155;
+NR3C1	SP1	UP	Pubmed	;homo sapiens	;12039077
+NR3C1	YY1	UP	Pubmed	;homo sapiens	;10030686; 12039077
+NR4A1	CTNNB1	UP	Pubmed	mouse, Mus musculus;	;12153396
+NR4A1	HIF1A	UP	Pubmed	human, Homo sapiens	;14729605;
+NR5A1	SP1	UP	pazar;TRRD	mouse, Mus musculus;	S3680; Pazaroreganno; Pazar_tfe;
+NRARP	NOTCH1	UP	Pubmed	Mouse, Mus musculus;	;15325262;11783997
+NRARP	RBPJ	UP	Pubmed	Mouse, Mus musculus;	;15325262;11783997
+NRCAM	CTNNB1	UP	Pubmed	mouse, Mus musculus;	;12183361
+NRCAM	LEF1	UP	Pubmed	mouse, Mus musculus;	;12183361
+NRP1	E2F1	UP	Pubmed	;mus musculus	;17178835
+NT5E	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;15149841
+NT5E	TCF7	UP	Pubmed	hUman, Homo sapiens;	;15149841
+NTRK2	GLI1	DOWN	Pubmed	human, Homo sapiens; rattus norvegicus	;18924150
+NTRK3	GLI1	UP	Pubmed	mus musculus;	;19095649
+NTSR1	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;16299383
+NTSR1	TCF7L2	UP	Pubmed	hUman, Homo sapiens;	;16299383
+NUCB1	MYC	DOWN	Pubmed	rat, Rattus norvegicus	;11085504
+NUP155	MYC	UP	Pubmed	human, Homo sapiens	;12747840
+NUP155	RBPJ	UP	Pubmed	mus musculus;	;15979417
+NUTF2	MYC	UP	Pubmed	human, Homo sapiens	;11983916
+OAT	AR	UP	Pubmed	human, Homo sapiens;	17553165;
+ODC1	MYC	UP	Pubmed	human, Homo sapiens;	;14519204
+OGT	FOXO3	UP	Pubmed	human, Homo sapiens	;12351634;
+OLFM3	PAX6	UP	Pubmed	;mus musculus	;16115881
+OPRM1	E2F1	UP	Pubmed	;homo sapiens	;19765550
+OPRM1	SP1	UP	Pubmed	human, Homo sapiens;homo sapiens	;19765550
+OPRM1	YY1	UP	Pubmed	;homo sapiens	;19765550
+OSCAR	MITF	UP	Pubmed	human, Homo sapiens	;1999537;19067971
+OSM	STAT1	UP	pazar; trrd	hUman, Homo sapiens;	pazar_pleiades; S6296; 
+OSM	STAT5A	UP	pazar; trrd	hUman, Homo sapiens;	pazar_pleiades; S6296; 
+OSM	STAT5B	UP	pazar; trrd	hUman, Homo sapiens;	pazar_pleiades; S6296; 
+OSTN	FOXO1	DOWN	Pubmed	human, Homo sapiens; mus musculus	;17950246;
+OTX2	YY1	UP	Pubmed	;mus musculus	;17332747
+OXT	ESR1	DOWN	Pubmed	human, Homo sapiens	;15842231
+OXT	NR2C2	UP	pazar	hUman, Homo sapiens;	;
+OXT	RORA	DOWN	pazar	mouse, Mus musculus;	pazar_pleiades_20100814;
+PA2G4	E2F1	UP	Pubmed	;homo sapiens	;21085677
+PAM	MYC	DOWN	Pubmed	rat, Rattus norvegicus	;11085504
+PANK1	PPARA	UP	Pubmed	hUman, Homo sapiens;	;14523052;
+PAPSS2	SP1	UP	trrd;	hUman, Homo sapiens;	S10604;
+PARK7	SP1	UP	trrd;	hUman, Homo sapiens;	S8364;
+PAX3	GLI2	UP	Pubmed	mouse, Mus musculus;	;15039437
+PAX4	HNF1A	UP	Pubmed	;mus musculus	;12837760
+PAX4	NEUROG3	UP	Pubmed	;mus musculus	;12837760
+PAX5	STAT5A	UP	Pubmed	mouse, Mus musculus;	;12811842;
+PAX5	STAT5B	UP	Pubmed	mouse, Mus musculus;	;12811842;
+PAX6	PAX6	UP	Pubmed	;homo sapiens	;17251190
+PAX6	SMAD3	DOWN	Pubmed	;homo sapiens	;17251190
+PAX6	SP1	UP	trrd;	hUman, Homo sapiens;	S8259;
+PAX8	CTNNB1	UP	Pubmed	rAt, Rattus norvegicus	;17693601
+PBX1	FOXO1	DOWN	Pubmed	mouse, Mus musculus;	;17254969
+PC	PPARG	UP	Pubmed	;mus musculus	;15917242
+PCCA	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;12782598
+PCK1	CREBBP	UP	NFIRegulomeDB;	rat, Rattus norvegicus	;
+PCK1	FOXO1	UP	Pubmed	mouse, Mus musculus;	;16804074;16492665;
+PCK1	HNF4A	UP	Pubmed	;rattus norvegicus	;14722127
+PCK1	NR2F1	DOWN	trrd	rAt, Rattus norvegicus	S7474;
+PCK1	NR2F2	DOWN	trrd	rAt, Rattus norvegicus	S7474;
+PCK1	SP1	UP	Pubmed	human, Homo sapiens;rattus norvegicus	;14744869
+PCK1	SREBF1	DOWN	Pubmed	;rattus norvegicus	;14744869; 14722127
+PCK1	SREBF2	DOWN	Pubmed	;rattus norvegicus	;14744869
+PCK2	NR1H2	DOWN	Pubmed	human, Homo sapiens	;19258656
+PCK2	NR1H3	DOWN	Pubmed	human, Homo sapiens	;19258656
+PCNA	E2F1	UP	Pubmed	;homo sapiens	;12782299; 1261188
+PCNA	GLI2	UP	Pubmed	human, Homo sapiens	;14691458
+PCNA	MYC	UP	Pubmed	human, Homo sapiens; rattus norvegicus	;11085504;1280813111085504;
+PCNA	SP1	UP	trrd;	hUman, Homo sapiens;	S1917;
+PCNA	TP53	UP	Pubmed	human, Homo sapiens;	;15358233
+PCSK6	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;12782598
+PCSK6	E2F1	UP	Pubmed	;homo sapiens	;17825503
+PCSK6	E2F2	UP	Pubmed	;homo sapiens	;17825503
+PCSK6	E2F3	UP	Pubmed	;homo sapiens	;17825503
+PCYT1A	E2F1	UP	Pubmed	;mus musculus	;20096375
+PCYT1A	SP1	UP	Pubmed	mouse, Mus musculus;mus musculus	;20096375
+PCYT1A	SREBF1	UP	Pubmed	;mus musculus	;11483628
+PCYT1A	SREBF2	UP	Pubmed	;mus musculus	;11483628
+PCYT2	SREBF1	UP	Pubmed	human, Homo sapiens;	;11483628
+PCYT2	SREBF2	UP	Pubmed	human, Homo sapiens;	;11483628
+PDCD5	CTNNB1	DOWN	Pubmed	human, Homo sapiens;	;16959035
+PDCD6IP	CTNNB1	DOWN	Pubmed	human, Homo sapiens;	;16959035
+PDE4B	GLI1	DOWN	Pubmed	human, Homo sapiens; rattus norvegicus	;18924150
+PDE9A	GLI1	UP	Pubmed	mus musculus;	;19095649
+PDGFB	EGR1	UP	Pubmed;pazar	human, Homo sapiens;	;8596917;pazar_pleiades;
+PDGFB	FOXO1	UP	Pubmed	mouse, Mus musculus;	;16100571;
+PDGFB	FOXO3	UP	Pubmed	mouse, Mus musculus;	;16100571;
+PDGFB	NFKB1	UP	Pubmed	human, Homo sapiens	;15175554;
+PDGFRA	E2F1	UP	Pubmed	;mus musculus	;18323664
+PDK4	E2F1	UP	Pubmed	;homo sapiens	;18667418
+PDK4	FOXO1	UP	Pubmed	human, Homo sapiens; mus musculus	;15047604;17079227;12820900;
+PDX1	FOXA2	UP	Pubmed	;homo sapiens; mus musculus	;11278466
+PDX1	HNF1A	UP	Pubmed	;homo sapiens; mus musculus	;11278466
+PDX1	PDX1	UP	trrd	human, Homo sapiens;	S8028;
+PDX1	SP1	UP	Pubmed	;homo sapiens; mus musculus	;11278466
+PECAM1	NFKB1	UP	pazar	human, Homo sapiens	;
+PECAM1	RELA	UP	pazar	human, Homo sapiens	;
+PEG3	TP53	UP	Pubmed	human, Homo sapiens;	;11679586
+PEMT	SP1	DOWN	Pubmed	;mus musculus	;20150657
+PEMT	YY1	UP	Pubmed	;mus musculus	;20150657
+PENK	JUN	UP	NFIregulomeDB;	human, Homo sapiens;	;
+PENK	TFAP4	UP	NfiRegulomeDB	human, Homo sapiens;	;
+PER1	SP1	UP	trrd;	mouse, Mus musculus;	S10589;
+PERP	TP53	UP	pazar	mouse, Mus musculus; homo sapiens	pazar_ABS;pazar_pleiades;
+PEX19	MYC	DOWN	Pubmed	rat, Rattus norvegicus	;11085504
+PF4	ETS1	UP	trrd;	rat, Rattus norvegicus	S4712;
+PF4	GLI1	DOWN	Pubmed	mus musculus;	;19095649
+PFKFB1	AR	UP	Pubmed	rat, Rattus norvegicus	168;
+PFKFB1	E2F1	UP	Pubmed	;mus musculus	;12139485
+PFKL	HIF1A	UP	Pubmed	human, Homo sapiens	;8089148;
+PFKM	MYC	UP	Pubmed	human, Homo sapiens	;11983916
+PGC	AR	UP	Pubmed	human, Homo sapiens;	8663058;
+PGK1	HIF1A	UP	Pubmed	human, Homo sapiens	;8089148
+PHB	MYC	UP	Pubmed	human, Homo sapiens;	;11983916
+PHEX	CTNNB1	UP	Pubmed	mouse, Mus musculus;	;19213727
+PHLDA3	TP53	UP	pazar	hUman, Homo sapiens;	pazar_ABS;
+PHLPP1	FOXO1	DOWN	Pubmed	mouse, Mus musculus;	;20338229;
+PI3	GLI2	DOWN	Pubmed	human, Homo sapiens	;14691458
+PIAS1	MYC	UP	Pubmed	human, Homo sapiens	;11983916
+PIDD	TP53	UP	pazar	human, Homo sapiens;	pazar_ABS;
+PIGQ	FOXO1	DOWN	Pubmed	mouse, Mus musculus;	;16492665;
+PIK3CA	FOXO3	UP	Pubmed	mouse, Mus musculus;	;18644865;
+PIK3CA	TP53	DOWN	pazar	hUman, Homo sapiens;	pazar_ABS;pazar_pleiades;
+PIK3R1	STAT3	UP	Pubmed	mouse, Mus musculus;	;16293640
+PIK3R3	SREBF1	UP	Pubmed	hUman, Homo sapiens;	;17452746
+PIM1	SP1	UP	trrd;	hUman, Homo sapiens;	S792;
+PIN1P1	STAT2	UP	Pubmed	hUman, Homo sapiens;	;16689942;
+PINK1	FOXO3	UP	Pubmed	;homo sapiens; mus musculus	;0;19276113
+PITPNB	CREB1	UP	Pubmed	mouse, Mus musculus;	;14973073
+PITX1	STAT5A	UP	Pubmed	mouse, Mus musculus;	;16293640
+PITX1	STAT5B	UP	Pubmed	mouse, Mus musculus;	;16293640
+PITX2	LEF1	UP	NfiRegulomeDB	mouse, Mus musculus;	;
+PKD1	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;12048202
+PKLR	FOXO1	DOWN	Pubmed	mouse, Mus musculus;	;16492665;
+PKLR	SREBF1	UP	Pubmed	;rattus norvegicus	;12177166
+PKLR	USF1	UP	Pubmed	human, Homo sapiens;rattus norvegicus	;12177166
+PKM2	SP3	UP	trrd	rAt, Rattus norvegicus	S6402;
+PLA2G2A	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;18519687
+PLA2G4A	SP1	UP	trrd;	rAt, Rattus norvegicus	S7492;
+PLA2G6	SREBF2	UP	Pubmed	;homo sapiens	;15450207
+PLAU	FOXO3	DOWN	Pubmed	human, Homo sapiens	;18239069;
+PLAU	NFKB1	UP	Pubmed	human, Homo sapiens	;11689575;
+PLAUR	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;9990071
+PLAUR	JUN	UP	trrd;	human, Homo sapiens;	S5779;
+PLAUR	SP1	UP	trrd;	hUman, Homo sapiens;	S5784;
+PLF	JUN	UP	trrd;	mouse, Mus musculus;	S1892;
+PLK1	E2F1	UP	Pubmed	;homo sapiens	;18439978
+PLK1	E2F2	UP	Pubmed	;homo sapiens	;18439978
+PLK1	E2F3	UP	Pubmed	;homo sapiens	;18439978
+PLK1	TP53	DOWN	Pubmed	human, Homo sapiens;	;15016801
+PLK2	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;15592430
+PLK3	E2F1	UP	Pubmed	;homo sapiens	;18439978
+PLK3	E2F2	UP	Pubmed	;homo sapiens	;18439978
+PLK3	E2F3	UP	Pubmed	;homo sapiens	;18439978
+PLK4	E2F1	UP	Pubmed	;homo sapiens	;18439978
+PLK4	E2F2	UP	Pubmed	;homo sapiens	;18439978
+PLK4	E2F3	UP	Pubmed	;homo sapiens	;18439978
+PLS3	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;12782598
+PLSCR1	FOXO1	UP	Pubmed	mouse, Mus musculus;	;16492665
+PLSCR1	STAT3	UP	Pubmed	mouse, Mus musculus;	;16293640
+PLTP	GLI1	UP	Pubmed	human, Homo sapiens; rattus norvegicus	;18924150
+PLTP	NR1H2	UP	Pubmed	human, Homo sapiens	;19258656
+PLTP	NR1H3	UP	Pubmed	human, Homo sapiens	;19258656
+PLXNA2	GLI1	UP	Pubmed	mus musculus;	;19095649
+PMAIP1	MYC	UP	Pubmed	;homo sapiens	;18042711
+PMAIP1	TP53	UP	pazar	human, Homo sapiens;	pazar_ABS;pazar_pleiades;
+PMEL	MITF	UP	Pubmed	human, Homo sapiens	;1999537;19067971
+PMEPA1	AR	UP	Pubmed	human, Homo sapiens;	10873380;17553164;
+PML	CTNNB1	UP	Pubmed	mouse, Mus musculus;	;12384561
+PML	TP53	UP	Pubmed	human, Homo sapiens;	;14992722
+PNMT	EGR1	UP	trrd;	rat, Rattus norvegicus	S10685;
+PNMT	SP1	UP	trrd;	rAt, Rattus norvegicus	S10684;
+PNP	STAT3	UP	Pubmed	mouse, Mus musculus;	;16293640
+PNRC1	FOXO3	UP	Pubmed	human, Homo sapiens	;12351634;
+PNRC2	E2F1	DOWN	Pubmed	;mus musculus	;16181749
+PNRC2	NFYA	UP	Pubmed	;mus musculus	;16181749
+POLA1	E2F1	UP	Pubmed	human, Homo sapiens;homo sapiens	;7929342
+POLA1	GABPA	UP	Pubmed	mouse, Mus musculus; homo sapiens	;11004506
+POLA1	SP1	UP	Pubmed	human, Homo sapiens; mus musculus	;11004506
+POLB	SP1	DOWN	trrd;	human, Homo sapiens; Mh	S494;
+POLD1	E2F1	UP	pazar;Pubmed	human, Homo sapiens	pazar_ABS;11799067;
+POLD1	E2F4	UP	pazar;Pubmed	human, Homo sapiens	pazar_ABS;11799067;
+POLD1	TP53	DOWN	pazar	human, Homo sapiens;	pazar_ABS;pazar_pleiades;
+POLE2	E2F1	UP	pazar;Pubmed	human, Homo sapiens	pazar_ABS;11433027;
+POLE3	E2F1	UP	Pubmed	;homo sapiens	;16403426
+POLE3	E2F2	UP	Pubmed	;homo sapiens	;16403426
+POLE3	E2F3	UP	Pubmed	;homo sapiens	;16403426
+POLE3	E2F4	UP	Pubmed	;homo sapiens	;16403426
+POLE3	MYC	UP	Pubmed	;homo sapiens	;16403426
+POLR2F	MYC	UP	Pubmed	human, Homo sapiens	;11983916
+POMC	CREB1	UP	trrd;	rat, Rattus norvegicus	S7596;
+POMC	JUN	UP	trrd;	rat, Rattus norvegicus	S7597;
+POU1F1	POU1F1	DOWN	NfiRegulomeDB	human, Homo sapiens	;
+POU2AF1	CREB1	UP	trrd;	mouse, Mus musculus;	S9981;
+POU5F1	NR5A1	UP	Pubmed	;homo sapiens; mus musculus	S8071;17226773; 
+POU5F1	POU5F1	UP	Pubmed	mouse, Mus musculus;mus musculus	;15557334
+POU5F1	RARA	DOWN	Pubmed	;mus musculus	;20564199
+POU5F1	SOX2	UP	Pubmed	;mus musculus	;15557334
+PPAP2B	STAT3	UP	Pubmed	mouse, Mus musculus;	;16293640
+PPARD	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;11943708
+PPARG	CDX1	UP	Pubmed	;homo sapiens	19059241;
+PPARG	CEBPA	UP	Pubmed	;mus musculus; homo sapiens	15632071; 16580992; 19059241;
+PPARG	CTNNB1	UP	Pubmed	mouse, Mus musculus;	;15665104
+PPARG	E2F1	UP	Pubmed	;homo sapiens	;12110166
+PPARG	E2F4	DOWN	Pubmed	;homo sapiens	;12110166
+PPARG	EBF1	UP	Pubmed	;mus musculus	;17060461
+PPARG	GATA2	UP	pazar	mouse, Mus musculus;	Pazar_tfe;
+PPARG	GATA3	DOWN	pazar	mouse, Mus musculus;	Pazar_tfe;
+PPARG	HIVEP2	UP	Pubmed	;mus musculus	;16580992
+PPARG	SMAD1	UP	Pubmed	;mus musculus	;16580992
+PPARG	SMAD4	UP	Pubmed	;mus musculus	;16580992
+PPARG	TCF7	UP	Pubmed	mouse, Mus musculus;	;15665104
+PPARGC1A	FOXO1	UP	Pubmed	human, Homo sapiens; mus musculus	;17390079;
+PPARGC1A	FOXO3	UP	Pubmed	human, Homo sapiens; mus musculus	;17390079;
+PPARGC1A	FOXO4	UP	Pubmed	human, Homo sapiens; mus musculus	;17390079;
+PPAT	MYC	UP	Pubmed	human, Homo sapiens;	;14519204
+PPID	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;16132617
+PPID	MYC	UP	Pubmed	human, Homo sapiens;	;11085504
+PPIF	MYC	UP	Pubmed	human, Homo sapiens	;11983916
+PPP1CB	GLI2	UP	Pubmed	human, Homo sapiens	;14691458
+PPP1R13B	E2F1	UP	Pubmed	;homo sapiens	;15731768
+PPP1R13B	E2F2	UP	Pubmed	;homo sapiens	;15731768
+PPP1R13B	E2F3	UP	Pubmed	;homo sapiens	;15731768
+PPP2R2B	MYC	DOWN	Pubmed	rat, Rattus norvegicus	;11085504
+PPP2R4	MYC	DOWN	Pubmed	human, Homo sapiens;	;12747840
+PPP2R4	TP53	DOWN	Pubmed	;homo sapiens	;10787423
+PPP2R4	YY1	UP	Pubmed	;homo sapiens	;10585862; 1078742
+PRDM8	GLI1	UP	Pubmed	mus musculus;	;19095649
+PRDX4	FOXO1	DOWN	Pubmed	human, Homo sapiens	;18301748
+PRF1	STAT1	UP	Pubmed	human, Homo sapiens;	;10072525
+PRF1	STAT3	UP	Pubmed	human, Homo sapiens;	;10072525
+PRF1	STAT5A	UP	Pubmed	hUman, Homo sapiens;	;10072525;
+PRF1	STAT5B	UP	Pubmed	hUman, Homo sapiens;	;10072525;
+PRG2	GATA1	UP	pazar	human, Homo sapiens	pazar_pleiades;
+PRG4	FOXO1	DOWN	Pubmed	human, Homo sapiens	;18301748
+PRKAB1	TP53	UP	Pubmed	human, Homo sapiens;	;12771025
+PRKACA	GLI2	DOWN	Pubmed	human, Homo sapiens	;14691458
+PRKCD	AR	UP	Pubmed	human, Homo sapiens;	17553165;
+PRKCH	GLI1	DOWN	Pubmed	human, Homo sapiens; rattus norvegicus	;18924150
+PRL	ETS1	UP	trrd;	rat, Rattus norvegicus	S3960;
+PRL	FOXO1	UP	Pubmed	human, Homo sapiens	;17609436;
+PRL	JUN	UP	trrd;	human, Homo sapiens;	S3945;
+PRL2C3	CTNNB1	UP	Pubmed	mouse, Mus musculus;	;12154096
+PRL2C4	CTNNB1	UP	Pubmed	mouse, Mus musculus;	;12154096
+PRL2C4	TCF7L2	UP	Pubmed	mouse, Mus musculus;	;12154096
+PRL3B1	ETS2	UP	trrd;	rat, Rattus norvegicus	S4365;
+PRLR	NR5A1	UP	trrd;	rAt, Rattus norvegicus	S3063;
+PRLR	SP1	UP	trrd;	rAt, Rattus norvegicus	S3705;
+PRLR	SP3	UP	trrd	rAt, Rattus norvegicus	S3705;
+PROC	HNF1A	DOWN	Pubmed	;homo sapiens	;11140943
+PROC	SP1	UP	trrd;	hUman, Homo sapiens;	S5821;
+PRODH	TP53	UP	Pubmed	human, Homo sapiens;	;18794809
+PROKR1	GLI1	UP	Pubmed	mus musculus;	;19095649
+PRPSAP1	GLI1	UP	Pubmed	human, Homo sapiens; rattus norvegicus	;18924150
+PSAP	AR	UP	Pubmed	human, Homo sapiens;	17171640;
+PSAP	STAT5A	UP	Pubmed	mouse, Mus musculus;	;16293640
+PSAP	STAT5B	UP	Pubmed	mouse, Mus musculus;	;16293640
+PSEN1	ETS1	UP	trrd;	human, Homo sapiens	S6767;
+PSEN1	ETS2	UP	trrd;	human, Homo sapiens	S6767;
+PSEN1	NOTCH1	DOWN	Pubmed	HUman, Homo sapiens;	;12960155
+PSEN1	RBPJ	DOWN	Pubmed	HUman, Homo sapiens;	;12960155
+PSENEN	CREB1	UP	Pubmed	human, Homo sapiens;	;16449647
+PSG19	NFKB1	UP	Pubmed	rat, Rattus norvegicus	;11673260
+PSG19	RBPJ	UP	Pubmed	Rat, Rattus norvegicus	;11673260;10677215
+PSG19	RELA	UP	Pubmed	rat, Rattus norvegicus	;11673260
+PSMB5	ETS1	UP	trrd;	mouse, Mus musculus;	S2748;
+PSMB5	GABPA	UP	trrd;	mouse, Mus musculus;	S2748;
+PSMB5	SP1	UP	trrd;	mouse, Mus musculus;	S2749;
+PSMB6	FOXO1	UP	Pubmed	mouse, Mus musculus;	;16492665;
+PSMB8	FOXO1	UP	Pubmed	mouse, Mus musculus;	;16492665;
+PSMG1	MYC	UP	Pubmed	human, Homo sapiens;	;12747840;
+PSPN	ETS1	UP	trrd;	mouse, Mus musculus;	S8428;
+PSPN	ETS2	UP	trrd;	mouse, Mus musculus;	S8428;
+PTCH1	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;12782598
+PTCH1	GLI1	UP	Pubmed	human, Homo sapiens	;11719506;15087129
+PTCH1	GLI2	UP	Pubmed	human, Homo sapiens; mus musculus	;14691458;9636069;15087129
+PTCH2	GLI3	UP	Pubmed	human, Homo sapiens	;14691458
+PTCRA	RBPJ	UP	Pubmed	Mouse, Mus musculus;	;11825871
+PTEN	CTNNB1	DOWN	Pubmed	human, Homo sapiens;	;16959035
+PTEN	GLI2	DOWN	Pubmed	human, Homo sapiens	;14691458
+PTEN	TP53	UP	pazar	human, Homo sapiens;	pazar_ABS;pazar_pleiades;
+PTGER4	STAT3	UP	Pubmed	mouse, Mus musculus;	;16293640
+PTGS2	CEBPA	UP	Pubmed	rat, Rattus norvegicus;mus musculus	20506344;
+PTGS2	CEBPB	UP	Pubmed	human, Homo sapiens;homo sapiens; mus musculus	11278846; 20506344;
+PTGS2	CEBPD	UP	Pubmed	mouse, Mus musculus;mus musculus	;20506344
+PTGS2	CREB1	UP	Pubmed	human, Homo sapiens;	;17962194
+PTGS2	CTNNB1	UP	Pubmed	human, Homo sapiens; mus musculus	;12154096
+PTGS2	JUN	UP	trrd;	mouse, Mus musculus;	S7311;
+PTGS2	RUNX2	UP	Pubmed	;mus musculus	;16476583
+PTGS2	SREBF1	UP	Pubmed	;homo sapiens	;15716578
+PTGS2	SREBF2	UP	Pubmed	;homo sapiens	;15716578
+PTHLH	ETS1	UP	Pubmed	mouse, Mus musculus; homo sapiens	;12628005
+PTHLH	ETS2	UP	Pubmed	mouse, Mus musculus; homo sapiens	;12628005
+PTHLH	SMAD3	UP	Pubmed	hUman, Homo sapiens;	;11590145;
+PTHLH	SMAD4	UP	Pubmed	hUman, Homo sapiens;	;11590145;
+PTHLH	SP1	UP	trrd;	mouse, Mus musculus;	S5098;
+PTMA	MYC	UP	trrd	rat, Rattus norvegicus	S7631;
+PTMA	MYC	UP	trrd	rat, Rattus norvegicus	S7631;
+PTMA	RBPJ	DOWN	Pubmed	mus musculus;	;15979417
+PTP4A1	EGR1	UP	Pubmed	human, Homo sapiens;	;9988683
+PTPRO	E2F1	UP	Pubmed	;homo sapiens	;18644370
+PTTG1	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;16705313;15514942
+PTTG1	E2F1	UP	Pubmed	;homo sapiens	;19837943
+PTTG1	SP1	UP	trrd;	mouse, Mus musculus;	S6364;
+PTTG1	SP3	UP	trrd	mouse, Mus musculus;	S6364;
+PTTG1	TCF7L2	UP	Pubmed	hUman, Homo sapiens;	;16705313;15514942
+PTX3	CTNNB1	UP	Pubmed	rAt, Rattus norvegicus	;14557550
+PTX3	JUN	UP	trrd;	human, Homo sapiens;	S4730;
+PTX3	NFKB1	UP	pazar	human, Homo sapiens	;
+PTX3	SP1	DOWN	trrd;	hUman, Homo sapiens;	S4728;
+PURA	E2F1	UP	Pubmed	;mus musculus	;16741925
+PURA	IRF3	DOWN	Pubmed	;homo sapiens	;21062477
+PURA	NFYA	UP	Pubmed	;homo sapiens	;21062477
+PVRL3	FOXO1	UP	Pubmed	human, Homo sapiens	;12351634;
+PYCR1	AR	UP	Pubmed	human, Homo sapiens;	17553165;
+QPCT	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;12782598
+RAB27A	MITF	UP	Pubmed	human, Homo sapiens	;1999537;19067971
+RACGAP1	CUX1	DOWN	Pubmed	;homo sapiens	;19015243
+RACGAP1	E2F1	UP	Pubmed	;homo sapiens	;19015243
+RAD51	E2F1	UP	Pubmed	;homo sapiens	;16398215
+RAD51	EGR1	UP	Pubmed	;homo sapiens	;16398215
+RAD51	ETS1	UP	Pubmed	human, Homo sapiens	;16398215
+RAD51	ETV4	UP	Pubmed	;homo sapiens	;16398215
+RAD51	STAT5A	UP	Pubmed	;homo sapiens	;16398215
+RAD51	STAT5B	UP	Pubmed	;homo sapiens	;16398215
+RAD51	TP53	UP	Pubmed	;homo sapiens	;16398215
+RAG1	GATA2	UP	pazar	mouse, Mus musculus;	Pazar_tfe;
+RAG1	GATA3	UP	pazar	mouse, Mus musculus;	Pazar_tfe;
+RAG2	GATA3	UP	pazar	mouse, Mus musculus;	Pazar_tfe;
+RAN	MYC	UP	Pubmed	rat, Rattus norvegicus	;11085504
+RANBP1	MYC	UP	Pubmed	rat, Rattus norvegicus	;11085504
+RAPGEFL1	GLI2	DOWN	Pubmed	human, Homo sapiens	;14691458
+RARA	SP1	UP	trrd;	human, Homo sapiens;	S5338;
+RARB	MYC	DOWN	Pubmed	human, Homo sapiens;	;11085504
+RARS	FOXO1	UP	Pubmed	human, Homo sapiens	;18301748
+RASGRF1	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;16132617
+RASL11B	GLI1	UP	Pubmed	mouse, Mus musculus;	;19095649
+RASSF8	GLI1	UP	Pubmed	mouse, Mus musculus;	;19095649
+RB1	E2F1	UP	Pubmed	human, Homo sapiens;homo sapiens; mus musculus	;8264596; 16738312
+RB1	TP53	DOWN	Pubmed	human, Homo sapiens;	;1608930
+RBBP4	E2F6	DOWN	Pubmed	;homo sapiens	;12909625
+RBBP8	E2F6	DOWN	Pubmed	;homo sapiens	;12909625
+RBL2	FOXO1	UP	Pubmed	mouse, Mus musculus;	;16493026;
+RBL2	FOXO3	UP	Pubmed	mouse, Mus musculus;	;16493026;11884591;
+RBL2	FOXO4	UP	Pubmed	human, Homo sapiens; mus musculus	;11884591
+RBM24	GLI1	UP	Pubmed	mouse, Mus musculus;	;19095649
+RBP1	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;15592430
+RBP1	MYC	UP	Pubmed	rat, Rattus norvegicus	;11085504
+RBPMS	GLI1	UP	Pubmed	mouse, Mus musculus;	;19095649
+RCC1	MYC	UP	Pubmed	human, Homo sapiens	;14519204
+RCN1	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;12782598
+RCVRN	RBPJ	UP	Pubmed	mus musculus;	;15979417
+REG1A	SP3	UP	trrd	rAt, Rattus norvegicus	S7093;
+REL	NOTCH1	UP	Pubmed	Mouse, Mus musculus;	;11591772
+REL	RBPJ	UP	Pubmed	Mouse, Mus musculus;	;11591772
+RELA	EGR1	DOWN	Pubmed	human, Homo sapiens;	;10671503;
+RELA	FOXO1	UP	Pubmed	mouse, Mus musculus;	;15632117;
+RELA	NOTCH1	UP	Pubmed	Mouse, Mus musculus;	;11591772
+RELA	RBPJ	UP	Pubmed	Mouse, Mus musculus;	;11591772
+RELB	NOTCH1	UP	Pubmed	Mouse, Mus musculus;	;11591772
+RELB	RBPJ	UP	Pubmed	Mouse, Mus musculus;	;11591772
+RELN	KLF2	UP	Pubmed	;mus musculus	;21530336
+REN	ETS1	UP	Pubmed	Rat, Rattus norvegicus	;15792957
+REN	JUN	UP	trrd;	human, Homo sapiens;	S9069;
+REN	NOTCH1	UP	Pubmed	RAt, Rattus norvegicus	;15792957
+REN	RBPJ	UP	Pubmed	RAt, Rattus norvegicus	;15792957
+REN1	CREB1	UP	NFIRegulomeDB;	mouse, Mus musculus;	;
+REN1	SP1	UP	NfiRegulomeDB	mouse, Mus musculus;	;
+REN1	SP3	UP	NfiRegulomeDB	mouse, Mus musculus;	;
+RET	CTNNB1	UP	Pubmed	rAt, Rattus norvegicus	;14557550
+RETN	CEBPA	UP	Pubmed	mouse, Mus musculus;mus musculus; homo sapiens	11901161; 12730330; 19126543;
+RETN	CEBPB	UP	Pubmed	;mus musculus	19126543;
+RETN	PPARG	UP	Pubmed	;mus musculus	;19126543
+RETN	SREBF1	UP	Pubmed	hUman, Homo sapiens;	;12730330
+RFC1	SP1	UP	trrd;	mouse, Mus musculus;	S10528;
+RFC1	SP3	UP	trrd	hUman, Homo sapiens;	S10518;
+RFC2	MYC	UP	Pubmed	human, Homo sapiens;	;12747840
+RGS16	GLI1	UP	Pubmed	human, Homo sapiens; rattus norvegicus	;18924150
+RGS16	STAT5A	UP	Pubmed	mouse, Mus musculus;	;16293640
+RGS16	STAT5B	UP	Pubmed	mouse, Mus musculus;	;16293640
+RGS16	YY1	DOWN	Pubmed	;mus musculus	;18046543
+RGS4	GLI1	DOWN	Pubmed	mouse, Mus musculus;	;19095649
+RHAG	GATA1	UP	pazar	human, Homo sapiens	pazar_pleiades;
+RHOB	MYC	UP	Pubmed	rat, Rattus norvegicus	;11085504
+RHOH	GLI2	DOWN	Pubmed	human, Homo sapiens	;14691458
+RLF	RBPJ	UP	Pubmed	mus musculus;	;15979417
+RNASE3	GLI2	DOWN	Pubmed	human, Homo sapiens	;14691458
+RNF149	STAT3	UP	Pubmed	mouse, Mus musculus;	;16293640
+ROCK1	CTNNB1	DOWN	Pubmed	hUman, Homo sapiens;	;15979100
+ROCK1	LEF1	DOWN	Pubmed	hUman, Homo sapiens;	;15979100
+RORC	GLI2	DOWN	Pubmed	human, Homo sapiens	;14691458
+RORC	ID1	DOWN	Pubmed	mouse, Mus musculus;	;18489764
+RPE65	POU2F1	UP	NfiRegulomeDB	mouse, Mus musculus;	;
+RPE65	TFAP4	UP	NfiRegulomeDB	mouse, Mus musculus;	;
+RPIA	FOXO1	DOWN	Pubmed	mouse, Mus musculus;	;16492665;
+RPL10	MYC	UP	Pubmed	human, Homo sapiens;	;11085504
+RPL12	MYC	UP	Pubmed	rat, Rattus norvegicus	;11085504
+RPL13	MYC	UP	Pubmed	human, Homo sapiens;	;11085504
+RPL19	MYC	UP	Pubmed	human, Homo sapiens;	;11085504
+RPL21	MYC	UP	Pubmed	rat, Rattus norvegicus	;11085504
+RPL22	MYC	UP	Pubmed	human, Homo sapiens;	;11085504
+RPL23	MYC	UP	Pubmed	rat, Rattus norvegicus; homo sapiens	;11085504;14519204
+RPL26	MYC	UP	Pubmed	human, Homo sapiens;	;12747840;11085504
+RPL27	MYC	UP	Pubmed	human, Homo sapiens;	;11085504;12747840
+RPL29	CTNNB1	UP	Pubmed	mouse, Mus musculus;	;17273793
+RPL3	MYC	UP	Pubmed	human, Homo sapiens	;12747840;11983916;14519204
+RPL30	MYC	UP	Pubmed	rat, Rattus norvegicus	;11085504
+RPL32	MYC	UP	Pubmed	human, Homo sapiens;	;11983916;11085504
+RPL35	MYC	UP	Pubmed	rat, Rattus norvegicus	;11085504
+RPL36A	MYC	UP	Pubmed	rat, Rattus norvegicus	;11085504
+RPL41	MYC	UP	Pubmed	rat, Rattus norvegicus	;11085504
+RPL5	MYC	UP	Pubmed	rat, Rattus norvegicus	;11085504
+RPL6	MYC	UP	Pubmed	rat, Rattus norvegicus; homo sapiens	;11085504;14519204
+RPL7	MYC	UP	Pubmed	rat, Rattus norvegicus	;11085504
+RPL9	MYC	UP	Pubmed	rat, Rattus norvegicus	;11085504
+RPLP1	MYC	UP	Pubmed	rat, Rattus norvegicus	;11085504
+RPS12	MYC	UP	Pubmed	rat, Rattus norvegicus	;11085504
+RPS13	MYC	UP	Pubmed	rat, Rattus norvegicus	;11085504;12808131;
+RPS15A	MYC	UP	Pubmed	rat, Rattus norvegicus; homo sapiens	;11085504; 14519204
+RPS16	MYC	UP	Pubmed	human, Homo sapiens; rattus norvegicus	;12747840;11085504
+RPS18	MYC	UP	Pubmed	rat, Rattus norvegicus	;11085504
+RPS19	MYC	UP	Pubmed	human, Homo sapiens; rattus norvegicus	;11085504;1280813
+RPS20	MYC	UP	Pubmed	human, Homo sapiens; rattus norvegicus	;11085504;12808131;
+RPS23	MYC	UP	Pubmed	rat, Rattus norvegicus	;11085504
+RPS6KA3	FOXO1	UP	Pubmed	human, Homo sapiens	;12351634;
+RPS7	MYC	UP	Pubmed	rat, Rattus norvegicus	;11085504
+RPS9	MYC	UP	Pubmed	rat, Rattus norvegicus	;11085504
+RRM2	E2F4	DOWN	Pubmed	;mus musculus	;14688249
+RRM2B	GLI1	UP	Pubmed	mus musculus;	;19095649
+RRM2B	TP53	UP	Pubmed	human, Homo sapiens;	;10980602
+RRP1B	E2F1	UP	Pubmed	;homo sapiens	;20040599
+RSPO2	CTNNB1	UP	Pubmed	mouse, Mus musculus;	;19213727
+RUNX1	ETS1	UP	trrd;	human, Homo sapiens	S3350;
+RUNX1	ETS2	UP	trrd;	human, Homo sapiens	S3350;
+RUNX1	HBP1	UP	Pubmed	human, Homo sapiens	;16179914;
+RUNX1	RUNX3	DOWN	Pubmed	;mus musculus	;17488194
+RUNX1	TRPS1	DOWN	Pubmed	;mus musculus	;21122804
+RUNX2	AR	DOWN	Pubmed	human, Homo sapiens;	19389811;
+RUNX2	CTNNB1	UP	Pubmed	GG; mus musculus	;16575901;16043491
+RUNX2	DLX5	UP	Pubmed	;mus musculus	;16115867
+RUNX2	ELK1	UP	Pubmed	;rattus norvegicus; homo sapiens; mus musculus	;19017640
+RUNX2	EPAS1	UP	Pubmed	;mus musculus	;18442887
+RUNX2	FOXO1	UP	Pubmed	mouse, Mus musculus;	;20650891;
+RUNX2	JUN	UP	NFIRegulomeDB;	mouse, Mus musculus;	;
+RUNX2	LEF1	UP	Pubmed	GG; mus musculus	;16575901;16043491
+RUNX2	SP1	UP	Pubmed	;rattus norvegicus; homo sapiens; mus musculus	;19017640
+RUNX2	TCF7	UP	Pubmed	GG; mus musculus	;16575901;16043491
+RUVBL2	MYC	UP	Pubmed	human, Homo sapiens	;11983916
+RXRG	NR2F1	DOWN	trrd	human, Homo sapiens;	S5047;
+S100A10	RBPJ	UP	Pubmed	mus musculus;	;15979417
+S100A4	CTNNB1	UP	Pubmed	human, Homo sapiens;	;17101323
+S100B	TFAP2A	UP	NfiRegulomeDB	human, Homo sapiens;	;
+S100B	TP53	DOWN	Pubmed	human, Homo sapiens;	;15178678
+SAA1	CEBPA	UP	Pubmed	human, Homo sapiens;homo sapiens	12410800;
+SAA1	CEBPB	UP	Pubmed	human, Homo sapiens;homo sapiens	12410800;
+SAA1	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;12782598
+SAA1	STAT3	UP	Pubmed	hUman, Homo sapiens;	;14733913;
+SAA2	NFKB1	UP	Pubmed	human, Homo sapiens;	;8244997;
+SAA2	RELA	UP	Pubmed	human, Homo sapiens;	;8244997;
+SAT1	FOXO3	UP	Pubmed	human, Homo sapiens	;12351634
+SATB1	FOXO3	UP	Pubmed	human, Homo sapiens	;12351634;
+SCAP	AR	UP	Pubmed	human, Homo sapiens;	15133039;
+SCARA5	GLI1	UP	Pubmed	mus musculus;	;19095649
+SCARB1	FOXO1	UP	Pubmed	mouse, Mus musculus;	;16492665;
+SCARB1	GLI1	UP	Pubmed	mus musculus;	;19095649
+SCARB1	MYC	UP	Pubmed	human, Homo sapiens	;11983916
+SCARB1	NR5A1	UP	trrd;	hUman, Homo sapiens;	S8880;
+SCD	CEBPA	UP	Pubmed	;mus musculus; homo sapiens	7480063; 11414710;
+SCD	FOXO1	DOWN	Pubmed	mouse, Mus musculus;	;16492665;
+SCD	HNF1A	UP	Pubmed	;mus musculus; homo sapiens	;7480063; 11414710
+SCD	NR1H2	UP	Pubmed	mouse, Mus musculus;	;19066317
+SCD	NR1H3	UP	Pubmed	mouse, Mus musculus;	;19066317
+SCD	SREBF1	UP	Pubmed	;homo sapiens	;11414710
+SCGB1A1	CEBPA	UP	Pubmed	mouse, Mus musculus;mus musculus; homo sapiens	12161423; 11193754;
+SCGB1A1	FOXA2	UP	Pubmed	;mus musculus; homo sapiens	;11193754
+SCGB1A1	JUN	UP	trrd;	rat, Rattus norvegicus	S9565;
+SCGB1A1	NKX2-1	UP	Pubmed	;mus musculus	;12161423
+SCGB1A1	SOX2	UP	Pubmed	;mus musculus	;20011520
+SCGB1A1	TTF1	UP	Pubmed	homo sapiens; mus musculus	;11193754
+SCGB2A2	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;12782598
+SCNN1A	AR	UP	Pubmed	mouse, Mus musculus;	16172422;
+SCNN1G	SP1	UP	trrd;	hUman, Homo sapiens;	S9490;
+SDC2	CTNNB1	DOWN	Pubmed	hUman, Homo sapiens;	;15473860
+SDPR	FOXO1	DOWN	Pubmed	mouse, Mus musculus;	;17254969
+SEC63	CREB1	UP	Pubmed	mouse, Mus musculus;	;14973073
+SEL1L	ATF6	UP	Pubmed	human, Homo sapiens;	17967421;
+SELE	NFKB1	UP	trrd	human, Homo sapiens;	S1328;
+SELE	RELA	UP	trrd	human, Homo sapiens;	S1328;
+SEMA3C	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;12782598
+SEMA3F	FOXO1	DOWN	Pubmed	mouse, Mus musculus;	;16100571;
+SEMA3F	FOXO3	DOWN	Pubmed	mouse, Mus musculus;	;16100571;
+SEMA5B	RBPJ	DOWN	Pubmed	mus musculus;	;15979417
+SEPP1	SMAD3	DOWN	Pubmed	;homo sapiens	;11733012; 11568450
+SEPP1	SMAD4	DOWN	Pubmed	;homo sapiens	;11733012; 11568450
+SEPT7	GLI1	UP	Pubmed	mus musculus;	;19095649
+SERP1	ATF6	UP	Pubmed	mouse, Mus musculus;	14559994;
+SERPINA1	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;12782598
+SERPINA3	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;12782598
+SERPINA5	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;12782598
+SERPINB2	GLI2	UP	Pubmed	human, Homo sapiens	;14691458
+SERPINB5	ETS1	UP	Pubmed	human, Homo sapiens	;9040939
+SERPINB5	JUN	UP	Pubmed	;homo sapiens	9040939;
+SERPINB5	SMAD2	UP	Pubmed	;homo sapiens	;17204482
+SERPINB5	SMAD3	UP	Pubmed	;homo sapiens	;17204482
+SERPINB5	TP53	UP	Pubmed	;homo sapiens	;17204482; 10692390
+SERPIND1	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;15592430
+SERPINE1	E2F1	DOWN	Pubmed	;homo sapiens	;11559366
+SERPINE1	HIF1A	UP	Pubmed	human, Homo sapiens	;11877282
+SERPINE1	SMAD2	UP	Pubmed	human, Homo sapiens;	;15198928
+SERPINE1	SMAD3	UP	Pubmed	human, Homo sapiens;	;15198928
+SERPINE1	SP1	UP	trrd;	human, Homo sapiens;	S5921;
+SERPINF2	JUN	UP	trrd;	mouse, Mus musculus;	S6983;
+SESN1	TP53	UP	pazar	human, Homo sapiens;	pazar_ABS;pazar_pleiades;
+SFN	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;12782598
+SFRP1	FOXO1	UP	Pubmed	mouse, Mus musculus;	;19896444;
+SFRP1	FOXO3	UP	Pubmed	mouse, Mus musculus;	;19896444;
+SFRP1	GLI1	UP	Pubmed	human, Homo sapiens	;17035233
+SFRP2	FOXO1	UP	Pubmed	mouse, Mus musculus;	;19896444;
+SFRP2	FOXO3	UP	Pubmed	mouse, Mus musculus;	;19896444;
+SFRP2	GLI1	DOWN	Pubmed	mouse, Mus musculus;	;12444557
+SFRP4	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;15579438
+SGK1	CTNNB1	UP	Pubmed	mouse, Mus musculus;	;12907606
+SGK1	GLI1	DOWN	Pubmed	human, Homo sapiens; rattus norvegicus	;18924150
+SGK1	SP1	UP	trrd;	rAt, Rattus norvegicus	S9472;
+SGK1	TCF7L2	UP	Pubmed	mouse, Mus musculus;	;12907606
+SH3GLB1	GLI1	DOWN	Pubmed	human, Homo sapiens	;11719506
+SHH	GLI1	UP	Pubmed	mouse, Mus musculus;	;9247260
+SI	CDX2	UP	Pubmed	;mus musculus	12060663;
+SI	GATA4	UP	Pubmed	mouse, Mus musculus;	;12060663
+SI	HNF1A	UP	Pubmed	;mus musculus	;12060663
+SIAH1	E2F1	UP	Pubmed	human, Homo sapiens;	;18627426
+SIM2	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;15579438
+SIRT2	FOXO3	UP	Pubmed	mouse, Mus musculus;	;19896444;
+SIVA1	E2F1	UP	Pubmed	;mus musculus	;15105421
+SIVA1	TP53	UP	Pubmed	human, Homo sapiens;	;15105421
+SKP2	E2F1	UP	Pubmed	;homo sapiens	;17471231
+SKP2	RBPJ	UP	Pubmed	HUman, Homo sapiens; mus musculus	;15998794
+SLC10A1	CEBPB	UP	Pubmed	;homo sapiens; mus musculus	14701722;
+SLC10A1	HNF1A	UP	Pubmed	;rattus norvegicus	;14701722
+SLC10A1	HNF4A	UP	Pubmed	;rattus norvegicus	;14701722
+SLC10A1	RARA	UP	Pubmed	;rattus norvegicus	;14701722
+SLC10A1	RXRA	UP	Pubmed	;rattus norvegicus	;14701722
+SLC16A1	FOXO1	UP	Pubmed	human, Homo sapiens	;12351634;
+SLC19A1	GLI1	UP	Pubmed	human, Homo sapiens; rattus norvegicus	;18924150
+SLC1A5	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;12782598
+SLC22A2	AR	UP	Pubmed	rat, Rattus norvegicus	16550473;
+SLC22A5	PPARA	UP	Pubmed	rat, Rattus norvegicus	;18309235;
+SLC25A1	SREBF1	UP	Pubmed	;rattus norvegicus	;18795892
+SLC25A3	MYC	UP	Pubmed	human, Homo sapiens;	;12747840
+SLC25A4	MYC	UP	Pubmed	rat, Rattus norvegicus	;11085504
+SLC26A2	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;12782598
+SLC2A1	SP3	DOWN	trrd	rAt, Rattus norvegicus	S6656;
+SLC2A14	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;15592430
+SLC2A2	EP300	UP	Pubmed	;homo sapiens	;11978637
+SLC2A2	HNF1A	UP	Pubmed	;homo sapiens	;11978637
+SLC2A2	PDX1	UP	trrd	mouse, Mus musculus;	S8308;
+SLC2A3	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;15592430
+SLC2A4	CEBPA	UP	Pubmed	mouse, Mus musculus;mus musculus	12641495;
+SLC2A4	KLF15	UP	Pubmed	;mus musculus	;12097321
+SLC2A4	MEF2A	UP	Pubmed	;mus musculus	;12097321; 12641495
+SLC2A4	SREBF1	UP	Pubmed	;homo sapiens	;16787385
+SLC46A1	JUN	UP	Pubmed	;homo sapiens	19643086;
+SLC46A1	YY1	UP	Pubmed	;homo sapiens	;19643086
+SLC5A2	HNF1A	UP	Pubmed	;mus musculus	;11269503
+SLC5A5	PAX8	UP	Pubmed	mouse, Mus musculus;rattus norvegicus	;14623893
+SLC5A5	SMAD3	DOWN	Pubmed	;rattus norvegicus	;14623893
+SLC6A2	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;12782598
+SLC6A2	HOXA5	DOWN	pazar	human, Homo sapiens	0
+SLC6A3	ZFP161	DOWN	pazar	hUman, Homo sapiens;	pazar_pleiades_20100814;
+SLC6A4	YBX1	DOWN	pazar	hUman, Homo sapiens;	pazar_pleiades_20100814;
+SLC7A12	GLI1	UP	Pubmed	mus musculus;	;19095649
+SLC7A8	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;15592430
+SLC9A2	SP1	UP	trrd;	rAt, Rattus norvegicus	S10442;
+SLIT2	GLI1	DOWN	Pubmed	human, Homo sapiens; rattus norvegicus	;18924150
+SLITRK6	GLI1	UP	Pubmed	mus musculus;	;19095649
+SLPI	STAT3	UP	Pubmed	mouse, Mus musculus;	;16293640
+SLPI	STAT5A	UP	Pubmed	mouse, Mus musculus;	;16293640
+SLPI	STAT5B	UP	Pubmed	mouse, Mus musculus;	;16293640
+SMAD1	STAT3	UP	Pubmed	mouse, Mus musculus;	;16293640
+SMAD4	FOXO1	UP	Pubmed	human, Homo sapiens	;12351634;
+SMAD4	FOXO3	UP	Pubmed	human, Homo sapiens	;12351634;
+SMAD6	RUNX2	UP	Pubmed	;homo sapiens	;17215250
+SMAD7	JUN	UP	Pubmed	;mus musculus; rat norvigecus	10843994; 15579469;
+SMAD7	OLIG1	UP	pazar	hUman, Homo sapiens;	;
+SMAD7	SMAD2	UP	Pubmed	mus musculus; homo sapiens	;10559222; 10753944; 10843994
+SMAD7	SMAD3	UP	Pubmed	mus musculus; homo sapiens	;10559222; 10753944; 10843994
+SMAD7	SMAD4	UP	Pubmed	mus musculus; homo sapiens	;10559222; 10753944; 10843994
+SMAD7	SP1	UP	Pubmed	;mus musculus	;10843994
+SMARCA1	RBPJ	DOWN	Pubmed	mus musculus;	;15979417
+SMC3	CTNNB1	UP	Pubmed	mouse, Mus musculus;	;12651860
+SMC3	TCF7L2	UP	Pubmed	mouse, Mus musculus;	;12651860
+SMN1	MYC	UP	Pubmed	human, Homo sapiens	;12747840
+SMOC2	GLI1	UP	Pubmed	mus musculus;	;19095649
+SMS	AR	UP	Pubmed	human, Homo sapiens;	15048993;
+SMTN	NOTCH1	DOWN	Pubmed	human, Homo sapiens;	;15987768
+SMTN	RBPJ	DOWN	Pubmed	human, Homo sapiens;	;15987768
+SNAI1	AR	UP	Pubmed	human, Homo sapiens;	16541421;
+SNAI1	GLI1	UP	Pubmed	mouse, Mus musculus;	;16158046
+SNAI2	AR	UP	Pubmed	human, Homo sapiens;	16541421;
+SNAI2	MITF	UP	Pubmed	human, Homo sapiens	;1999537;
+SNRPB	MYC	UP	Pubmed	human, Homo sapiens;	;12747840
+SNRPD3	MYC	UP	Pubmed	human, Homo sapiens; rattus norvegicus	;11085504
+SOCS2	STAT5A	UP	Pubmed	mouse, Mus musculus;	;16293640
+SOCS2	STAT5B	UP	Pubmed	mouse, Mus musculus;	;16293640
+SOCS3	STAT1	UP	Pubmed	mouse, Mus musculus;	;10359822
+SOCS3	STAT3	UP	Pubmed	mouse, Mus musculus;	;16293640
+SOCS3	STAT5A	UP	Pubmed	mouse, Mus musculus;	;10359822
+SOCS3	STAT5B	UP	Pubmed	mouse, Mus musculus;	;10359822
+SOD1	EGR1	UP	Pubmed	human, Homo sapiens;	;9867871
+SOD1	SP1	UP	trrd;	human, Homo sapiens;	S7256;
+SOD2	FOXO3	UP	Pubmed	human, Homo sapiens	;15674333
+SOD2	JUN	UP	trrd;	rat, Rattus norvegicus	S6307;
+SOD2	NFKB1	UP	trrd	rat, Rattus norvegicus	S6309;
+SOD2	SP1	UP	trrd;	hUman, Homo sapiens;	S5095;
+SOST	FOXO1	UP	Pubmed	mouse, Mus musculus;	;19896444;
+SOST	FOXO3	UP	Pubmed	mouse, Mus musculus;	;19896444;
+SOX2	PAX6	UP	Pubmed	;mus musculus	;18287938
+SOX2	POU3F1	UP	Pubmed	;mus musculus	;12136102
+SOX2	POU5F1	UP	Pubmed	mouse, Mus musculus;mus musculus	;12136102
+SOX2	SOX2	UP	Pubmed	;mus musculus	;12136102
+SP1	E2F7	DOWN	Pubmed	;homo sapiens	;21248772
+SP1	SP1	UP	trrd;	hUman, Homo sapiens;	S9332;
+SP3	E2F1	DOWN	Pubmed	;homo sapiens	;18342022
+SP3	FOS	UP	Pubmed	;homo sapiens	;18342022
+SP3	JUN	UP	Pubmed	;homo sapiens	;18342022
+SP3	MYB	UP	Pubmed	;homo sapiens	;18342022
+SP3	MYC	DOWN	Pubmed	;homo sapiens; rat norvigecus	;11085504;18342022
+SP3	NF1	UP	Pubmed	;homo sapiens	;18342022
+SP4	SP1	DOWN	trrd;	mouse, Mus musculus;	S9340;
+SP5	CTNNB1	UP	Pubmed	mouse, Mus musculus; Homo sapiens	;17090534;16273202
+SP5	TCF7L2	UP	Pubmed	mouse, Mus musculus; Homo sapiens	;17090534;16273202
+SP7	RUNX2	UP	Pubmed	;mus musculus	;16574347
+SP7	SATB2	UP	Pubmed	;mus musculus	;21385070
+SPAG11B	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;12782598
+SPAG9	GLI1	UP	Pubmed	mus musculus;	;19095649
+SPG20	GLI2	UP	Pubmed	human, Homo sapiens	;14691458
+SPI1	HBP1	DOWN	Pubmed	human, Homo sapiens	;16179914;
+SPI1	RBPJ	UP	Pubmed	HUman, Homo sapiens; mus musculus	;12759431
+SPN	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;16132617
+SPP1	CREB1	UP	Pubmed	;rattus norvegicus; homo sapiens	;20587945; 21467818; 21276840; 20965237
+SPP1	CTNNB1	UP	Pubmed	mouse, Mus musculus;	;19213727
+SPP1	DLX5	UP	Pubmed	;rattus norvegicus	;20587945; 21276840; 20965237
+SPP1	EP300	UP	Pubmed	;homo sapiens	;20339243; 21467818
+SPP1	ETS1	UP	Pubmed	mouse, Mus musculus;	;16670084
+SPP1	GLI1	UP	Pubmed	human, Homo sapiens	;11719506
+SPP1	HOXA9	DOWN	Pubmed	;mus musculus	;11042172
+SPP1	JUN	UP	Pubmed	;homo sapiens	20339243; 21467818;
+SPP1	JUND	UP	Pubmed	;rattus norvegicus; homo sapiens	;20587945; 21467818; 21276840; 20965237
+SPP1	MSX2	UP	Pubmed	;homo sapiens	;21467818; 21276840; 20965237
+SPP1	NR4A2	UP	Pubmed	human, Homo sapiens; Mus musculus	;14988426
+SPP1	POU5F1	UP	Pubmed	mouse, Mus musculus;mus musculus	;9649510
+SPP1	RBPJ	UP	Pubmed	Mouse, Mus musculus;	;16195230
+SPP1	RUNX2	UP	Pubmed	;mus musculus	;16195230; 16670084
+SPP1	SMAD1	UP	Pubmed	;homo sapiens	;21467818; 21276840; 20965237
+SPP1	SMAD2	UP	Pubmed	;mus musculus	;11042172
+SPP1	SMAD3	UP	Pubmed	;mus musculus	;11042172
+SPP1	SMAD4	UP	Pubmed	;mus musculus	;11042172
+SPP1	SOX2	DOWN	Pubmed	;mus musculus	;9649510
+SPP1	VDR	UP	Pubmed	;mus musculus	;16195230
+SPRR1A	JUN	UP	trrd;	human, Homo sapiens;	S9144;
+SPRR2A	GLI2	DOWN	Pubmed	human, Homo sapiens	;14691458
+SPRR2A	SP1	UP	trrd;	hUman, Homo sapiens;	S8469;
+SPRR2A	STAT5A	UP	Pubmed	mouse, Mus musculus;	;16293640
+SPRR2A	STAT5B	UP	Pubmed	mouse, Mus musculus;	;16293640
+SPRY2	FOXO1	UP	Pubmed	mouse, Mus musculus;	;17254969
+SQLE	FOXO1	DOWN	Pubmed	mouse, Mus musculus;	;16492665;
+SQLE	SREBF1	UP	Pubmed	hUman, Homo sapiens; mus musculus	;12083769; 17027328
+SQLE	SREBF2	UP	Pubmed	hUman, Homo sapiens; mus musculus	;12083769; 17027328
+SQSTM1	CREB1	UP	Pubmed	mouse, Mus musculus;	;14973073
+SRC	RBPJ	UP	Pubmed	mus musculus;	;15979417
+SREBF1	AR	UP	Pubmed	human, Homo sapiens;	16541421;
+SREBF1	FOXO1	DOWN	Pubmed	;mus musculus	;16492665;20868688
+SREBF1	NFYA	UP	Pubmed	;rattus norvegicus	;15330762
+SREBF1	NR1H2	UP	Pubmed	human, Homo sapiens	;19258656
+SREBF1	NR1H3	UP	Pubmed	human, Homo sapiens	;19258656
+SREBF1	PPARA	DOWN	Pubmed	;mus musculus	;1273033
+SREBF1	RXRA	UP	Pubmed	HUman, Homo sapiens; Mus musculus	;11287605; 11694526; 16112614; 17531980
+SREBF1	SP1	UP	Pubmed	;rattus norvegicus	;15330762; 17449871
+SREBF1	SREBF1	UP	Pubmed	;homo sapiens	;16831124
+SREBF1	SREBF2	UP	Pubmed	;mus musculus	;10918064
+SREBF1	THRB	DOWN	Pubmed	;mus musculus	;16794015
+SREBF1	TP53	DOWN	Pubmed	;mus musculus	;12734185
+SREBF2	AR	UP	Pubmed	human, Homo sapiens;	16541421;
+SREBF2	NFYA	UP	Pubmed	;homo sapiens	;8900111
+SREBF2	SREBF2	UP	Pubmed	;homo sapiens	;8900111
+SRM	MYC	UP	Pubmed	human, Homo sapiens; rattus norvegicus	;11085504;11983916;14519204;
+SRPK2	CREB1	UP	Pubmed	mouse, Mus musculus;	;14973073
+SRSF1	MYC	UP	Pubmed	human, Homo sapiens;	;12747840
+SRSF10	CREB1	UP	Pubmed	mouse, Mus musculus;	;14973073
+SRSF2	MYC	UP	Pubmed	rat, Rattus norvegicus	;11085504
+SRSF3	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;18952824
+SRSF3	TCF7L2	UP	Pubmed	hUman, Homo sapiens;	;18952824
+SRY	NR5A1	UP	trrd;	hUman, Homo sapiens;	S8638;
+SSPO	STAT5A	UP	Pubmed	mouse, Mus musculus;	;16293640
+SSPO	STAT5B	UP	Pubmed	mouse, Mus musculus;	;16293640
+SSR3	STAT5A	UP	Pubmed	mouse, Mus musculus;	;16293640
+SSR3	STAT5B	UP	Pubmed	mouse, Mus musculus;	;16293640
+SSTR2	SMAD3	UP	Pubmed	;mus musculus	;11278805
+SSTR2	SMAD4	UP	Pubmed	;mus musculus	;11278805
+ST6GAL1	CEBPB	UP	Pubmed	;homo sapiens?	1737800;
+ST6GAL1	DBP	UP	Pubmed	;homo sapiens?	;1737800
+ST6GAL1	HNF1A	UP	Pubmed	;homo sapiens?	;1737800
+STAB1	FOXO1	UP	Pubmed	mouse, Mus musculus;	;16100571;
+STAB1	FOXO3	UP	Pubmed	mouse, Mus musculus;	;16100571;
+STAR	GATA4	UP	TRDD	mouse, Mus musculus;	S5190;
+STAR	NFYA	UP	Pubmed	;rattus norvegicus	;11861536
+STAR	NR5A1	UP	Pubmed	;rattus norvegicus	;11250933
+STAR	SP1	UP	Pubmed	human, Homo sapiens;rattus norvegicus	;11250933
+STAR	SREBF1	UP	Pubmed	;rattus norvegicus	;11861536
+STAR	SREBF2	UP	Pubmed	;rattus norvegicus	;11250933
+STAR	YY1	DOWN	Pubmed	;rattus norvegicus	;11861536; 17702849
+STARD4	SREBF2	UP	Pubmed	;mus musculus; homo sapiens	;15760897
+STARD7	CTNNB1	UP	Pubmed	mouse, Mus musculus;	;17273793
+STAT1	STAT1	UP	trrd;	hUman, Homo sapiens;	S7921;
+STAT3	CTNNB1	UP	Pubmed	human, Homo sapiens;	;18602747
+STAT3	STAT3	UP	Pubmed	mouse, Mus musculus;	;16293640
+STAT3	TCF7L2	UP	Pubmed	human, Homo sapiens;	;18602747
+STEAP4	GLI1	UP	Pubmed	mus musculus;	;19095649
+STIL	E2F1	UP	Pubmed	;homo sapiens	;18649360
+STMN2	CTNNB1	UP	Pubmed	mouse, Mus musculus; Homo sapiens	;17273793;16712787
+STXBP6	GLI1	UP	Pubmed	mus musculus;	;19095649
+SUFU	GLI1	DOWN	Pubmed	mus musculus;	;19095649
+SUMO2	MYC	UP	Pubmed	rat, Rattus norvegicus	;11085504
+SV2A	SREBF1	UP	Pubmed	hUman, Homo sapiens;	;17452746
+SYNM	GLI1	DOWN	Pubmed	human, Homo sapiens; rattus norvegicus	;18924150
+SYTL2	GLI2	DOWN	Pubmed	human, Homo sapiens	;14691458
+T	CTNNB1	UP	Pubmed	mouse, Mus musculus; Homo sapiens; rat	;15292219;16139800;14557550;12032083;18948405;12234972;15579438;10953028;14575694;10704849
+T	LEF1	UP	Pubmed	mouse, Mus musculus; Homo sapiens; rat	;15292219;16139800;14557550;12032083;18948405;12234972;15579438;10953028;14575694;10704849
+T	TCF7L2	UP	Pubmed	mouse, Mus musculus; Homo sapiens; rat	;15292219;16139800;14557550;12032083;18948405;12234972;15579438;10953028;14575694;10704849
+TAC1	CREM	DOWN	pazar	human, Homo sapiens;	;
+TAC1	NFKB1	UP	pazar	human, Homo sapiens;	pazar_pleiades_20100814;
+TAC1	RELA	UP	pazar	human, Homo sapiens;	pazar_pleiades_20100814;
+TAC2	GATA1	UP	pazar	mouse, Mus musculus;	0
+TAF11	FOXO1	UP	Pubmed	human, Homo sapiens	;18301748
+TAGLN	CTNNB1	UP	Pubmed	;mus musculus	;19344627
+TAGLN	NOTCH1	DOWN	Pubmed	mouse, Mus musculus;	;15634680
+TAGLN	RBPJ	DOWN	Pubmed	mouse, Mus musculus;	;15634680
+TAGLN	SMAD1	UP	Pubmed	;mus musculus	;12582250
+TAGLN	SMAD2	UP	Pubmed	mouse, Mus musculus;	;19344627
+TAGLN	SMAD3	UP	Pubmed	mouse, Mus musculus;	;19344627
+TAGLN	SMAD4	UP	Pubmed	;mus musculus	;12582250
+TAGLN	TCF7	UP	Pubmed	;mus musculus	;19344627
+TAGLN	TCF7L2	UP	Pubmed	;mus musculus	;19344627
+TAL1	GATA1	UP	TRDD	human, Homo sapiens	S2095;
+TAL1	GATA2	UP	pazar	human, Homo sapiens	pazar_pleiades;
+TAL1	GATA3	UP	pazar	human, Homo sapiens	pazar_pleiades;
+TAL1	SP1	UP	trrd;	mouse, Mus musculus; Homo sapiens	S2096;
+TAPBP	E2F1	DOWN	Pubmed	;mus musculus	;20663889
+TAPBP	EP300	DOWN	Pubmed	;mus musculus	;20663889
+TBX2	MITF	UP	Pubmed	human, Homo sapiens	;1999537
+TBX21	RBPJ	UP	Pubmed	Mouse, Mus musculus;	;15991363
+TBX21	YY1	DOWN	Pubmed	;homo sapiens	;21272048
+TBX3	CTNNB1	UP	Pubmed	hUman, Homo sapiens; Mus musculus	;15592430; 17283120
+TBX6	RBPJ	UP	Pubmed	Mouse, Mus musculus;	;15864811
+TBXA2R	SP1	UP	trrd;	hUman, Homo sapiens;	S6283;
+TBXAS1	TP53	DOWN	Pubmed	human, Homo sapiens;	;14586398
+TCF4	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;11943708;13679048;15806138;12086873
+TCF4	EGR1	UP	Pubmed	human, Homo sapiens	;18798221
+TCF4	FOXO1	UP	Pubmed	mouse, Mus musculus;	;17254969
+TCF4	TP53	DOWN	Pubmed	mouse, Mus musculus;	;14990988;
+TCF7	CTNNB1	UP	Pubmed	hUman, Homo sapiens; Mus musculus	;15473860;10489374
+TCF7	NOTCH1	UP	Pubmed	mouse, Mus musculus;	;15356142
+TCF7	RBPJ	UP	Pubmed	mouse, Mus musculus;	;15356142
+TCF7	TCF7L2	UP	Pubmed	hUman, Homo sapiens; Mus musculus	;15473860;10489374
+TDGF1	CTNNB1	UP	Pubmed	human, Homo sapiens;	;17291450
+TDO2	FOXO1	UP	Pubmed	mouse, Mus musculus;	;16492665;
+TEAD1	GLI2	UP	Pubmed	human, Homo sapiens	;14691458
+TERT	E2F1	DOWN	Pubmed	;homo sapiens	;11433024; 12368233
+TERT	E2F2	DOWN	Pubmed	;homo sapiens	;12368233
+TERT	E2F3	DOWN	Pubmed	;homo sapiens	;12368233
+TERT	MYC	UP	Pubmed	human, Homo sapiens;	;14519204
+TERT	SMAD3	DOWN	Pubmed	;homo sapiens	;17881189
+TERT	SP1	UP	Pubmed	human, Homo sapiens;homo sapiens	;16234237; 1236823
+TERT	TP53	DOWN	Pubmed	human, Homo sapiens;	;10778946
+TERT	TP73	DOWN	Pubmed	;homo sapiens	;16234237
+TF	NR2F1	DOWN	Pubmed	rat, Rattus norvegicus; homo sapiens	;8706718; 7610049
+TFAP2A	CREB1	DOWN	Pubmed	;mus musculus	;20805990
+TFAP2A	E2F1	DOWN	Pubmed	;mus musculus	;20805990
+TFAP2A	POU2F1	UP	NfiRegulomeDB	human, Homo sapiens;	;
+TFAP2A	TFAP2A	UP	NfiRegulomeDB	mouse, Mus musculus;	;
+TFEC	SPI1	DOWN	pazar	mouse, Mus musculus;	pazar_pleiades_20100814;
+TFPI2	JUN	UP	trrd;	human, Homo sapiens;	S9893;
+TFPI2	NFKB1	UP	Pubmed	human, Homo sapiens;	;12757776;
+TFRC	CREB1	UP	Pubmed	mouse, Mus musculus;	;14973073
+TFRC	HIF1A	UP	Pubmed	human, Homo sapiens	;10446187;
+TFRC	MYC	UP	Pubmed	human, Homo sapiens;	;14519204
+TGFA	GLI2	UP	Pubmed	human, Homo sapiens	;14691458
+TGFA	SP1	UP	trrd;	rat, Rattus norvegicus;	S4913;
+TGFA	TP53	UP	Pubmed	human, Homo sapiens;	;7651386
+TGFB1	JUN	UP	Pubmed	;homo sapiens	10843986;
+TGFB1	JUND	UP	Pubmed	human, Homo sapiens;homo sapiens	;10843986
+TGFB2	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;15579438
+TGFBI	GLI2	UP	Pubmed	human, Homo sapiens	;14691458
+TGFBR2	JUN	UP	trrd;	human, Homo sapiens;	S7862;
+TGFBR2	SP1	UP	trrd;	hUman, Homo sapiens;	S7869;
+TGM1	JUN	UP	trrd;	human, Homo sapiens;	S5303;
+TGM3	SP1	DOWN	trrd;	hUman, Homo sapiens;	S5663;
+TH	CREB1	DOWN	pazar	rat, Rattus norvegicus	pazar_pleiades_20100814;
+TH	EGR1	UP	trrd;	rat, Rattus norvegicus	S5935;
+TH	JUN	UP	trrd;	rat, Rattus norvegicus	S4012;
+THBD	SP1	UP	trrd;	hUman, Homo sapiens;	S6716;
+THBS1	CREB1	DOWN	trrd;	human, Homo sapiens;	S3897;
+THBS1	E2F1	UP	Pubmed	;homo sapiens	;20976175
+THBS1	EGR1	UP	TRED	human, Homo sapiens;	0
+THBS1	ID1	DOWN	Pubmed	mouse, Mus musculus;	;12498716
+THBS1	JUN	UP	Pubmed	;homo sapiens	15365249;
+THBS1	MYC	DOWN	Pubmed	human, Homo sapiens	;14519204
+THBS1	SP1	UP	trrd;	mouse, Mus musculus;	S5774;
+THBS1	YY1	DOWN	Pubmed	;homo sapiens	;15365249
+THRAP3	MYC	UP	Pubmed	human, Homo sapiens	;12747840;12808131;
+THRSP	SREBF1	UP	Pubmed	rAt, Rattus norvegicus	;11448969
+THRSP	SREBF2	UP	Pubmed	;rattus norvegicus	;12177166
+TIAM1	GLI1	UP	Pubmed	mus musculus;	;19095649
+TIMP1	ETS1	DOWN	trrd;	human, Homo sapiens	S6261;
+TIMP1	HIF1A	UP	Pubmed	human, Homo sapiens	;10334664;
+TIMP1	JUN	UP	trrd;	rat, Rattus norvegicus	S9640;
+TIMP1	SMAD3	UP	Pubmed	human, Homo sapiens; Mus musculus	;11279127;
+TIMP1	SP1	DOWN	trrd;	human, Homo sapiens;	S6262;
+TIMP3	FOXO1	DOWN	Pubmed	human, Homo sapiens	;16690806;
+TIMP3	GLI2	DOWN	Pubmed	human, Homo sapiens	;14691458
+TIMP3	SMAD2	UP	Pubmed	;homo sapiens	;18471442
+TIMP3	SMAD3	UP	Pubmed	;homo sapiens	;18471442
+TIMP3	SMAD4	UP	Pubmed	;homo sapiens	;18471442
+TJP1	CTNNB1	DOWN	Pubmed	hUman, Homo sapiens;	;9990071
+TK1	E2F1	UP	pazar;Pubmed	human, Homo sapiens	pazar_pleiades;11799067;
+TK1	E2F4	UP	pazar;Pubmed	human, Homo sapiens	pazar_pleiades;11799067;
+TKT	FOXO1	DOWN	Pubmed	mouse, Mus musculus;	;16492665;
+TLE1	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;12095419
+TLE4	FOXO1	UP	Pubmed	human, Homo sapiens	;12351634;
+TLE4	FOXO3	UP	Pubmed	human, Homo sapiens	;12351634;
+TLE4	MYC	UP	Pubmed	rat, Rattus norvegicus	;11085504
+TLR2	STAT5A	UP	Pubmed	mouse, Mus musculus;	;11254708;
+TLR2	STAT5B	UP	Pubmed	mouse, Mus musculus;	;11254708;
+TLX1	RBPJ	DOWN	Pubmed	mus musculus;	;15979417
+TLX2	PHOX2B	DOWN	pazar	hUman, Homo sapiens;	;
+TM7SF2	NFYA	UP	Pubmed	;homo sapiens	;20138239
+TM7SF2	SP1	UP	Pubmed	;homo sapiens	;20138239
+TM7SF2	SREBF2	UP	Pubmed	;homo sapiens	;20138239
+TMEFF2	FOXO1	UP	Pubmed	mouse, Mus musculus;	;19896444;
+TMEFF2	FOXO3	UP	Pubmed	mouse, Mus musculus;	;19896444;
+TMEM47	FOXO1	UP	Pubmed	human, Homo sapiens	;12351634;
+TMEM69	GLI1	UP	Pubmed	mus musculus;	;19095649
+TMOD1	CTNNB1	DOWN	Pubmed	hUman, Homo sapiens;	;16132617
+TNC	GLI2	UP	Pubmed	human, Homo sapiens	;14691458
+TNC	SMAD3	UP	Pubmed	human, Homo sapiens;	;15001984;
+TNC	SMAD4	UP	Pubmed	human, Homo sapiens;	;15001984;
+TNF	EGR1	UP	Pubmed	human, Homo sapiens;	;12560487
+TNF	JUN	UP	trrd;	human, Homo sapiens;	S3498;
+TNF	NFKB1	UP	Pubmed	human, Homo sapiens;	;10837498;
+TNF	RELA	UP	Pubmed	human, Homo sapiens;	;10837498;
+TNF	SP1	UP	trrd;	human, Homo sapiens;	S3503;
+TNFAIP6	GLI1	DOWN	Pubmed	mus musculus;	;19095649
+TNFAIP8	FOXO3	UP	Pubmed	human, Homo sapiens	;12351634;
+TNFRSF10A	TP53	UP	Pubmed	human, Homo sapiens;	;11313989
+TNFRSF10B	TP53	UP	pazar	human, Homo sapiens;	pazar_ABS;pazar_pleiades;
+TNFRSF10B	YY1	DOWN	Pubmed	;homo sapiens	;18778787
+TNFRSF11B	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;18676739
+TNFRSF11B	NOTCH1	UP	Pubmed	mouse, Mus musculus;	;12411305
+TNFRSF11B	RBPJ	UP	Pubmed	mouse, Mus musculus;	;12411305
+TNFRSF11B	SMAD2	UP	Pubmed	human, Homo sapiens; Mus musculus	;11451955;
+TNFRSF11B	SMAD3	UP	Pubmed	human, Homo sapiens; Mus musculus	;11451955;
+TNFRSF11B	SMAD4	UP	Pubmed	human, Homo sapiens; Mus musculus	;11451955;
+TNFRSF11B	TCF7L2	UP	Pubmed	hUman, Homo sapiens;	;18676739
+TNFRSF8	SP1	UP	trrd;	hUman, Homo sapiens;	S9329;
+TNFSF10	FOXO1	UP	Pubmed	human, Homo sapiens	;15632117;12351634;
+TNFSF10	FOXO3	UP	Pubmed	human, Homo sapiens	;12351634
+TNFSF11	E2F1	UP	Pubmed	;homo sapiens	;18381203
+TNFSF11	NOTCH1	UP	Pubmed	mouse, Mus musculus;	;12411305
+TNFSF11	RBPJ	UP	Pubmed	mouse, Mus musculus;	;12411305
+TNFSF11	RUNX2	UP	Pubmed	;mus musculus	;17967138;  21454810
+TNFSF11	SMAD1	UP	Pubmed	;mus musculus	;17967138
+TNMD	GLI1	UP	Pubmed	mus musculus;	;19095649
+TNNI2	YY1	DOWN	Pubmed	;mus musculus	;17438126
+TOB1	GLI2	DOWN	Pubmed	human, Homo sapiens	;14691458
+TOB2	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;12782598
+TOM1	CREB1	UP	Pubmed	mouse, Mus musculus;	;14973073
+TOM1	GLI1	DOWN	Pubmed	human, Homo sapiens	;11719506
+TOP1	E2F1	UP	Pubmed	human, Homo sapiens;	;7734951;
+TOP3A	USF1	UP	Pubmed	mouse, Mus musculus;homo sapiens; mus musculus	;9748294; 11327713
+TOP3A	YY1	UP	Pubmed	;homo sapiens; mus musculus	;9748294; 11327713
+TOPBP1	E2F1	UP	Pubmed	;homo sapiens	;15195143
+TOPBP1	E2F2	UP	Pubmed	;homo sapiens	;15195143
+TOPBP1	E2F3	UP	Pubmed	;homo sapiens	;15195143
+TP53	E2F1	UP	Pubmed	;homo sapiens	;12625370
+TP53	FOXO1	UP	Pubmed	mouse, Mus musculus;	;15632117;
+TP53	GLI1	UP	Pubmed	human, Homo sapiens; rattus norvegicus	;18924150
+TP53	HIF1A	UP	Pubmed	human, Homo sapiens	;12542982;15629713;
+TP53	MYC	UP	Pubmed	human, Homo sapiens;	;14519204
+TP53	NFKB1	UP	Pubmed	human, Homo sapiens;	;10348347;
+TP53	RELA	UP	Pubmed	human, Homo sapiens;	;10348347;
+TP53	SP1	DOWN	NfiRegulomeDB	hUman, Homo sapiens;	;
+TP53	TP53	UP	Pubmed	human, Homo sapiens;	;8051093
+TP53	YY1	UP	NfiRegulomeDb	hUman, Homo sapiens;	;
+TP53AIP1	TP53	UP	pazar	hUman, Homo sapiens;	pazar_pleiades;
+TP53BP1	CTNNB1	DOWN	Pubmed	human, Homo sapiens;	;16959035
+TP53BP1	TP53	DOWN	pazar	hUman, Homo sapiens;	pazar_ABS;pazar_pleiades;
+TP53BP2	E2F1	UP	Pubmed	;homo sapiens	;15731768; 15592436
+TP53BP2	E2F2	UP	Pubmed	;homo sapiens	;15731768; 15592436
+TP53BP2	E2F3	UP	Pubmed	;homo sapiens	;15731768; 15592436
+TP53I11	CTNNB1	DOWN	Pubmed	human, Homo sapiens;	;16959035
+TP53I3	TP53	UP	pazar	human, Homo sapiens;	pazar_ABS;pazar_pleiades;
+TP53INP1	TP53	UP	pazar	human, Homo sapiens;	pazar_ABS;pazar_pleiades;
+TP53TG5	TP53	UP	Pubmed	human, Homo sapiens;	;10719363
+TP63	TP53	DOWN	Pubmed	human, Homo sapiens;	;11238924
+TP73	E2F1	UP	pazar;Pubmed	human, Homo sapiens;	pazar_pleiades;11101847;
+TP73	TP53	UP	pazar	human, Homo sapiens;	pazar_ABS;pazar_pleiades;
+TP73	YY1	UP	Pubmed	;homo sapiens	;18029729
+TPD52	MYC	DOWN	Pubmed	rat, Rattus norvegicus	;11085504
+TPI1	SP1	UP	trrd;	human, Homo sapiens;	S7588;
+TPM1	MYC	DOWN	Pubmed	rat, Rattus norvegicus; homo sapiens	;14519204;11085504
+TPO	CTNNB1	DOWN	Pubmed	rAt, Rattus norvegicus	;17400807
+TPO	TCF7	DOWN	Pubmed	rAt, Rattus norvegicus	;17400807
+TPSAB1	FOS	UP	Pubmed	;mus musculus	;16730810
+TPSAB1	JUN	DOWN	Pubmed	;mus musculus	;16730810
+TPSAB1	SMAD3	UP	Pubmed	;mus musculus	;16730810
+TPSAB1	SMAD4	UP	Pubmed	;mus musculus	;16730810
+TPSB2	MITF	UP	Pubmed	;mus musculus; homo sapiens	;1999537;15451032;19067971
+TPSB2	SMAD3	UP	Pubmed	;mus musculus	;15451032
+TRA@	NOTCH1	UP	Pubmed	mouse, Mus musculus;	;9881968
+TRA@	RBPJ	UP	Pubmed	mouse, Mus musculus;	;9881968
+TRADD	FOXO1	UP	Pubmed	mouse, Mus musculus;	;15632117;
+TRAF1	FOXO1	UP	Pubmed	mouse, Mus musculus;	;15632117;
+TRAF1	NFKB1	UP	trrd	human, Homo sapiens;	S8386;
+TRAF2	FOXO1	UP	Pubmed	mouse, Mus musculus;	;15632117;
+TRAF6	FOXO1	UP	Pubmed	mouse, Mus musculus;	;15632117;
+TRAK1	MYC	UP	Pubmed	rat, Rattus norvegicus	;11085504
+TRAP1	MYC	UP	Pubmed	human, Homo sapiens	;11983916
+TRB@	NOTCH1	UP	Pubmed	mouse, Mus musculus;	;9881968;15356142
+TRB@	RBPJ	UP	Pubmed	mouse, Mus musculus;	;9881968;15356142
+TRD@	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;12782598
+TRH	THRB	DOWN	pazar	mouse, Mus musculus;	pazar_pleiades_20100814;
+TRIAP1	TP53	UP	pazar	human, Homo sapiens;	pazar_ABS;
+TRIB2	GLI1	UP	Pubmed	mus musculus;	;19095649
+TRIM22	TP53	UP	pazar	human, Homo sapiens;	pazar_ABS;pazar_pleiades;
+TRIM25	SP1	UP	trrd;	hUman, Homo sapiens;	S9089;
+TRPM1	MITF	UP	Pubmed	human, Homo sapiens	;1999537;19067971
+TRPV3	AR	UP	Pubmed	human, Homo sapiens;	17553165;
+TSC22D1	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;12782598
+TSC22D1	FOXO1	DOWN	Pubmed	mouse, Mus musculus;	;17254969
+TSC22D1	GLI1	DOWN	Pubmed	human, Homo sapiens	;11719506
+TSHR	GABPA	UP	trrd	human, Homo sapiens	S4649;
+TSPAN7	FOXO1	UP	Pubmed	mouse, Mus musculus;	;19896444;
+TSPAN7	FOXO3	UP	Pubmed	mouse, Mus musculus;	;19896444;
+TSPAN8	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;12782598
+TSPO	MYC	UP	Pubmed	human, Homo sapiens	;11983916;
+TST	GLI1	UP	Pubmed	human, Homo sapiens; rattus norvegicus	;18924150
+TTC9	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;12782598
+TTLL5	CTNNB1	UP	Pubmed	mouse, Mus musculus;	;17273793
+TTPA	JUN	UP	trrd;	mouse, Mus musculus;	S674;
+TWIST1	CTNNB1	UP	Pubmed	mouse, Mus musculus;	;12702582
+TXNIP	FOXO1	DOWN	Pubmed	human, Homo sapiens	;18301748
+TXNRD3	STAT5A	UP	Pubmed	mouse, Mus musculus;	;16293640
+TXNRD3	STAT5B	UP	Pubmed	mouse, Mus musculus;	;16293640
+TYMS	MYC	UP	Pubmed	human, Homo sapiens	;12747840;
+TYR	MITF	UP	Pubmed	human, Homo sapiens	;1999537;19067971
+TYRP1	MITF	UP	Pubmed	human, Homo sapiens	;1999537;19067971
+TYRP1	TP53	UP	Pubmed	human, Homo sapiens;	;10640990
+UBE2B	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;17050667
+UBE2B	TCF7L2	UP	Pubmed	hUman, Homo sapiens;	;17050667
+UBE2C	MYC	UP	Pubmed	human, Homo sapiens	;12747840
+UBE2S	MYC	UP	Pubmed	rat, Rattus norvegicus	;11085504
+UCHL3	GLI1	UP	Pubmed	mus musculus;	;19095649
+UCN2	MYC	UP	Pubmed	rat, Rattus norvegicus	;11085504
+UCP1	CEBPA	UP	Pubmed	rat, Rattus norvegicus;mus musculus	15762841;
+UCP1	CEBPB	UP	Pubmed	rat, Rattus norvegicus;mus musculus	15762841;
+UCP1	CEBPD	UP	Pubmed	;mus musculus	;15762841
+UGCG	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;12782598
+UGCG	GLI2	DOWN	Pubmed	human, Homo sapiens	;14691458
+UGT1A	AR	UP	Pubmed	human, Homo sapiens;	17297473;
+UGT1A	GLI2	DOWN	Pubmed	human, Homo sapiens	;14691458
+UGT1A3	AR	UP	Pubmed	homo sapiens	18677463;
+UGT1A6	HNF1A	UP	Pubmed	;rattus norvegicus	;12946651
+UGT1A7	HNF1A	UP	Pubmed	;rattus norvegicus	;10908299
+UGT1A7	HNF1B	UP	Pubmed	;rattus norvegicus	;10908299
+UGT2B7	HNF1A	UP	Pubmed	;homo sapiens	;10779377
+UGT2B7	POU2F1	UP	Pubmed	;homo sapiens	;10779377
+UGT8	ATF1	DOWN	pazar	human, Homo sapiens;	;
+ULK1	E2F1	UP	Pubmed	;homo sapiens	;18408756
+UNG	MYC	UP	Pubmed	human, Homo sapiens	;9490791
+UNG	SP1	UP	trrd;	hUman, Homo sapiens;	S2337;
+USP7	GLI1	UP	Pubmed	human, Homo sapiens	;11719506
+UTF1	POU5F1	UP	Pubmed	mouse, Mus musculus;mus musculus	;10409735
+UTF1	SOX2	UP	Pubmed	;mus musculus	;10409735
+UTRN	GABPA	UP	pazar;	human, Homo sapiens	pazar_pleiades;
+UTRN	SP1	UP	trrd;	hUman, Homo sapiens;	S7146;
+UXT	E2F6	DOWN	Pubmed	;homo sapiens	;12909625
+UXT	MYC	UP	Pubmed	human, Homo sapiens	;12747840
+VAMP2	SP1	UP	trrd;	hUman, Homo sapiens;	S8166;
+VASP	FOXO1	DOWN	Pubmed	mouse, Mus musculus;	;16100571;
+VASP	FOXO3	DOWN	Pubmed	mouse, Mus musculus;	;16100571;
+VAV2	GATA1	UP	pazar	mouse, Mus musculus;	0
+VAV3	GLI2	DOWN	Pubmed	human, Homo sapiens	;14691458
+VCAM1	NFKB1	UP	trrd	human, Homo sapiens;	S1507;
+VCAM1	RELA	UP	trrd	human, Homo sapiens;	S1507;
+VCAN	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;15579438;12095419;15668231
+VCAN	TCF7L2	UP	Pubmed	hUman, Homo sapiens;	;15579438;12095419;15668231
+VCAN	TP53	UP	Pubmed	human, Homo sapiens;	;12438652
+VDR	GLI2	DOWN	Pubmed	human, Homo sapiens	;14691458
+VEGFA	CTNNB1	UP	Pubmed	rAt, Rattus norvegicus; mus musculus; human	;16288908;12810642;18952601
+VEGFA	EGR1	UP	trrd;	human, Homo sapiens	S9419;
+VEGFA	HIF1A	UP	Pubmed	human, Homo sapiens	;19420388
+VEGFA	JUN	UP	trrd;	human, Homo sapiens;	S9634;
+VEGFA	SMAD2	UP	Pubmed	human, Homo sapiens; Mus musculus	;11486006;15188178;18952601
+VEGFA	SMAD3	UP	Pubmed	human, Homo sapiens; Mus musculus	;11486006;15188178;18952601
+VEGFA	SP1	UP	trrd;	human, Homo sapiens;	S9417;
+VEGFA	STAT3	UP	Pubmed	hUman, Homo sapiens;	;18408167
+VEGFA	TCF7	UP	Pubmed	rAt, Rattus norvegicus; mus musculus; human	;16288908;12810642;18952601
+VEGFA	TEAD1	UP	Pubmed	rAt, Rattus norvegicus; mus musculus; human	;16288908;12810642;18952601
+VEGFA	TP53	DOWN	Pubmed	hUman, Homo sapiens;	pazar_ABS; pazar_peiades;11559575
+VEGFC	CTNNB1	UP	Pubmed	mouse, Mus musculus;	;12154096
+VIM	CTNNB1	DOWN	Pubmed	hUman, Homo sapiens;	;12750294
+VIM	JUN	UP	trrd;	human, Homo sapiens;	S9403;
+VIM	NFKB1	UP	trrd	human, Homo sapiens;	S9410;
+VIM	SMAD3	UP	pazar	mouse, Mus musculus;	pazar_pleiades_20100814;
+VIM	TCF7L2	DOWN	Pubmed	hUman, Homo sapiens;	;12750294
+VIP	CEBPA	DOWN	pazar	human, Homo sapiens;	;
+VIP	CREB1	UP	pazar	human, Homo sapiens;	;
+VIP	SMAD3	UP	Pubmed	mouse, Mus musculus;	;11259431;
+VIP	SMAD4	UP	Pubmed	mouse, Mus musculus;	;11259431;
+VIP	STAT1	UP	Pubmed	hUman, Homo sapiens;	;7713908;9642274;11259431
+VIP	STAT3	UP	Pubmed	hUman, Homo sapiens;	;7713908;9642274;11259431
+VIPR1	GLI2	DOWN	Pubmed	human, Homo sapiens	;14691458
+VLDLR	GLI1	UP	Pubmed	mus musculus;	;19095649
+VWF	ETS1	UP	trrd;	human, Homo sapiens	S4707;
+VWF	GATA2	UP	pazar	human, Homo sapiens	pazar_pleiades;
+WAP	NR3C1	UP	NfiRegulomeDB	rat, Rattus norvegicus	;
+WAP	STAT5A	UP	NfiRegulomeDB	rAt, Rattus norvegicus	;
+WAP	STAT5B	UP	NfiRegulomeDB	rAt, Rattus norvegicus	;
+WBSCR28	AR	DOWN	Pubmed	human, Homo sapiens;	17624924;
+WDR61	GLI1	DOWN	Pubmed	mus musculus;	;19095649
+WIF1	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;15579438
+WISP1	CTNNB1	UP	Pubmed	mouse, Mus musculus;	; 12154096;10716946
+WISP2	CTNNB1	UP	Pubmed	mouse, Mus musculus;	;12154096
+WNT10B	RBPJ	UP	Pubmed	mus musculus;	;15979417
+WNT11	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;15592430
+WNT16	FOXO1	UP	Pubmed	human, Homo sapiens	;17609436;
+WNT4	FOXO1	UP	Pubmed	human, Homo sapiens	;17609436;
+WT1	GATA2	UP	pazar	human, Homo sapiens	pazar_pleiades;
+WT1	SP1	UP	trrd;	hUman, Homo sapiens;	S3578;
+XBP1	STAT3	UP	Pubmed	mouse, Mus musculus;	;16293640
+XRCC1	E2F1	UP	Pubmed	;? homo sapiens	;19031698
+YWHAE	MYC	UP	Pubmed	human, Homo sapiens	;11983916
+YY1	E2F1	DOWN	Pubmed	;homo sapiens	;16918502
+YY1	NFKB1	UP	Pubmed	;mus musculus	;17438126
+YY1	RELA	UP	Pubmed	;mus musculus	;17438126
+ZEB1	E2F1	UP	Pubmed	;homo sapiens	;17655524
+ZFC3H1	GLI2	DOWN	Pubmed	human, Homo sapiens	;14691458
+ZFP36	CREB1	UP	Pubmed	mouse, Mus musculus;	;14973073
+ZFP36	SMAD3	UP	Pubmed	hUman, Homo sapiens;	;12754205;
+ZFP36	SMAD4	UP	Pubmed	hUman, Homo sapiens;	;12754205;
+ZFP36L1	MYC	DOWN	Pubmed	human, Homo sapiens;	;12747840
+ZFP42	YY1	UP	Pubmed	;homo sapiens	;20232320
+ZFP42	ZFP42	UP	Pubmed	;homo sapiens	;20232320
+ZHX1	ETV4	UP	Pubmed	mouse, Mus musculus;mus musculus	;12527199
+ZHX1	YY1	UP	Pubmed	;mus musculus	;12527199
+ZNF175	ETS1	UP	Pubmed	human, Homo sapiens	;19034670
+ZNF175	FOXD3	DOWN	Pubmed	;homo sapiens	;19034670
+ZNF175	YY1	UP	Pubmed	;homo sapiens	;19034670
+ZNF350	E2F1	DOWN	Pubmed	;homo sapiens	;20713352
+ZXDB	MYC	DOWN	Pubmed	rat, Rattus norvegicus	;11085504
+ZYX	CTNNB1	UP	Pubmed	hUman, Homo sapiens;	;16132617

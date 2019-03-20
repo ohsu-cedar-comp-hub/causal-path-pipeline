@@ -1,0 +1,118 @@
+AKT1	S473	1
+AKT2	S473	1
+AKT3	S473	1
+STAT3	Y705	1
+RB1 S807    -1
+RB1 S811    -1
+EGFR    Y1068   -1
+EGFR    Y1173   1
+NFAT5	S1247	1
+NFAT5	S1367	1
+ULK1	S758	-1
+ULK1	S638	1
+RBL1	T369	-1
+FYN	Y420	1
+CD247	Y123	1
+CD247	Y83	1
+CD247	Y142	1
+CD247	Y111	1
+BRAF	S419	-1
+BRAF	T151	-1
+BRAF	S151	-1
+BRAF	T401	-1
+BRAF	S750	-1
+BRAF	T753	-1
+# From Joe Aslan
+NCK2	Y110	1
+PAK2	S19	1
+PAK2	S20	1
+PAK2	S197	1
+PLCB3	S537	1
+PRKCD	S304	1
+PRKCQ	T219	1
+SYK	S297	1
+# https://www.frontiersin.org/articles/10.3389/fimmu.2012.00197/full
+PRKCQ	S685	1
+# https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4945138/
+ROCK1	S1333	-1
+ROCK1	T1334	-1
+ROCK1	T1337	-1
+ROCK1	S1341	-1
+# https://www.ncbi.nlm.nih.gov/pubmed/22327338?dopt=Abstract
+NCK1	Y105	-1
+# http://www.jbc.org/content/278/40/38495.long
+CBL	Y674	1
+# http://pathwaycommons.org/pc2/Catalysis_170c460a109773f017b39f7b402bf6d0
+GAB1	Y627	1
+# https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2708738/
+KSR1	T274	-1
+# https://www.ncbi.nlm.nih.gov/pubmed/17603046?dopt=Abstract
+PRKCD	S302	1
+PRKCD	Y313	1
+# http://pathwaycommons.org/pc2/ComplexAssembly_b4d6b0a5e6ed2b67745e64f0dfc2357c
+SHC1	Y349	1
+SHC1	Y350	1
+SHC1	Y427	1
+# https://www.ncbi.nlm.nih.gov/pubmed/22827337?dopt=Abstract
+SOS1	S1134	-1
+# PhosphoSitePlus web site says it is activating
+TEC	Y519	1
+# http://pathwaycommons.org/pc2/Catalysis_5b9709a641b3c761ecaa8142a1725209
+FCER1G	Y65	1
+FCER1G	Y76	1
+# http://pathwaycommons.org/pc2/Control_a5b201dba0cb5ec97f610e6079ab51ea
+NFATC2	S217	-1
+NFATC2	S221	-1
+NFATC2	S274	-1
+NFATC2	S180	-1
+NFATC2	S268	-1
+NFATC2	S171	-1
+NFATC2	S172	-1
+NFATC2	S175	-1
+NFATC2	S110	-1
+NFATC2	S177	-1
+NFATC2	S213	-1
+NFATC2	S174	-1
+NFATC2	S326	-1
+NFATC2	S276	-1
+#NFATC2	S56	1
+#NFATC2	S53	1
+#NFATC2	S243	1
+# http://pathwaycommons.org/pc2/Catalysis_061c1df92a38bcd021fba95e0dc802bd
+NFATC1	S299	-1
+NFATC1	S286	-1
+NFATC1	S290	-1
+NFATC1	S282	-1
+NFATC1	S233	-1
+NFATC1	S278	-1
+NFATC1	S237	-1
+# http://identifiers.org/reactome/R-HSA-8849085;http://pathwaycommons.org/pc2/Catalysis_858422ef1af5ef4cc2df0baf7cf5f177
+ARHGAP35	Y1105	1
+# https://www.nature.com/articles/cddis2017507
+EPHA7	Y791	1
+# https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3042843/
+FYN	Y213	-1
+# https://www.ncbi.nlm.nih.gov/pmc/articles/PMC125747/
+GRB2	Y209	-1
+# https://www.ncbi.nlm.nih.gov/pubmed/24751539
+VCL	Y822	1
+# https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2706532/
+PTK2	Y570	1
+# https://www.ncbi.nlm.nih.gov/pmc/articles/PMC110637/
+SHC1	Y315	1
+# https://www.ncbi.nlm.nih.gov/pubmed/21169560
+TNK2	Y827	1
+# http://jcs.biologists.org/content/joces/128/16/3155.full.pdf
+CAMK1	Y363	1
+# http://www.uniprot.org/uniprot/P00533#ptm_processing
+EGFR	T693	-1
+# https://www.ncbi.nlm.nih.gov/pubmed/28638064
+DPYSL2	T514	-1
+# http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0071035
+SRC	Y527	-1
+# https://www.ncbi.nlm.nih.gov/pubmed/10421574
+PKCB	S660	1
+# https://www.uniprot.org/uniprot/P17252
+PRKCA	T497	1
+PRKCA	T638	1
+PRKCA	S657	1

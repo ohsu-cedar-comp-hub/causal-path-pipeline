@@ -14,6 +14,7 @@ permutations = snakemake.params.perm
 fdr = snakemake.params.fdr
 site_match = snakemake.params.site_match
 site_effect = snakemake.params.site_effect
+ds_thresh = snakemake.params.ds_thresh
 
 
 transform, type_,cond = snakemake.output[0].split('/')[1:-1]
