@@ -1,0 +1,29 @@
+$schema: "http://json-schema.org/draft-06/schema#"
+
+description: snakemake configuration file
+
+type: object
+
+properties:
+    meta:
+        type: string
+    condition:
+        type: string
+    phos_prot:
+        type: string
+    perm:
+        type: integer
+    fdr:
+        type: float
+    site_match:
+        type: integer
+    site_effect:
+        type: integer
+    ds_thresh:
+        type: float
+
+required:
+    - meta
+    - condition
+    - phos_prot
+
