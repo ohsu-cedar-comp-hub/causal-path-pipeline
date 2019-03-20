@@ -1,5 +1,5 @@
 meta:
-    /home/users/estabroj/cedar_rds/causal_workflow/phospho_circ/data/merged_meta.txt 
+    /absolute/path/to/meta-data-file.txt
 
 # Column in {meta} to generate contrasts and correlation based networks 
 condition:
@@ -7,7 +7,7 @@ condition:
 
 #  Phosphoproteomic dataset of columns [ID, Symbols, Sites, Effect, sample1, sample2, etc]
 phos_prot:
-    /home/users/estabroj/cedar_rds/causal_workflow/phospho_circ/data/phospho_prot.txt
+    /absolute/path/to/phosphoproteomic-data-file.txt
 
 # permutations-for-significance : This parameter indicates the number of randomizations to perform. Recommended value: 1000
 perm:
