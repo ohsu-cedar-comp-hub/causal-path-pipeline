@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/ohsu-cedar-comp-hub/causal-path-pipeline.svg?branch=master)](https://travis-ci.com/ohsu-cedar-comp-hub/causal-path-pipeline)
+[![Snakemake](https://img.shields.io/badge/snakemake-≥5.2.1-brightgreen.svg)](https://snakemake.bitbucket.io) [![Build Status](https://travis-ci.com/ohsu-cedar-comp-hub/causal-path-pipeline.svg?branch=master)](https://travis-ci.com/ohsu-cedar-comp-hub/causal-path-pipeline)
 # causal-path-pipeline
 This is a tool for pathway analysis of proteomic and phosphoproteomic datasets. CausalPath aims to identify mechanistic pathway relations that can explain observed correlations in experiments
 
