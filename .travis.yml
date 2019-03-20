@@ -17,8 +17,7 @@ install:
   - conda config --add channels conda-forge
   - conda config --add channels bioconda
   # create snakemake env
-  - conda create -q -n snakemake snakemake python=$TRAVIS_PYTHON_VERSION
-  # add additional stuff to setup below
+  - conda create -q -n snakemake snakemake>=5.1.2 python=$TRAVIS_PYTHON_VERSION openjdk
 
 script:
   - source activate snakemake
