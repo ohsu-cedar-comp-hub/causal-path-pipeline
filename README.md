@@ -1,6 +1,5 @@
 # causal-path-pipeline
-A computational method to generate causal explanations for proteomic profiles using prior mechanistic knowledge in the literature, as recorded in cellular pathway maps. This is a tool for pathway analysis of proteomic and phosphoproteomic datasets. 
-CausalPath aims to identify mechanistic pathway relations that can explain observed correlations in experiments
+This is a tool for pathway analysis of proteomic and phosphoproteomic datasets. CausalPath aims to identify mechanistic pathway relations that can explain observed correlations in experiments
 
 
 ## Authors
