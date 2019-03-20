@@ -1,6 +1,11 @@
 # causal-path-pipeline
 This is a tool for pathway analysis of proteomic and phosphoproteomic datasets. CausalPath aims to identify mechanistic pathway relations that can explain observed correlations in experiments
 
+Additional information about CausalPath can be found [here]
+(https://github.com/PathwayAndDataAnalysis/causalpath) 
+A work-in-progress manuscript describing this method is available [here]
+(https://www.biorxiv.org/content/10.1101/258855v2)
+
 ## Usage
 
 ### Step 1: Install workflow
