@@ -1,0 +1,49 @@
+{
+    "__default__" :
+    {
+        "t" : "35:00:00",
+        "N" : 1,
+        "partition" : "exacloud",
+        "J" : "{rule}.%j",
+        "o" : "logs/__default__/{rule}_%j.out",
+        "e" : "logs/__default__/{rule}_%j.err",
+        "c" : 1,
+        "mem" : 50000
+    },
+    "generate_contrast_data_files":
+    {
+        "J" : "generate_contrast_data_files",
+        "e" : "logs/{rule}/{wildcards.transform}_{wildcards.type}_{wildcards.cond}_%j.err",
+        "o" : "logs/{rule}/{wildcards.transform}_{wildcards.type}_{wildcards.cond}_%j.out",
+        "c" : 1,
+        "t" : "1:00:00",
+        "mem" : 1000
+    },
+    "generate_correlation_data_files" :
+    {
+        "J" : "generate_correlation_data_files",
+        "e" : "logs/{rule}/{wildcards.condition}_%j.err",
+        "o" : "logs/{rule}/{wildcards.condition}_%j.out",
+        "c" : 1,
+        "t" : "1:00:00",
+        "mem" : 1000
+    },
+    "run_causal_path" :
+    {
+        "J" : "run_causal_path",
+        "e" : "logs/{rule}/{wildcards.transform}_{wildcards.type}_{wildcards.cond}_%j.err",
+        "o" : "logs/{rule}/{wildcards.transform}_{wildcards.type}_{wildcards.cond}_%j.out",
+        "c" : 1,
+        "t" : "10:00:00",
+        "mem" : 5000
+    },
+    "run_causal_path_correlation" :
+    {
+        "J" : "run_causal_path_correlation",
+        "e" : "logs/{rule}/{wildcards.condition}_%j.err",
+        "o" : "logs/{rule}/{wildcards.condition}_%j.out",
+        "c" : 1,
+        "t" : "10:00:00",
+        "mem" : 5000
+    }
+}
