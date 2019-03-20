@@ -11,7 +11,6 @@ import os
 import pandas as pd
 import json
 from itertools import combinations
-from pylab import *
 
 configfile:"omic_config.yaml"
 meta_data = pd.read_csv(config['meta'],sep='\t',index_col=0)
