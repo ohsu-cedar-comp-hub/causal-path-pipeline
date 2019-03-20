@@ -2,9 +2,9 @@ This causalpath.jar was generated 3/18/2019 @ 15:38 from git commit: https://git
 
 The following commands were used to generate causalpath.jar
 
-`
+```
 git pull https://github.com/PathwayAndDataAnalysis/causalpath.git
 cd causalpath
 mvn clean install
 mvn assembly:single
-`
+```
