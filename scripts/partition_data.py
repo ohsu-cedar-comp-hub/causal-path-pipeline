@@ -1,4 +1,4 @@
-from utils import ensure_dir, generate_data_files, generate_proteomics_data, generate_parameter_file
+from utils import ensure_dir, generate_data_files, generate_proteomics_data, generate_parameter_file, generate_rna_data
 import pandas as pd
 import os
 from itertools import combinations
@@ -16,16 +16,21 @@ fdr = snakemake.params.fdr
 site_match = snakemake.params.site_match
 site_effect = snakemake.params.site_effect
 ds_thresh = snakemake.params.ds_thresh
+rna_file = snakemake.params.rna_file
 
-
-transform, type_,cond = snakemake.output[0].split('/')[1:-1]
-relnm = os.path.join(*[os.getcwd(),'results',transform, type_, cond])
+transform, ctype, cond = snakemake.output[0].split('/')[1:-1]
+relnm = os.path.join(*[os.getcwd(),'results',transform, ctype, cond])
 ensure_dir(relnm)
 kwargs = {condition_id:list(map(str,cond.split('_')))}
 
 sub_data, baseline, contrast = generate_data_files(phospho_prot, meta, condition_id, **kwargs)
-#sub_data = sub_data[~(sub_data == 'NaN').any(axis=1)]
 
 generate_proteomics_data(sub_data, relnm)
-generate_parameter_file(relnm=relnm, test_samps=contrast, control_samps=baseline, value_transformation=transform, fdr_threshold=fdr, site_match = site_match, site_effect=site_effect, permutations=permutations)
+
+if rna_file != None:
+    rna_frame = pd.read_csv(rna_file,sep='\t',index_col=0)
+    sub_rna = rna_frame.reindex(sub_data.columns,axis=1).iloc[:,4:]
+    generate_rna_data(sub_rna, relnm)
+
+generate_parameter_file(relnm, contrast, baseline, ctype, transform, fdr, site_match, site_effect, permutations)
 

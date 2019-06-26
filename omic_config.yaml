@@ -9,9 +9,12 @@ condition:
 phos_prot:
     /home/groups/CEDAR/estabroj/experiments/causal-path-pipeline/data/phospho_prot_robust_z_new.txt
 
+rna_file:
+    /home/groups/CEDAR/estabroj/experiments/causal-path-pipeline/data/expression_file.txt
+
 # permutations-for-significance : This parameter indicates the number of randomizations to perform. Recommended value: 1000
 perm:
-    10000
+    100
 
 # fdr-threshold-for-data-significance : The false discovery rate for network significance calculations for the downstream activity enrichment of genes. 
 fdr:

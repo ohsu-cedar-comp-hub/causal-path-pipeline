@@ -15,9 +15,18 @@ def generate_proteomics_data(sub_data, relnm):
     sub_data = sub_data.fillna('NaN')
     sub_col_data = sub_data.loc[:,sub_cols].replace('NaN','')
     joined = pd.concat([sub_col_data,sub_data.iloc[:,3:]],axis=1)
-    #joined = joined[~(joined == 'NaN').any(axis=1)]
     joined.to_csv(path_or_buf=os.path.join(relnm, 'ProteomicsData.txt'),sep='\t')
 
+
+def generate_rna_data(rna_data, relnm):
+    """ Write out RNAseq data to accompany phosphoproteomic data
+
+    Args:
+        rna_data (:obj: `pandas DataFrame`) : pandas DataFrame containing processed phospho data
+        relnm (str): out path for analysis files
+    """
+    rna_data.to_csv(path_or_buf=os.path.join(relnm, 'rna_file.txt'), sep='\t')
+    
 
 def generate_data_files(phospho_prot, merged_meta, condition, **kwargs):
     """ Subset and index phosphoproteomic data to generate a comparison using two factor levels in the condition
@@ -42,7 +51,6 @@ def generate_data_files(phospho_prot, merged_meta, condition, **kwargs):
     post_rx = subset_meta[(subset_meta[condition] == kwargs[condition][1])].index
     sub_data = phospho_prot.loc[:, samps_idx]
     sub_data.loc[:,samps].fillna('NaN',inplace=True)
-    #sub_data = sub_data[~(sub_data == 'NaN').any(axis=1)]
     sub_data.set_index('ID',inplace=True)
     
     return sub_data, pre_rx, post_rx
@@ -91,8 +99,8 @@ def ensure_dir(relnm):
         os.makedirs(d)
 
 
-def generate_parameter_file(relnm, test_samps, control_samps, value_transformation = 'significant-change-of-mean',
-                            fdr_threshold = '0.1', ds_thresh='2.0', site_match = '1', site_effect = '1', permutations=10000):
+def generate_parameter_file(relnm, test_samps, control_samps, ctype, value_transformation = 'significant-change-of-mean',
+                            fdr_threshold = '0.1', ds_thresh='1.0', site_match = '5', site_effect = '5', permutations=1000):
     """ Generate the required CausalPath input parameters file that associates the ProteomicsData file with the
         parameters for the analysis
 
@@ -115,13 +123,13 @@ def generate_parameter_file(relnm, test_samps, control_samps, value_transformati
         out_f.write(v + '\n')
 
     if value_transformation == 'significant-change-of-mean':
-        sig_dif_mean_params(out_f, test_samps, control_samps, panda_out, value_transformation, fdr_threshold = fdr_threshold, site_match = site_match, site_effect = site_effect, permutations = permutations)
+        sig_dif_mean_params(out_f, test_samps, control_samps, panda_out, value_transformation, fdr_threshold = fdr_threshold, site_match = site_match, site_effect = site_effect, permutations = permutations, ctype = ctype)
 
     if value_transformation == 'difference-of-means':
-        dif_mean_params(out_f, test_samps, control_samps, panda_out, value_transformation, fdr_threshold = fdr_threshold, ds_thresh = ds_thresh, site_match = site_match, site_effect = site_effect, permutations = permutations)        
+        dif_mean_params(out_f, test_samps, control_samps, panda_out, value_transformation, fdr_threshold = fdr_threshold, ds_thresh = ds_thresh, site_match = site_match, site_effect = site_effect, permutations = permutations, ctype = ctype)        
     
     if value_transformation == 'fold-change-of-mean':
-        fc_mean_params(out_f, test_samps, control_samps, panda_out, value_transformation, fdr_threshold = fdr_threshold, ds_thresh = ds_thresh, site_match = site_match, site_effect = site_effect, permutations = permutations)        
+        fc_mean_params(out_f, test_samps, control_samps, panda_out, value_transformation, fdr_threshold = fdr_threshold, ds_thresh = ds_thresh, site_match = site_match, site_effect = site_effect, permutations = permutations, ctype = ctype)        
 
     if value_transformation == 'correlation':
         correlation_params(out_f, control_samps, panda_out, value_transformation, fdr_threshold = fdr_threshold, site_match = site_match, site_effect = site_effect, permutations = permutations)
@@ -131,7 +139,7 @@ def generate_parameter_file(relnm, test_samps, control_samps, value_transformati
 
 
 def sig_dif_mean_params(out_f, test_samps, control_samps, panda_out, value_transformation = 'significant-change-of-mean',
-                        fdr_threshold = '0.1', site_match = '5', site_effect = '5', permutations=10000):
+                        fdr_threshold = '0.1', site_match = '5', site_effect = '5', permutations=1000, ctype=None):
     """ Generate the required CausalPath input parameters file that associates the ProteomicsData file with the
         parameters for the analysis
 
@@ -160,6 +168,13 @@ def sig_dif_mean_params(out_f, test_samps, control_samps, panda_out, value_trans
     out_f.write('show-insignificant-data = false' + '\n')
     out_f.write('use-network-significance-for-causal-reasoning = true' + '\n')
     out_f.write('custom-resource-directory = {}'.format(panda_out) + '\n')
+    if ctype == 'protein_rna':
+        out_f.write('data-type-for-expressional-targets = rna' + '\n')
+        out_f.write('data-type-for-expressional-targets = protein' + '\n')
+        out_f.write('rna-expression-file = rna_file.txt' + '\n')
+    if ctype == 'rna_only':
+        out_f.write('data-type-for-expressional-targets = rna' + '\n')
+        out_f.write('rna-expression-file = rna_file.txt' + '\n') 
     for c in control_samps:
         out_f.write('control-value-column = ' + c + '\n')
     for t in test_samps:
@@ -201,6 +216,13 @@ def dif_mean_params(out_f, test_samps, control_samps, panda_out, value_transform
     out_f.write('show-insignificant-data = false' + '\n')
     #out_f.write('use-network-significance-for-causal-reasoning = true' + '\n')
     out_f.write('custom-resource-directory = {}'.format(panda_out) + '\n')
+    if ctype == 'protein_rna':
+        out_f.write('data-type-for-expressional-targets = rna' + '\n')
+        out_f.write('data-type-for-expressional-targets = protein' + '\n')
+        out_f.write('rna-expression-file = rna_file.txt' + '\n')
+    if ctype == 'rna_only':
+        out_f.write('data-type-for-expressional-targets = rna' + '\n')
+        out_f.write('rna-expression-file = rna_file.txt' + '\n')
     for c in control_samps:
         out_f.write('control-value-column = ' + c + '\n')
     for t in test_samps:
@@ -242,6 +264,13 @@ def fc_mean_params(out_f, test_samps, control_samps, panda_out, value_transforma
     out_f.write('show-insignificant-data = false' + '\n')
     #out_f.write('use-network-significance-for-causal-reasoning = true' + '\n')
     out_f.write('custom-resource-directory = {}'.format(panda_out) + '\n')
+    if ctype == 'protein_rna':
+        out_f.write('data-type-for-expressional-targets = rna' + '\n')
+        out_f.write('data-type-for-expressional-targets = protein' + '\n')
+        out_f.write('rna-expression-file = rna_file.txt' + '\n')
+    if ctype == 'rna_only':
+        out_f.write('data-type-for-expressional-targets = rna' + '\n')
+        out_f.write('rna-expression-file = rna_file.txt' + '\n')
     for c in control_samps:
         out_f.write('control-value-column = ' + c + '\n')
     for t in test_samps:
