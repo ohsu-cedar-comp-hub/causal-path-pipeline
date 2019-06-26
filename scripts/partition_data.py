@@ -5,6 +5,8 @@ from itertools import combinations
 
 meta_file = snakemake.params.meta
 meta = pd.read_csv(meta_file,sep='\t',index_col=0)
+meta = meta.astype(str)
+
 
 phospho_prot_file = snakemake.params.phospho_prot
 phospho_prot = pd.read_csv(phospho_prot_file,sep='\t').drop_duplicates()

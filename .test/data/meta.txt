@@ -1,8 +1,8 @@
 	phosphoID	Time	Phase	protID
-CT0-1	Intensity CT0-1	'0'	phase1	Ratio Normalized CT0-Rep1
-CT0-2	Intensity CT0-2	'0'	phase1	Ratio Normalized CT0-Rep2
-CT0-3	Intensity CT0-3	'0'	phase1	Ratio Normalized CT0-Rep3
-CT3-1	Intensity CT3-1	'3'	phase1	Ratio Normalized CT3-Rep1
-CT3-2	Intensity CT3-2	'3'	phase1	Ratio Normalized CT3-Rep2
-CT3-3	Intensity CT3-3	'3'	phase1	Ratio Normalized CT3-Rep3
-CT3-4	Intensity CT3-4	'3'	phase1	Ratio Normalized CT3-Rep4
+CT0-1	Intensity CT0-1	0	phase1	Ratio Normalized CT0-Rep1
+CT0-2	Intensity CT0-2	0	phase1	Ratio Normalized CT0-Rep2
+CT0-3	Intensity CT0-3	0	phase1	Ratio Normalized CT0-Rep3
+CT3-1	Intensity CT3-1	3	phase1	Ratio Normalized CT3-Rep1
+CT3-2	Intensity CT3-2	3	phase1	Ratio Normalized CT3-Rep2
+CT3-3	Intensity CT3-3	3	phase1	Ratio Normalized CT3-Rep3
+CT3-4	Intensity CT3-4	3	phase1	Ratio Normalized CT3-Rep4
