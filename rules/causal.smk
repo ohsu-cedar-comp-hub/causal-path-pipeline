@@ -8,7 +8,8 @@ rule generate_contrast_data_files:
         fdr = config['fdr'],
         site_match = config['site_match'],
         site_effect = config['site_effect'],
-        ds_thresh = config['ds_thresh']
+        ds_thresh = config['ds_thresh'],
+        rna_file = config['rna_file']
     output:
         "results/{transform}/{type}/{cond}/ProteomicsData.txt",
         "results/{transform}/{type}/{cond}/parameters.txt"
