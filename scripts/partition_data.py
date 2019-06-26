@@ -23,7 +23,7 @@ rna_file = snakemake.params.rna_file
 transform, ctype, cond = snakemake.output[0].split('/')[1:-1]
 relnm = os.path.join(*[os.getcwd(),'results',transform, ctype, cond])
 ensure_dir(relnm)
-kwargs = {condition_id:list(map(str,cond.split('_')))}
+kwargs = {condition_id:cond.split('_')}
 
 sub_data, baseline, contrast = generate_data_files(phospho_prot, meta, condition_id, **kwargs)
 
