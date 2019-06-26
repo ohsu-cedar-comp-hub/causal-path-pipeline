@@ -10,9 +10,13 @@ def generate_proteomics_data(sub_data, relnm):
         relnm (str): out path for analysis files
 
     """
-
-    sub_data.iloc[:, 4:] = sub_data.iloc[:, 4:].fillna('NaN')
-    sub_data.to_csv(path_or_buf=os.path.join(relnm, 'ProteomicsData.txt'),sep='\t')
+    print('Generating proteomics data')
+    sub_cols = ['Symbols','Sites','Effect']
+    sub_data = sub_data.fillna('NaN')
+    sub_col_data = sub_data.loc[:,sub_cols].replace('NaN','')
+    joined = pd.concat([sub_col_data,sub_data.iloc[:,3:]],axis=1)
+    #joined = joined[~(joined == 'NaN').any(axis=1)]
+    joined.to_csv(path_or_buf=os.path.join(relnm, 'ProteomicsData.txt'),sep='\t')
 
 
 def generate_data_files(phospho_prot, merged_meta, condition, **kwargs):
@@ -32,12 +36,15 @@ def generate_data_files(phospho_prot, merged_meta, condition, **kwargs):
     print(kwargs)
     print('Generating contrast based analysis files')
     subset_meta = merged_meta[merged_meta[condition].isin(kwargs[condition])]
+    samps = subset_meta.index.tolist()
     samps_idx = ['ID','Symbols','Sites','Effect'] + subset_meta.index.tolist()
     pre_rx = subset_meta[(subset_meta[condition] == kwargs[condition][0])].index
     post_rx = subset_meta[(subset_meta[condition] == kwargs[condition][1])].index
     sub_data = phospho_prot.loc[:, samps_idx]
+    sub_data.loc[:,samps].fillna('NaN',inplace=True)
+    #sub_data = sub_data[~(sub_data == 'NaN').any(axis=1)]
     sub_data.set_index('ID',inplace=True)
-
+    
     return sub_data, pre_rx, post_rx
 
 
@@ -56,10 +63,12 @@ def generate_data_files_causal(phospho_prot, merged_meta, condition, **kwargs):
     print(kwargs)
     print('Generating correlation based analysis files')
     subset_meta = merged_meta[merged_meta[condition].isin(kwargs[condition])]
+    samps = subset_meta.index.tolist()
     samps_idx = ['ID','Symbols','Sites','Effect'] + subset_meta.index.tolist()
     pre_rx = subset_meta[(subset_meta[condition] == kwargs[condition][0])].index
     post_rx = None 
     sub_data = phospho_prot.loc[:, samps_idx]
+    sub_data.loc[:,samps].fillna('NaN',inplace=True)
     sub_data.set_index('ID',inplace=True)
     
     return sub_data, pre_rx, post_rx
@@ -83,7 +92,7 @@ def ensure_dir(relnm):
 
 
 def generate_parameter_file(relnm, test_samps, control_samps, value_transformation = 'significant-change-of-mean',
-                            fdr_threshold = '0.1', ds_thresh='1.0', site_match = '5', site_effect = '5', permutations=1000):
+                            fdr_threshold = '0.1', ds_thresh='2.0', site_match = '1', site_effect = '1', permutations=10000):
     """ Generate the required CausalPath input parameters file that associates the ProteomicsData file with the
         parameters for the analysis
 
@@ -122,7 +131,7 @@ def generate_parameter_file(relnm, test_samps, control_samps, value_transformati
 
 
 def sig_dif_mean_params(out_f, test_samps, control_samps, panda_out, value_transformation = 'significant-change-of-mean',
-                        fdr_threshold = '0.1', site_match = '5', site_effect = '5', permutations=1000):
+                        fdr_threshold = '0.1', site_match = '5', site_effect = '5', permutations=10000):
     """ Generate the required CausalPath input parameters file that associates the ProteomicsData file with the
         parameters for the analysis
 
@@ -145,7 +154,7 @@ def sig_dif_mean_params(out_f, test_samps, control_samps, panda_out, value_trans
     out_f.write('minimum-sample-size = 3' + '\n')
     out_f.write('calculate-network-significance = true' + '\n')
     out_f.write('permutations-for-significance = {}'.format(permutations) + '\n')
-    out_f.write('color-saturation-value = 2' + '\n')
+    out_f.write('color-saturation-value = 10' + '\n')
     out_f.write('site-match-proximity-threshold = {}'.format(site_match) + '\n')
     out_f.write('site-effect-proximity-threshold = {}'.format(site_effect) + '\n')
     out_f.write('show-insignificant-data = false' + '\n')
@@ -184,13 +193,13 @@ def dif_mean_params(out_f, test_samps, control_samps, panda_out, value_transform
     out_f.write('threshold-for-data-significance = {} phosphoprotein'.format(ds_thresh) + '\n')
     out_f.write('value-transformation = {}'.format(value_transformation) + '\n')
     out_f.write('minimum-sample-size = 3' + '\n')
-    out_f.write('calculate-network-significance = true' + '\n')
-    out_f.write('permutations-for-significance = {}'.format(permutations) + '\n')
-    out_f.write('color-saturation-value = 2' + '\n')
+    #out_f.write('calculate-network-significance = true' + '\n')
+    #out_f.write('permutations-for-significance = {}'.format(permutations) + '\n')
+    out_f.write('color-saturation-value = 10' + '\n')
     out_f.write('site-match-proximity-threshold = {}'.format(site_match) + '\n')
     out_f.write('site-effect-proximity-threshold = {}'.format(site_effect) + '\n')
     out_f.write('show-insignificant-data = false' + '\n')
-    out_f.write('use-network-significance-for-causal-reasoning = true' + '\n')
+    #out_f.write('use-network-significance-for-causal-reasoning = true' + '\n')
     out_f.write('custom-resource-directory = {}'.format(panda_out) + '\n')
     for c in control_samps:
         out_f.write('control-value-column = ' + c + '\n')
@@ -201,7 +210,7 @@ def dif_mean_params(out_f, test_samps, control_samps, panda_out, value_transform
 
 
 def fc_mean_params(out_f, test_samps, control_samps, panda_out, value_transformation = 'fold-change-of-mean',
-                        fdr_threshold = '0.1', ds_thresh='1.0', site_match = '5', site_effect = '5', permutations=1000):
+                        fdr_threshold = '0.1', ds_thresh='2.0', site_match = '5', site_effect = '5', permutations=1000):
     """ Generate the required CausalPath input parameters file that associates the proteomic data file with the
         parameters for the analysis
 
@@ -225,13 +234,13 @@ def fc_mean_params(out_f, test_samps, control_samps, panda_out, value_transforma
     out_f.write('threshold-for-data-significance = {} phosphoprotein'.format(ds_thresh) + '\n')
     out_f.write('value-transformation = {}'.format(value_transformation) + '\n')
     out_f.write('minimum-sample-size = 3' + '\n')
-    out_f.write('calculate-network-significance = true' + '\n')
-    out_f.write('permutations-for-significance = {}'.format(permutations) + '\n')
-    out_f.write('color-saturation-value = 2' + '\n')
+    #out_f.write('calculate-network-significance = true' + '\n')
+    #out_f.write('permutations-for-significance = {}'.format(permutations) + '\n')
+    out_f.write('color-saturation-value = 10' + '\n')
     out_f.write('site-match-proximity-threshold = {}'.format(site_match) + '\n')
     out_f.write('site-effect-proximity-threshold = {}'.format(site_effect) + '\n')
     out_f.write('show-insignificant-data = false' + '\n')
-    out_f.write('use-network-significance-for-causal-reasoning = true' + '\n')
+    #out_f.write('use-network-significance-for-causal-reasoning = true' + '\n')
     out_f.write('custom-resource-directory = {}'.format(panda_out) + '\n')
     for c in control_samps:
         out_f.write('control-value-column = ' + c + '\n')

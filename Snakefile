@@ -10,13 +10,13 @@ import sys
 import os
 import pandas as pd
 import json
-from itertools import combinations
+from itertools import permutations
 
 configfile:"omic_config.yaml"
 meta_data = pd.read_csv(config['meta'],sep='\t',index_col=0)
 condition = list(map(str,meta_data.loc[:,config['condition']].unique().tolist()))
-combs = list(combinations(condition,2))
-comb_list = ['_'.join(x) for x in combs][:4]
+combs = list(permutations(condition,2))
+comb_list = ['_'.join(x) for x in combs]
 
 timestamp = ('{:%Y-%m-%d_%H:%M:%S}'.format(datetime.datetime.now()))
 
@@ -37,7 +37,7 @@ def message(mes):
 
 
 value_transformation = ['significant-change-of-mean','difference-of-means','fold-change-of-mean']
-data_type = ['protein_only','protein_rna','rna_only']
+data_type = ['protein_only']
 
 rule all:
     input:

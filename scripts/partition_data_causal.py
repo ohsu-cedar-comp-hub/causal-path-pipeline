@@ -18,9 +18,10 @@ phospho_prot = pd.read_csv(phospho_prot_file,sep='\t')
 correlation, cond = snakemake.output[0].split('/')[1:-1]
 causal_relnm = os.path.join(*[os.getcwd(),'results', 'correlation', cond])
 ensure_dir(causal_relnm)
-kwargs = {condition_id:list(map(int,[cond]))}
+kwargs = {condition_id:list(map(str,[cond]))}
 print(kwargs)
+
 sub_data, baseline, contrast = generate_data_files_causal(phospho_prot, meta, condition_id, **kwargs)
 generate_proteomics_data(sub_data, causal_relnm)
-generate_parameter_file(causal_relnm, contrast, baseline, 'correlation', fdr, site_match, site_effect, permutations)
+generate_parameter_file(relnm=causal_relnm, test_samps=contrast, control_samps=baseline, value_transformation='correlation', fdr_threshold=fdr, site_match=site_match, site_effect=site_effect, permutations=permutations)
 
