@@ -299,7 +299,7 @@ def correlation_params(out_f, control_samps, panda_out, value_transformation = '
             downstream is enriched
 
     """
-
+    print(control_samps)
     out_f.write('fdr-threshold-for-correlation = {}'.format(fdr_threshold) + '\n')
     out_f.write('generate-data-centric-graph = true' + '\n')
     out_f.write('show-insignificant-data = false' + '\n')

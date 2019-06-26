@@ -5,6 +5,7 @@ from itertools import combinations
 
 meta_file = snakemake.params.meta
 meta = pd.read_csv(meta_file,sep='\t',index_col=0)
+meta = meta.astype(str)
 
 condition_id = snakemake.params.condition
 permutations = snakemake.params.perm
