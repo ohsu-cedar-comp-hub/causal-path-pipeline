@@ -37,7 +37,7 @@ def message(mes):
 
 
 value_transformation = ['significant-change-of-mean','difference-of-means','fold-change-of-mean']
-data_type = ['protein_only']
+data_type = ['protein_only','protein_rna','rna_only']
 
 rule all:
     input:
