@@ -133,9 +133,6 @@ def generate_parameter_file(relnm, test_samps, control_samps, ctype, value_trans
 
     if value_transformation == 'correlation':
         correlation_params(out_f, control_samps, panda_out, value_transformation, fdr_threshold = fdr_threshold, site_match = site_match, site_effect = site_effect, permutations = permutations)
-    else:
-        print('value_transformation : {} not supported'.format(value_transformation))
-        sys.exit()
 
 
 def sig_dif_mean_params(out_f, test_samps, control_samps, panda_out, value_transformation = 'significant-change-of-mean',

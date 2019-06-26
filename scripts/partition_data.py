@@ -34,7 +34,7 @@ if rna_file != None:
     rna_frame = pd.read_csv(rna_file,sep='\t',index_col=0)
     print('total RNAseq expression matrix of shape {},{}'.format(rna_frame.shape[0],rna_frame.shape[1]))
     print(rna_frame.head())
-    sub_rna = rna_frame.reindex(sub_data.columns,axis=1).iloc[:,4:]
+    sub_rna = rna_frame.reindex(sub_data.columns,axis=1).iloc[:,3:]
     print(sub_rna.head())
     generate_rna_data(sub_rna, relnm)
 
