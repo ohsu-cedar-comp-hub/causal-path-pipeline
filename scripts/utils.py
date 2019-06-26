@@ -169,9 +169,11 @@ def sig_dif_mean_params(out_f, test_samps, control_samps, panda_out, value_trans
         out_f.write('data-type-for-expressional-targets = rna' + '\n')
         out_f.write('data-type-for-expressional-targets = protein' + '\n')
         out_f.write('rna-expression-file = rna_file.txt' + '\n')
+        out_f.write('fdr-threshold-for-data-significance = {} rna'.format(fdr_threshold) + '\n')
     if ctype == 'rna_only':
         out_f.write('data-type-for-expressional-targets = rna' + '\n')
-        out_f.write('rna-expression-file = rna_file.txt' + '\n') 
+        out_f.write('rna-expression-file = rna_file.txt' + '\n')
+        out_f.write('fdr-threshold-for-data-significance = {} rna'.format(fdr_threshold) + '\n') 
     for c in control_samps:
         out_f.write('control-value-column = ' + c + '\n')
     for t in test_samps:
@@ -217,9 +219,11 @@ def dif_mean_params(out_f, test_samps, control_samps, panda_out, value_transform
         out_f.write('data-type-for-expressional-targets = rna' + '\n')
         out_f.write('data-type-for-expressional-targets = protein' + '\n')
         out_f.write('rna-expression-file = rna_file.txt' + '\n')
+        out_f.write('threshold-for-data-significance = {} rna'.format(ds_thresh) + '\n')
     if ctype == 'rna_only':
         out_f.write('data-type-for-expressional-targets = rna' + '\n')
         out_f.write('rna-expression-file = rna_file.txt' + '\n')
+        out_f.write('threshold-for-data-significance = {} rna'.format(ds_thresh) + '\n')
     for c in control_samps:
         out_f.write('control-value-column = ' + c + '\n')
     for t in test_samps:
@@ -265,9 +269,11 @@ def fc_mean_params(out_f, test_samps, control_samps, panda_out, value_transforma
         out_f.write('data-type-for-expressional-targets = rna' + '\n')
         out_f.write('data-type-for-expressional-targets = protein' + '\n')
         out_f.write('rna-expression-file = rna_file.txt' + '\n')
+        out_f.write('threshold-for-data-significance = {} rna'.format(ds_thresh) + '\n')
     if ctype == 'rna_only':
         out_f.write('data-type-for-expressional-targets = rna' + '\n')
         out_f.write('rna-expression-file = rna_file.txt' + '\n')
+        out_f.write('threshold-for-data-significance = {} rna'.format(ds_thresh) + '\n')
     for c in control_samps:
         out_f.write('control-value-column = ' + c + '\n')
     for t in test_samps:
