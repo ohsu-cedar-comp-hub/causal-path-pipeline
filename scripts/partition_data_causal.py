@@ -23,5 +23,5 @@ print(kwargs)
 
 sub_data, baseline, contrast = generate_data_files_causal(phospho_prot, meta, condition_id, **kwargs)
 generate_proteomics_data(sub_data, causal_relnm)
-generate_parameter_file(relnm=causal_relnm, test_samps=contrast, control_samps=baseline, value_transformation='correlation', fdr_threshold=fdr, site_match=site_match, site_effect=site_effect, permutations=permutations)
+generate_parameter_file(relnm=causal_relnm, test_samps=contrast, control_samps=baseline, value_transformation='correlation', fdr_threshold=fdr, site_match=site_match, site_effect=site_effect, permutations=permutations,ctype='correlation')
 
