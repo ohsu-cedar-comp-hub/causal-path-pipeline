@@ -184,7 +184,7 @@ def sig_dif_mean_params(out_f, test_samps, control_samps, panda_out, value_trans
 
 
 def dif_mean_params(out_f, test_samps, control_samps, panda_out, value_transformation = 'difference-of-means',
-                        fdr_threshold = '0.1', ds_thresh='1.0', site_match = '5', site_effect = '5', permutations=1000):
+                        fdr_threshold = '0.1', ds_thresh='1.0', site_match = '5', site_effect = '5', permutations=1000,ctype=None):
     """ Generate the required CausalPath input parameters file that associates the proteomic data file with the
         parameters for the analysis
 
@@ -232,7 +232,7 @@ def dif_mean_params(out_f, test_samps, control_samps, panda_out, value_transform
 
 
 def fc_mean_params(out_f, test_samps, control_samps, panda_out, value_transformation = 'fold-change-of-mean',
-                        fdr_threshold = '0.1', ds_thresh='2.0', site_match = '5', site_effect = '5', permutations=1000):
+                        fdr_threshold = '0.1', ds_thresh='2.0', site_match = '5', site_effect = '5', permutations=1000,ctype=None):
     """ Generate the required CausalPath input parameters file that associates the proteomic data file with the
         parameters for the analysis
 
