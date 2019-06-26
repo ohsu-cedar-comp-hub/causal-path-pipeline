@@ -30,8 +30,13 @@ sub_data, baseline, contrast = generate_data_files(phospho_prot, meta, condition
 generate_proteomics_data(sub_data, relnm)
 
 if rna_file != None:
+    print('Incorporating RNAseq into causal relations')
+
     rna_frame = pd.read_csv(rna_file,sep='\t',index_col=0)
+    print('total RNAseq expression matrix of shape {},{}'.format(rna_frame.shape[0],rna_frame.shape[1])
+    print(rna_frame.head())
     sub_rna = rna_frame.reindex(sub_data.columns,axis=1).iloc[:,4:]
+    print(sub_rna.head())
     generate_rna_data(sub_rna, relnm)
 
 generate_parameter_file(relnm, contrast, baseline, ctype, transform, fdr, site_match, site_effect, permutations)
