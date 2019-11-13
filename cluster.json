@@ -8,7 +8,7 @@
         "o" : "logs/__default__/{rule}_%j.out",
         "e" : "logs/__default__/{rule}_%j.err",
         "c" : 1,
-        "mem" : 50000
+        "mem" : 5000
     },
     "generate_contrast_data_files":
     {

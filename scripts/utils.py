@@ -50,6 +50,10 @@ def generate_data_files(phospho_prot, merged_meta, condition, **kwargs):
     pre_rx = subset_meta[(subset_meta[condition] == kwargs[condition][0])].index
     post_rx = subset_meta[(subset_meta[condition] == kwargs[condition][1])].index
     sub_data = phospho_prot.loc[:, samps_idx]
+    ### adding dropna
+    print(sub_data.shape)
+    sub_data = sub_data.dropna(thresh=7)
+    print(sub_data.shape)
     sub_data.loc[:,samps].fillna('NaN',inplace=True)
     sub_data.set_index('ID',inplace=True)
     
@@ -156,14 +160,17 @@ def sig_dif_mean_params(out_f, test_samps, control_samps, panda_out, value_trans
     out_f.write('fdr-threshold-for-data-significance = {} protein'.format(fdr_threshold) + '\n')
     out_f.write('fdr-threshold-for-data-significance = {} phosphoprotein'.format(fdr_threshold) + '\n')
     out_f.write('value-transformation = {}'.format(value_transformation) + '\n')
-    out_f.write('minimum-sample-size = 3' + '\n')
+    #out_f.write('minimum-sample-size = 3' + '\n')
     out_f.write('calculate-network-significance = true' + '\n')
     out_f.write('permutations-for-significance = {}'.format(permutations) + '\n')
     out_f.write('color-saturation-value = 10' + '\n')
     out_f.write('site-match-proximity-threshold = {}'.format(site_match) + '\n')
     out_f.write('site-effect-proximity-threshold = {}'.format(site_effect) + '\n')
-    out_f.write('show-insignificant-data = false' + '\n')
-    out_f.write('use-network-significance-for-causal-reasoning = true' + '\n')
+    #out_f.write('show-insignificant-data = false' + '\n')
+    # K mode
+    out_f.write('relation-filter-type = no-filter' + '\n')
+    out_f.write('pool-proteomics-for-fdr-adjustment = false'+ '\n')
+    #out_f.write('use-network-significance-for-causal-reasoning = true' + '\n')
     out_f.write('custom-resource-directory = {}'.format(panda_out) + '\n')
     if ctype == 'protein_rna':
         out_f.write('data-type-for-expressional-targets = rna' + '\n')

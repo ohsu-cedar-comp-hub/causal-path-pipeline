@@ -13,7 +13,7 @@ phospho_prot = pd.read_csv(phospho_prot_file,sep='\t').drop_duplicates()
 phospho_prot.ID = phospho_prot.ID.str.upper()
 
 condition_id = snakemake.params.condition
-permutations = snakemake.params.perm
+permutations = snakemake.params.permutations
 fdr = snakemake.params.fdr
 site_match = snakemake.params.site_match
 site_effect = snakemake.params.site_effect
@@ -38,5 +38,5 @@ if rna_file != None:
     print(sub_rna.head())
     generate_rna_data(sub_rna, relnm)
 
-generate_parameter_file(relnm, contrast, baseline, ctype, transform, fdr, site_match, site_effect, permutations)
+generate_parameter_file(ds_thresh=ds_thresh, relnm=relnm, test_samps=contrast, control_samps=baseline, ctype=ctype, value_transformation=transform, fdr_threshold=fdr, site_match=site_match, site_effect=site_effect, permutations=permutations)
 

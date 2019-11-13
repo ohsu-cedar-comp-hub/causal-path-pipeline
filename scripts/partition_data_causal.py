@@ -8,7 +8,7 @@ meta = pd.read_csv(meta_file,sep='\t',index_col=0)
 meta = meta.astype(str)
 
 condition_id = snakemake.params.condition
-permutations = snakemake.params.perm
+permutations = snakemake.params.permutations
 fdr = snakemake.params.fdr
 site_match = snakemake.params.site_match
 site_effect = snakemake.params.site_effect

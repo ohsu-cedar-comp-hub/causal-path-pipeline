@@ -4,7 +4,7 @@ rule generate_contrast_data_files:
         meta = config['meta'],
         phospho_prot = config['phos_prot'],
         condition = config['condition'],
-        perm = config['perm'],
+        permutations = config['permutations'],
         fdr = config['fdr'],
         site_match = config['site_match'],
         site_effect = config['site_effect'],
@@ -22,7 +22,7 @@ rule generate_correlation_data_files:
         meta = config['meta'],
         phospho_prot = config['phos_prot'],
         condition = config['condition'],
-        perm = config['perm'],
+        permutations = config['permutations'],
         fdr = config['fdr'],
         site_match = config['site_match'],
         site_effect = config['site_effect']
