@@ -13,7 +13,7 @@ rna_file:
     data/rna.txt
 
 # permutations-for-significance : This parameter indicates the number of randomizations to perform. Recommended value: 1000
-perm:
+permutations:
     10
 
 # fdr-threshold-for-data-significance : The false discovery rate for network significance calculations for the downstream activity enrichment of genes. 
